@@ -18,6 +18,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 ROOT = Path(__file__).parent
+CONFIG = ROOT / 'config' if (ROOT / 'config' / 'sources.yaml').exists() else ROOT
 STATE = ROOT / 'state'; STATE.mkdir(exist_ok=True)
 OVERRIDES = STATE / 'overrides.json'
 
@@ -41,7 +42,7 @@ _names = None
 def zh_name(domain):
     global _names
     if _names is None:
-        p = ROOT / 'source_names.yaml'
+        p = CONFIG / 'source_names.yaml'
         _names = yaml.safe_load(open(p, encoding='utf-8')) if p.exists() else {}
     return _names.get(domain, '')
 
@@ -111,7 +112,7 @@ def stats():
     entries = latest_entries()
     sel = [e for e in entries if e['final_selected']]
     ov = sum(1 for e in entries if e['override'])
-    cfg = yaml.safe_load(open(ROOT / 'sources.yaml', encoding='utf-8'))
+    cfg = yaml.safe_load(open(CONFIG / 'sources.yaml', encoding='utf-8'))
     reports = sorted(glob.glob(str(ROOT / 'output' / 'fetch_report_*.json')))
     last = json.load(open(reports[-1])) if reports else {}
     real_failed = sum(1 for f in last.get('failures', []) if not str(f.get('error', '')).startswith('empty-feed'))
@@ -131,7 +132,7 @@ def stats():
 
 @app.get('/api/sources')
 def sources():
-    cfg = yaml.safe_load(open(ROOT / 'sources.yaml', encoding='utf-8'))
+    cfg = yaml.safe_load(open(CONFIG / 'sources.yaml', encoding='utf-8'))
     disabled = set()
     if (STATE / 'disabled_sources.json').exists():
         disabled = set(json.loads((STATE / 'disabled_sources.json').read_text()))
@@ -161,12 +162,12 @@ class NewSource(BaseModel):
 
 @app.post('/api/sources')
 def add_source(s: NewSource):
-    cfg = yaml.safe_load(open(ROOT / 'sources.yaml', encoding='utf-8'))
+    cfg = yaml.safe_load(open(CONFIG / 'sources.yaml', encoding='utf-8'))
     if any(x['domain'] == s.domain for x in cfg['sources']):
         return {'ok': False, 'msg': '已存在'}
     feed = s.feed or f'https://{s.domain}/feed'
     cfg['sources'].append({'domain': s.domain, 'bookmarks': 0, 'feed': feed, 'via': s.via})
-    yaml.safe_dump(cfg, open(ROOT / 'sources.yaml', 'w', encoding='utf-8'),
+    yaml.safe_dump(cfg, open(CONFIG / 'sources.yaml', 'w', encoding='utf-8'),
                    allow_unicode=True, sort_keys=False)
     return {'ok': True}
 

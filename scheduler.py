@@ -19,7 +19,10 @@ import yaml
 
 from fetch import UA, entry_ts, MAX_AGE_HOURS
 
-ROOT = Path(__file__).parent
+# 根目录解析：脚本在根目录或 scripts/ 子目录均可运行；配置优先读 config/ 子目录
+_here = Path(__file__).resolve().parent
+ROOT = _here if (_here / 'sources.yaml').exists() or (_here / 'config' / 'sources.yaml').exists() else _here.parent
+CONFIG = ROOT / 'config' if (ROOT / 'config' / 'sources.yaml').exists() else ROOT
 STATE = ROOT / 'state'; STATE.mkdir(exist_ok=True)
 POLL_STATE = STATE / 'poll_state.json'
 SEEN = STATE / 'seen.json'
@@ -134,7 +137,10 @@ def run_round(sources, poll, force_all=False):
                   'failures': failures}
         (OUT / f'fetch_report_{ts}.json').write_text(json.dumps(report, ensure_ascii=False, indent=1))
         # 立即跑筛选，与抓取批次配对
-        subprocess.run([sys.executable, str(ROOT / 'filter.py'), str(ep)], cwd=ROOT,
+        filter_script = ROOT / 'filter.py'
+        if not filter_script.exists():
+            filter_script = ROOT / 'scripts' / 'filter.py'
+        subprocess.run([sys.executable, str(filter_script), str(ep)], cwd=ROOT,
                        capture_output=True)
     elif failures:
         # 没新内容也留一份报告，刷新信源健康状态
@@ -147,7 +153,7 @@ def run_round(sources, poll, force_all=False):
     return len(due), len(new_entries)
 
 def main():
-    cfg = yaml.safe_load(open(ROOT / 'sources.yaml', encoding='utf-8'))
+    cfg = yaml.safe_load(open(CONFIG / 'sources.yaml', encoding='utf-8'))
     disabled = set(load_json(STATE / 'disabled_sources.json', []))
     sources = [s for s in cfg['sources'] if s['domain'] not in disabled]
     poll = load_json(POLL_STATE, {})

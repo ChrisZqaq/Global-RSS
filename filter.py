@@ -7,7 +7,11 @@ from pathlib import Path
 
 import yaml
 
-RULES_PATH = Path(__file__).parent / 'filter_rules.yaml'
+# 根目录解析：脚本在根目录或 scripts/ 子目录均可运行；配置优先读 config/ 子目录
+_here = Path(__file__).resolve().parent
+ROOT = _here if (_here / 'filter_rules.yaml').exists() or (_here / 'config' / 'filter_rules.yaml').exists() else _here.parent
+CONFIG = ROOT / 'config' if (ROOT / 'config' / 'filter_rules.yaml').exists() else ROOT
+RULES_PATH = CONFIG / 'filter_rules.yaml'
 
 def load_rules():
     r = yaml.safe_load(open(RULES_PATH, encoding='utf-8'))
@@ -55,7 +59,13 @@ def is_flash(e, src_route=''):
     return None
 
 def main():
-    path = sys.argv[1] if len(sys.argv) > 1 else sorted(glob.glob('output/entries_*.jsonl'))[-1]
+    if len(sys.argv) > 1:
+        path = sys.argv[1]
+    else:
+        files = sorted(glob.glob(str(ROOT / 'output' / 'entries_*.jsonl')))
+        if not files:
+            sys.exit('没有找到抓取批次（output/entries_*.jsonl），请先运行 fetch.py 或 scheduler.py')
+        path = files[-1]
     entries = [json.loads(l) for l in open(path, encoding='utf-8') if l.strip()]
     picked, dropped = [], []
     for e in entries:
@@ -68,7 +78,7 @@ def main():
             picked.append(e)
         else:
             dropped.append((e, reason or 'off-topic'))
-    out = path.replace('entries_', 'filtered_')
+    out = str(path).replace('entries_', 'filtered_')
     with open(out, 'w', encoding='utf-8') as f:
         for e in picked:
             f.write(json.dumps(e, ensure_ascii=False) + '\n')

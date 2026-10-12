@@ -7,6 +7,11 @@ from pathlib import Path
 import feedparser
 import yaml
 
+# 根目录解析：脚本在根目录或 scripts/ 子目录均可运行；配置优先读 config/ 子目录
+_here = Path(__file__).resolve().parent
+ROOT = _here if (_here / 'sources.yaml').exists() or (_here / 'config' / 'sources.yaml').exists() else _here.parent
+CONFIG = ROOT / 'config' if (ROOT / 'config' / 'sources.yaml').exists() else ROOT
+
 CTX = ssl.create_default_context()
 CTX.check_hostname = False
 CTX.verify_mode = ssl.CERT_NONE
@@ -54,14 +59,14 @@ def fetch_one(src, timeout=12):
         return src, [], f'{type(ex).__name__}: {str(ex)[:80]}'
 
 def main():
-    cfg = yaml.safe_load(open('sources.yaml', encoding='utf-8'))
+    cfg = yaml.safe_load(open(CONFIG / 'sources.yaml', encoding='utf-8'))
     sources = cfg['sources']
     only = sys.argv[1] if len(sys.argv) > 1 else None  # 'native' 只跑原生
     if only:
         sources = [s for s in sources if s['via'] == only]
 
     results, failures = [], []
-    out_dir = Path('output'); out_dir.mkdir(exist_ok=True)
+    out_dir = ROOT / 'output'; out_dir.mkdir(exist_ok=True)
     t0 = time.time()
     with cf.ThreadPoolExecutor(30) as ex:
         futs = {ex.submit(fetch_one, s): s for s in sources}
@@ -76,7 +81,7 @@ def main():
                 print(f'  {i}/{len(sources)}', flush=True)
 
     # ---- 增量去重：用 state/seen.json 记住已见过的条目，只输出新增的 ----
-    state_dir = Path('state'); state_dir.mkdir(exist_ok=True)
+    state_dir = ROOT / 'state'; state_dir.mkdir(exist_ok=True)
     seen_path = state_dir / 'seen.json'
     seen = json.loads(seen_path.read_text()) if seen_path.exists() else {}
     now = time.time()
