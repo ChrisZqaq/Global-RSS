@@ -1,0 +1,825 @@
+{
+ "go": [],
+ "yna": [
+  {
+   "path": "/:lang?/:channel?",
+   "name": "News",
+   "example": "/yna/en/national"
+  }
+ ],
+ "ftchinese": [
+  {
+   "path": "/:language/:channel?",
+   "name": "FT 中文网",
+   "example": "/ftchinese/simplified/hotstoryby7day"
+  }
+ ],
+ "cankaoxiaoxi": [],
+ "nber": [
+  {
+   "path": "/papers",
+   "name": "All Papers",
+   "example": "/nber/papers"
+  },
+  {
+   "path": "/new",
+   "name": "New Papers",
+   "example": "/nber/new"
+  }
+ ],
+ "ft": [
+  {
+   "path": "/myft/:key",
+   "name": "myFT personal RSS",
+   "example": "/ft/myft/rss-key"
+  }
+ ],
+ "hk01": [
+  {
+   "path": "/channel/:id?",
+   "name": "子栏目",
+   "example": "/hk01/channel/391"
+  },
+  {
+   "path": "/hot",
+   "name": "热门",
+   "example": "/hk01/hot"
+  },
+  {
+   "path": "/issue/:id?",
+   "name": "专题",
+   "example": "/hk01/issue/649"
+  },
+  {
+   "path": "/latest",
+   "name": "即時",
+   "example": "/hk01/latest"
+  },
+  {
+   "path": "/tag/:id?",
+   "name": "标签",
+   "example": "/hk01/tag/2787"
+  },
+  {
+   "path": "/zone/:id?",
+   "name": "栏目",
+   "example": "/hk01/zone/11"
+  }
+ ],
+ "wired": [
+  {
+   "path": "/tag/:tag",
+   "name": "Tags",
+   "example": "/wired/tag/facebook"
+  }
+ ],
+ "openai": [
+  {
+   "path": "/chatgpt-atlas/release-notes",
+   "name": "ChatGPT Atlas - Release Notes",
+   "example": "/openai/chatgpt-atlas/release-notes"
+  },
+  {
+   "path": "/chatgpt/release-notes",
+   "name": "ChatGPT - Release Notes",
+   "example": "/openai/chatgpt/release-notes"
+  },
+  {
+   "path": "/cookbook",
+   "name": "Cookbook",
+   "example": "/openai/cookbook"
+  },
+  {
+   "path": "/news",
+   "name": "News",
+   "example": "/openai/news"
+  },
+  {
+   "path": "/research",
+   "name": "Research",
+   "example": "/openai/research"
+  }
+ ],
+ "abc": [
+  {
+   "path": "/:category{.+}?",
+   "name": "Channel & Topic",
+   "example": "/abc/wa"
+  }
+ ],
+ "qq": [],
+ "wsj": [
+  {
+   "path": "/:lang/:category?",
+   "name": "News",
+   "example": "/wsj/en-us/opinion"
+  }
+ ],
+ "jpmorganchase": [
+  {
+   "path": "/",
+   "name": "Research Topics",
+   "example": "/jpmorganchase"
+  }
+ ],
+ "nikkei": [
+  {
+   "path": "/index",
+   "name": "Home",
+   "example": "/nikkei/index"
+  },
+  {
+   "path": "/news/:category/:article_type?",
+   "name": "News",
+   "example": "/nikkei/news/news"
+  }
+ ],
+ "google": [
+  {
+   "path": "/album/:id",
+   "name": "Public Albums",
+   "example": "/google/album/msFFnAzKmQmWj76EA"
+  },
+  {
+   "path": "/alerts/:keyword",
+   "name": "Alerts",
+   "example": "/google/alerts/RSSHub"
+  },
+  {
+   "path": "/arts-and-culture",
+   "name": "Arts & Culture featured stories",
+   "example": "/google/arts-and-culture"
+  },
+  {
+   "path": "/citations/:id",
+   "name": "Scholar Author Citations",
+   "example": "/google/citations/mlmE4JMAAAAJ"
+  },
+  {
+   "path": "/developers/:locale?",
+   "name": "Developers Blog",
+   "example": "/google/developers/en"
+  },
+  {
+   "path": "/doodles/:language?",
+   "name": "Update",
+   "example": "/google/doodles/zh-CN"
+  },
+  {
+   "path": "/chrome/extension/:id",
+   "name": "Extension Update",
+   "example": "/google/chrome/extension/kefjpfngnndepjbopdmoebkipbgkggaa"
+  },
+  {
+   "path": "/fonts/:sort?",
+   "name": "GOOGLE_FONTS_API_KEY",
+   "example": "/google/fonts/date"
+  },
+  {
+   "path": "/jules/changelog",
+   "name": "Jules Changelog",
+   "example": "/google/jules/changelog"
+  },
+  {
+   "path": "/news/:category/:locale",
+   "name": "News",
+   "example": "/google/news/Top stories/hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "path": "/play/:id/:lang?",
+   "name": "Play Store Update",
+   "example": "/google/play/net.dinglisch.android.taskerm"
+  },
+  {
+   "path": "/research",
+   "name": "Research Blog",
+   "example": "/google/research"
+  },
+  {
+   "path": "/scholar/:query",
+   "name": "Scholar Keywords Monitoring",
+   "example": "/google/scholar/data+visualization"
+  },
+  {
+   "path": "/search/:keyword/:language?",
+   "name": "Search",
+   "example": "/google/search/rss/zh-CN,zh"
+  }
+ ],
+ "hbr": [
+  {
+   "path": "/topic/:topic?/:type?",
+   "name": "Topic",
+   "example": "/hbr/topic/Leadership/Popular"
+  }
+ ],
+ "zsxq": [
+  {
+   "path": "/group/:id/:scope?",
+   "name": "星球",
+   "example": "/zsxq/group/88855458825252"
+  },
+  {
+   "path": "/user/:id",
+   "name": "用户足迹",
+   "example": "/zsxq/user/2414218251"
+  }
+ ],
+ "gisreportsonline": [
+  {
+   "path": "/:path{.+}?",
+   "name": "报告",
+   "example": "/gisreportsonline/gis/c/security-challenges/"
+  }
+ ],
+ "guancha": [
+  {
+   "path": "/headline",
+   "name": "头条",
+   "example": "/guancha/headline"
+  },
+  {
+   "path": "/:category?",
+   "name": "首页",
+   "example": "/guancha"
+  },
+  {
+   "path": "/member/:category?",
+   "name": "观学院",
+   "example": "/guancha/member/recommend"
+  },
+  {
+   "path": "/personalpage/:uid",
+   "name": "个人主页文章",
+   "example": "/guancha/personalpage/243983"
+  },
+  {
+   "path": "/topic/:id/:order?",
+   "name": "风闻话题",
+   "example": "/guancha/topic/110/1"
+  }
+ ],
+ "medium": [
+  {
+   "path": "/feed/:user",
+   "name": "Medium Feed",
+   "example": "/medium/feed/zhgchgli"
+  },
+  {
+   "path": "/following/:user",
+   "name": "MEDIUM_COOKIE_*",
+   "example": "/medium/following/imsingee"
+  },
+  {
+   "path": "/for-you/:user",
+   "name": "MEDIUM_COOKIE_*",
+   "example": "/medium/for-you/imsingee"
+  },
+  {
+   "path": "/list/:user/:catalogId",
+   "name": "List",
+   "example": "/medium/list/imsingee/f2d8d48096a9"
+  },
+  {
+   "path": "/tag/:user/:tag",
+   "name": "MEDIUM_COOKIE_*",
+   "example": "/medium/tag/imsingee/cybersecurity"
+  }
+ ],
+ "rfi": [
+  {
+   "path": "/:path{.+}?",
+   "name": "Generic News",
+   "example": "/rfi"
+  }
+ ],
+ "manus": [
+  {
+   "path": "/blog",
+   "name": "Blog",
+   "example": "/manus/blog"
+  }
+ ],
+ "mit": [
+  {
+   "path": "/hanlab/blog",
+   "name": "HAN Lab Blog",
+   "example": "/mit/hanlab/blog"
+  },
+  {
+   "path": "/ocw-top",
+   "name": "OpenCourseWare Most visited courses of the month",
+   "example": "/mit/ocw-top"
+  },
+  {
+   "path": "/oge/:type?/:name?",
+   "name": "Filter value, can be found in the filter URL of the blog page, e.g. `electrical-engineering-and-computer-science` in `https://oge.mit.edu/news-and-events/blog/?_sft_department=electrical-engineering-and-computer-science`",
+   "example": "/mit/oge/department/electrical-engineering-and-computer-science"
+  }
+ ],
+ "swissinfo": [
+  {
+   "path": "/:language?/:category?",
+   "name": "Category",
+   "example": "/swissinfo/eng/latest-news"
+  }
+ ],
+ "yomiuri": [
+  {
+   "path": "/:category?",
+   "name": "News",
+   "example": "/yomiuri/news"
+  }
+ ],
+ "afr": [
+  {
+   "path": "/latest",
+   "name": "Latest",
+   "example": "/afr/latest"
+  },
+  {
+   "path": "/navigation/:path{.+}",
+   "name": "Navigation",
+   "example": "/afr/navigation/markets"
+  }
+ ],
+ "cna": [
+  {
+   "path": "/:id?",
+   "name": "分类",
+   "example": "/cna/aall"
+  }
+ ],
+ "bcg": [
+  {
+   "path": "/search/:params?",
+   "name": "Search",
+   "example": "/bcg/search/f5=00000171-f12e-d394-ab73-f3ef7fc10000&f7=00000171-f17b-d394-ab73-f3fbae0d0000&f3=00000172-0efd-d58d-a97a-5eff51730077"
+  }
+ ],
+ "163": [
+  {
+   "path": "/ds/:id",
+   "name": "用户发帖",
+   "example": "/163/ds/63dfbaf4117741daaf73404601165843"
+  },
+  {
+   "path": "/dy/:id",
+   "name": "更新",
+   "example": "/163/dy/W4983108759592548559"
+  },
+  {
+   "path": "/dy2/:id",
+   "name": "网易号（通用）",
+   "example": "/163/dy2/T1555591616739"
+  },
+  {
+   "path": "/exclusive/:id?",
+   "name": "栏目",
+   "example": "/163/exclusive/qsyk"
+  },
+  {
+   "path": "/renjian/:category?",
+   "name": "人间",
+   "example": "/163/renjian/texie"
+  },
+  {
+   "path": "/today/:need_content?",
+   "name": "今日关注",
+   "example": "/163/today"
+  }
+ ],
+ "kyodonews": [
+  {
+   "path": "/:language?/:keyword?",
+   "name": "最新报道",
+   "example": "/kyodonews"
+  }
+ ],
+ "caixin": [
+  {
+   "path": "/article",
+   "name": "首页新闻",
+   "example": "/caixin/article"
+  },
+  {
+   "path": "/blog/:column?",
+   "name": "用户博客",
+   "example": "/caixin/blog/zhangwuchang"
+  },
+  {
+   "path": "/:column/:category",
+   "name": "新闻分类",
+   "example": "/caixin/finance/regulation"
+  },
+  {
+   "path": "/database",
+   "name": "财新数据通",
+   "example": "/caixin/database"
+  },
+  {
+   "path": "/k",
+   "name": "财新一线",
+   "example": "/caixin/k"
+  },
+  {
+   "path": "/latest",
+   "name": "最新文章",
+   "example": "/caixin/latest"
+  },
+  {
+   "path": "/weekly",
+   "name": "财新周刊",
+   "example": "/caixin/weekly"
+  }
+ ],
+ "wto": [
+  {
+   "path": "/dispute-settlement/:year?",
+   "name": "Dispute settlement news",
+   "example": "/wto/dispute-settlement"
+  }
+ ],
+ "mittrchina": [
+  {
+   "path": "/:type?",
+   "name": "首页",
+   "example": "/mittrchina/index"
+  }
+ ],
+ "caus": [
+  {
+   "path": "/:category?",
+   "name": "分类",
+   "example": "/caus"
+  }
+ ],
+ "semiconductors": [
+  {
+   "path": "/:category{.+}?",
+   "name": "Latest News",
+   "example": "/semiconductors/news-events/latest-news"
+  }
+ ],
+ "tass": [
+  {
+   "path": "/:category?",
+   "name": "News",
+   "example": "/tass/politics"
+  }
+ ],
+ "coindesk": [
+  {
+   "path": "/consensus-magazine",
+   "name": "新闻周刊",
+   "example": "/coindesk/consensus-magazine"
+  },
+  {
+   "path": "/news",
+   "name": "News",
+   "example": "/coindesk/news"
+  }
+ ],
+ "ainvest": [
+  {
+   "path": "/article",
+   "name": "Latest Article",
+   "example": "/ainvest/article"
+  },
+  {
+   "path": "/news",
+   "name": "Latest News",
+   "example": "/ainvest/news"
+  }
+ ],
+ "thepaper": [
+  {
+   "path": "/channel/:id",
+   "name": "频道",
+   "example": "/thepaper/channel/25950"
+  },
+  {
+   "path": "/factpaper/:status?",
+   "name": "明查",
+   "example": "/thepaper/factpaper"
+  },
+  {
+   "path": "/featured",
+   "name": "首页头条",
+   "example": "/thepaper/featured"
+  },
+  {
+   "path": "/gov/:pphId",
+   "name": "政务号",
+   "example": "/thepaper/gov/63850"
+  },
+  {
+   "path": "/list/:id",
+   "name": "栏目",
+   "example": "/thepaper/list/25457"
+  },
+  {
+   "path": "/sidebar/:sec?",
+   "name": "侧边栏",
+   "example": "/thepaper/sidebar"
+  },
+  {
+   "path": "/user/:pphId",
+   "name": "澎湃号",
+   "example": "/thepaper/user/4221423"
+  }
+ ],
+ "gs": [],
+ "spglobal": [
+  {
+   "path": "/ratings/:language?",
+   "name": "Ratings",
+   "example": "/spglobal/ratings/en"
+  }
+ ],
+ "elpais": [
+  {
+   "path": "/news",
+   "name": "News",
+   "example": "/elpais/news"
+  }
+ ],
+ "substack": [
+  {
+   "path": "/subscribe/:user",
+   "name": "Substack Subscription",
+   "example": "/substack/subscribe/mangoread"
+  }
+ ],
+ "whitehouse": [
+  {
+   "path": "/news/:category?",
+   "name": "News",
+   "example": "/whitehouse/news"
+  }
+ ],
+ "imf": [
+  {
+   "path": "/country-reports/:country?",
+   "name": "Staff Country Reports",
+   "example": "/imf/country-reports/Germany"
+  }
+ ],
+ "wallstreetcn": [
+  {
+   "path": "/calendar/:section?",
+   "name": "财经日历",
+   "example": "/wallstreetcn/calendar"
+  },
+  {
+   "path": "/hot/:period?",
+   "name": "最热文章",
+   "example": "/wallstreetcn/hot"
+  },
+  {
+   "path": "/live/:category?/:score?",
+   "name": "实时快讯",
+   "example": "/wallstreetcn/live"
+  },
+  {
+   "path": "/news/:category?",
+   "name": "资讯",
+   "example": "/wallstreetcn/news"
+  }
+ ],
+ "voanews": [
+  {
+   "path": "/:language/:channel?",
+   "name": "Voice of America (VOA)",
+   "example": "/voanews/cantonese/zprtie-ttp"
+  }
+ ],
+ "theguardian": [
+  {
+   "path": "/china",
+   "name": "China",
+   "example": "/theguardian/china"
+  },
+  {
+   "path": "/editorial",
+   "name": "Editorial",
+   "example": "/theguardian/editorial"
+  }
+ ],
+ "mingpao": [
+  {
+   "path": "/:type?/:category?",
+   "name": "新聞",
+   "example": "/mingpao/ins/all"
+  }
+ ],
+ "apnews": [
+  {
+   "path": "/mobile/:path{.+}?",
+   "name": "News (from mobile client API)",
+   "example": "/apnews/mobile"
+  },
+  {
+   "path": "/rss/:category?",
+   "name": "News",
+   "example": "/apnews/rss/business"
+  },
+  {
+   "path": "/sitemap/:route",
+   "name": "Sitemap",
+   "example": "/apnews/sitemap/ap-sitemap-latest"
+  }
+ ],
+ "zaobao": [
+  {
+   "path": "/interactive-graphics",
+   "name": "互动新闻",
+   "example": "/zaobao/interactive-graphics"
+  },
+  {
+   "path": "/other/:type?/:section?",
+   "name": "其他栏目",
+   "example": "/zaobao/other/lifestyle/health"
+  },
+  {
+   "path": "/popular/:period?",
+   "name": "热门新闻",
+   "example": "/zaobao/popular/daily"
+  },
+  {
+   "path": "/realtime/:section?",
+   "name": "即时新闻",
+   "example": "/zaobao/realtime/china"
+  },
+  {
+   "path": "/znews/:section?",
+   "name": "新闻",
+   "example": "/zaobao/znews/china"
+  }
+ ],
+ "mckinsey": [],
+ "bbc": [
+  {
+   "path": "/:site?/:channel?",
+   "name": "News",
+   "example": "/bbc/world-asia"
+  },
+  {
+   "path": "/learningenglish/:channel?",
+   "name": "Learning English",
+   "example": "/bbc/learningenglish/take-away-english"
+  },
+  {
+   "path": "/sport/:sport",
+   "name": "Sport",
+   "example": "/bbc/sport/formula1"
+  },
+  {
+   "path": "/zhongwen/topics/:topic/:variant?",
+   "name": "Topics - BBC News 中文",
+   "example": "/bbc/zhongwen/topics/ckr7mn6r003t"
+  },
+  {
+   "path": "/topics/:topic",
+   "name": "Topics",
+   "example": "/bbc/topics/c77jz3md4rwt"
+  }
+ ],
+ "carnegieendowment": [
+  {
+   "path": "/expert/:expert{.+}?",
+   "name": "Expert research",
+   "example": "/carnegieendowment/expert/china/people/michael-pettis"
+  },
+  {
+   "path": "/region/:region?",
+   "name": "Regional research",
+   "example": "/carnegieendowment/region/china"
+  }
+ ],
+ "joins": [
+  {
+   "path": "/chinese/:category?",
+   "name": "中央日报中文版",
+   "example": "/joins/chinese"
+  }
+ ],
+ "bloomberg": [
+  {
+   "path": "/authors/:id/:slug/:source?",
+   "name": "Authors",
+   "example": "/bloomberg/authors/ARbTQlRLRjE/matthew-s-levine"
+  },
+  {
+   "path": "/:site?",
+   "name": "Bloomberg Site",
+   "example": "/bloomberg/business"
+  }
+ ],
+ "12371": [
+  {
+   "path": "/:category?",
+   "name": "最新发布",
+   "example": "/12371/zxfb"
+  }
+ ],
+ "nytimes": [
+  {
+   "path": "/book/:category?",
+   "name": "Best Seller Books",
+   "example": "/nytimes/book/combined-print-and-e-book-nonfiction"
+  },
+  {
+   "path": "/daily_briefing_chinese",
+   "name": "Daily Briefing",
+   "example": "/nytimes/daily_briefing_chinese"
+  },
+  {
+   "path": "/:lang?",
+   "name": "News",
+   "example": "/nytimes/dual"
+  },
+  {
+   "path": "/rss/:cat?",
+   "name": "News",
+   "example": "/nytimes/rss/HomePage"
+  }
+ ],
+ "toutiao": [
+  {
+   "path": "/channel/:category",
+   "name": "推荐",
+   "example": "/toutiao/channel/news_tech"
+  },
+  {
+   "path": "/user/token/:token",
+   "name": "头条主页",
+   "example": "/toutiao/user/token/MS4wLjABAAAApOspM7AnWqplD9FIBGnhJRfUjFT_msD1KZMfNPBZa-c"
+  }
+ ],
+ "yahoo": [
+  {
+   "path": "/author/:author",
+   "name": "News By Author",
+   "example": "/yahoo/author/hannah-keyser"
+  },
+  {
+   "path": "/finance/:topic?",
+   "name": "Finance news",
+   "example": "/yahoo/finance/latest-news"
+  },
+  {
+   "path": "/gaming",
+   "name": "Gaming news",
+   "example": "/yahoo/gaming"
+  }
+ ],
+ "sina": [
+  {
+   "path": "/csj",
+   "name": "专栏 - 创事记",
+   "example": "/sina/csj"
+  },
+  {
+   "path": "/discovery/:type",
+   "name": "科技 - 科学探索",
+   "example": "/sina/discovery/zx"
+  },
+  {
+   "path": "/rollnews/:lid?",
+   "name": "滚动新闻",
+   "example": "/sina/rollnews"
+  },
+  {
+   "path": "/sports/:type?",
+   "name": "新浪体育",
+   "example": "/sina/sports"
+  }
+ ],
+ "huanqiu": [
+  {
+   "path": "/news/:category?",
+   "name": "分类",
+   "example": "/huanqiu/news/china"
+  }
+ ],
+ "dw": [
+  {
+   "path": "/news/:lang?/:id?",
+   "name": "News",
+   "example": "/dw/news"
+  },
+  {
+   "path": "/rss/:channel?",
+   "name": "RSS",
+   "example": "/dw/rss/rss-en-all"
+  }
+ ],
+ "kpmg": [
+  {
+   "path": "/insights/:lang?",
+   "name": "Insights",
+   "example": "/kpmg/insights"
+  }
+ ]
+}

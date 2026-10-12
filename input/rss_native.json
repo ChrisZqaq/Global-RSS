@@ -1,0 +1,2640 @@
+{
+ "mojie.ws": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "chat.deepseek.com": {
+  "feeds": [],
+  "status": "202"
+ },
+ "chatgpt.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "jp.wsj.com": {
+  "feeds": [],
+  "status": "HTTP Error 401: HTTP Forbidden"
+ },
+ "voachinese.com": {
+  "feeds": [],
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+ },
+ "ft.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "spglobal.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "wsj.com": {
+  "feeds": [],
+  "status": "HTTP Error 401: HTTP Forbidden"
+ },
+ "pbcstu.cn": {
+  "feeds": [],
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+ },
+ "shutterstock.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "inoreader.com": {
+  "feeds": [
+   "https://www.inoreader.com/blog/feed"
+  ],
+  "status": "200"
+ },
+ "theguardian.com": {
+  "feeds": [],
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+ },
+ "rfi.fr": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "arr.network": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "tgmeng.com": {
+  "feeds": [
+   "https://tgmeng.com/rss.xml"
+  ],
+  "status": "200"
+ },
+ "bloomberg.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "theamericanconservative.com": {
+  "feeds": [
+   "https://www.theamericanconservative.com/feed/",
+   "https://www.theamericanconservative.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "nationalinterest.org": {
+  "feeds": [
+   "https://nationalinterest.org/feed"
+  ],
+  "status": "200"
+ },
+ "bcg.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "rhg.com": {
+  "feeds": [
+   "https://rhg.com/feed"
+  ],
+  "status": "200"
+ },
+ "curlconverter.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "japantimes.co.jp": {
+  "feeds": [
+   "https://japantimes.co.jp/feed"
+  ],
+  "status": "200"
+ },
+ "cn.wsj.com": {
+  "feeds": [],
+  "status": "HTTP Error 401: HTTP Forbidden"
+ },
+ "aei.org": {
+  "feeds": [
+   "https://aei.org/feed"
+  ],
+  "status": "200"
+ },
+ "politico.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "app.folo.is": {
+  "feeds": [],
+  "status": "200"
+ },
+ "allianz.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "itif.org": {
+  "feeds": [
+   "https://itif.org/feed/rss.xml"
+  ],
+  "status": "200"
+ },
+ "institutmontaigne.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "ftchinese.com": {
+  "feeds": [],
+  "status": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+ },
+ "scsp222.substack.com": {
+  "feeds": [
+   "https://scsp222.substack.com/feed"
+  ],
+  "status": "200"
+ },
+ "chromewebstore.google.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "foreignpolicy.com": {
+  "feeds": [
+   "https://foreignpolicy.com/feed"
+  ],
+  "status": "200"
+ },
+ "stimson.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "translate.google.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "news.mit.edu": {
+  "feeds": [],
+  "status": "200"
+ },
+ "greenvideo.cc": {
+  "feeds": [],
+  "status": "200"
+ },
+ "europeanchamber.com.cn": {
+  "feeds": [
+   "https://www.europeanchamber.com.cn/rss/news/atom",
+   "https://www.europeanchamber.com.cn/rss/events/atom"
+  ],
+  "status": "200"
+ },
+ "americanprogress.org": {
+  "feeds": [
+   "https://www.americanprogress.org/feed/",
+   "https://www.americanprogress.org/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "moderndiplomacy.eu": {
+  "feeds": [
+   "https://moderndiplomacy.eu/feed"
+  ],
+  "status": "200"
+ },
+ "scmp.com": {
+  "feeds": [
+   "https://www.scmp.com/rss/feed"
+  ],
+  "status": "200"
+ },
+ "tongyi.com": {
+  "feeds": [],
+  "status": "timed out"
+ },
+ "pdf2doc.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "ids.ac.uk": {
+  "feeds": [
+   "https://ids.ac.uk/feed"
+  ],
+  "status": "200"
+ },
+ "manus.im": {
+  "feeds": [],
+  "status": "200"
+ },
+ "mp.weixin.qq.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "cn.nytimes.com": {
+  "feeds": [
+   "https://cn.nytimes.com/rss/"
+  ],
+  "status": "200"
+ },
+ "politico.eu": {
+  "feeds": [
+   "https://www.politico.eu/feed/"
+  ],
+  "status": "200"
+ },
+ "nlg.news": {
+  "feeds": [],
+  "status": "200"
+ },
+ "bbc.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "carnegieendowment.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "google.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "wx.zsxq.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "thehill.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "mckinsey.com": {
+  "feeds": [],
+  "status": "The read operation timed out"
+ },
+ "google.com.hk": {
+  "feeds": [],
+  "status": "200"
+ },
+ "fortune.com": {
+  "feeds": [
+   "https://fortune.com/feed"
+  ],
+  "status": "200"
+ },
+ "foreignaffairs.com": {
+  "feeds": [
+   "https://www.foreignaffairs.com/rss.xml"
+  ],
+  "status": "200"
+ },
+ "sixgod.pro": {
+  "feeds": [],
+  "status": "200"
+ },
+ "adb.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "omfif.org": {
+  "feeds": [
+   "https://www.omfif.org/feed/"
+  ],
+  "status": "200"
+ },
+ "google.co.jp": {
+  "feeds": [],
+  "status": "200"
+ },
+ "asiatimes.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "cn.nikkei.com": {
+  "feeds": [
+   "https://cn.nikkei.com/rss"
+  ],
+  "status": "200"
+ },
+ "brookings.edu": {
+  "feeds": [
+   "https://www.brookings.edu/feed/",
+   "https://www.brookings.edu/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "pwc.tw": {
+  "feeds": [],
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+ },
+ "merics.org": {
+  "feeds": [
+   "https://merics.org/rss"
+  ],
+  "status": "200"
+ },
+ "gmfus.org": {
+  "feeds": [
+   "https://gmfus.org/rss.xml"
+  ],
+  "status": "200"
+ },
+ "pwccn.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "pwc.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "cn.yna.co.kr": {
+  "feeds": [],
+  "status": "200"
+ },
+ "bruegel.org": {
+  "feeds": [
+   "https://bruegel.org/rss.xml"
+  ],
+  "status": "200"
+ },
+ "v2-tds.sunwayinfo.com.cn": {
+  "feeds": [],
+  "status": "200"
+ },
+ "project-syndicate.org": {
+  "feeds": [
+   "https://project-syndicate.org/rss"
+  ],
+  "status": "200"
+ },
+ "kdi.re.kr": {
+  "feeds": [],
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+ },
+ "ifri.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "blogs.lse.ac.uk": {
+  "feeds": [
+   "https://blogs.lse.ac.uk/feed"
+  ],
+  "status": "200"
+ },
+ "atlanticcouncil.org": {
+  "feeds": [
+   "https://www.atlanticcouncil.org/feed/",
+   "https://www.atlanticcouncil.org/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "thedialogue.org": {
+  "feeds": [
+   "https://thedialogue.org/feed",
+   "https://thedialogue.org/comments/feed"
+  ],
+  "status": "200"
+ },
+ "iiss.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "ide.go.jp": {
+  "feeds": [],
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+ },
+ "forbes.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "cfr.org": {
+  "feeds": [
+   "https://cfr.org/feed"
+  ],
+  "status": "200"
+ },
+ "spzwz.szchuyue.cn": {
+  "feeds": [],
+  "status": "200"
+ },
+ "rieti.go.jp": {
+  "feeds": [],
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+ },
+ "channelnewsasia.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "amro-asia.org": {
+  "feeds": [
+   "https://amro-asia.org/feed"
+  ],
+  "status": "200"
+ },
+ "aspeninstitute.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "scitechdaily.com": {
+  "feeds": [
+   "https://scitechdaily.com/feed/",
+   "https://scitechdaily.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "techcrunch.com": {
+  "feeds": [
+   "https://techcrunch.com/feed/"
+  ],
+  "status": "200"
+ },
+ "ifo.de": {
+  "feeds": [
+   "https://ifo.de/rss"
+  ],
+  "status": "200"
+ },
+ "itp.net": {
+  "feeds": [],
+  "status": "HTTP Error 403: HTTP Forbidden"
+ },
+ "theverge.com": {
+  "feeds": [
+   "https://theverge.com/rss/index.xml"
+  ],
+  "status": "200"
+ },
+ "tomshardware.com": {
+  "feeds": [
+   "https://www.tomshardware.com/feeds.xml"
+  ],
+  "status": "200"
+ },
+ "lowyinstitute.org": {
+  "feeds": [
+   "https://lowyinstitute.org/feed"
+  ],
+  "status": "200"
+ },
+ "phys.org": {
+  "feeds": [
+   "https://phys.org/rss-feed/",
+   "https://phys.org/rss-feed/breaking/",
+   "https://phys.org/rss-feed/editorials/"
+  ],
+  "status": "200"
+ },
+ "csis.org": {
+  "feeds": [
+   "https://csis.org/rss.xml"
+  ],
+  "status": "200"
+ },
+ "nash-ai.cn": {
+  "feeds": [],
+  "status": "200"
+ },
+ "rand.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "globalaffairs.org": {
+  "feeds": [
+   "https://globalaffairs.org/rss.xml"
+  ],
+  "status": "200"
+ },
+ "techxplore.com": {
+  "feeds": [
+   "https://techxplore.com/rss-feed/",
+   "https://techxplore.com/rss-feed/breaking/"
+  ],
+  "status": "200"
+ },
+ "orfonline.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "techtimes.com": {
+  "feeds": [
+   "https://techtimes.com/rss/archives/archives.xml"
+  ],
+  "status": "200"
+ },
+ "straitstimes.com": {
+  "feeds": [
+   "https://straitstimes.com/rss.xml"
+  ],
+  "status": "200"
+ },
+ "asia.nikkei.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "digitimes.com": {
+  "feeds": [
+   "https://www.digitimes.com/rss/daily.xml"
+  ],
+  "status": "200"
+ },
+ "cleantechnica.com": {
+  "feeds": [
+   "https://cleantechnica.com/feed/",
+   "https://cleantechnica.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "techopedia.com": {
+  "feeds": [
+   "https://www.techopedia.com/feed",
+   "https://www.techopedia.com/comments/feed"
+  ],
+  "status": "200"
+ },
+ "hpcwire.com": {
+  "feeds": [
+   "https://www.hpcwire.com/feed/podcast-archive"
+  ],
+  "status": "200"
+ },
+ "webpronews.com": {
+  "feeds": [
+   "https://www.webpronews.com/feed/",
+   "https://www.webpronews.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "pv-magazine.com": {
+  "feeds": [
+   "https://www.pv-magazine.com/feed/",
+   "https://www.pv-magazine.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "iea.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "energy-storage.news": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "thequantuminsider.com": {
+  "feeds": [
+   "https://thequantuminsider.com/feed/",
+   "https://thequantuminsider.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "semiengineering.com": {
+  "feeds": [
+   "https://semiengineering.com/feed/",
+   "https://semiengineering.com/comments/feed/",
+   "https://semiengineering.com/homepage/feed/"
+  ],
+  "status": "200"
+ },
+ "all-about-industries.com": {
+  "feeds": [
+   "https://all-about-industries.com/rss/news.xml",
+   "https://all-about-industries.com/atom/news.xml"
+  ],
+  "status": "200"
+ },
+ "bioengineer.org": {
+  "feeds": [
+   "https://bioengineer.org/sitemap.xml",
+   "https://bioengineer.org/feed/",
+   "https://bioengineer.org/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "citigroup.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "spacenews.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "ts2.tech": {
+  "feeds": [
+   "https://ts2.tech/en/feed/"
+  ],
+  "status": "200"
+ },
+ "goldmansachs.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "china.kyodonews.net": {
+  "feeds": [],
+  "status": "200"
+ },
+ "nextgov.com": {
+  "feeds": [],
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+ },
+ "photonics.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "dronelife.com": {
+  "feeds": [
+   "https://dronelife.com/feed/",
+   "https://dronelife.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "engadget.com": {
+  "feeds": [
+   "https://www.engadget.com/category/news/feed/",
+   "https://www.engadget.com/feed/"
+  ],
+  "status": "200"
+ },
+ "kpmg.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "nikkei.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "techedt.com": {
+  "feeds": [
+   "https://techedt.com/feed"
+  ],
+  "status": "200"
+ },
+ "spectrum.ieee.org": {
+  "feeds": [
+   "https://spectrum.ieee.org/feeds/feed.rss"
+  ],
+  "status": "200"
+ },
+ "fitchratings.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "techovedas.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "industryweek.com": {
+  "feeds": [
+   "https://industryweek.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D"
+  ],
+  "status": "200"
+ },
+ "eastasiaforum.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "zdnet.com": {
+  "feeds": [
+   "https://www.zdnet.com/rss/all/"
+  ],
+  "status": "200"
+ },
+ "chinese.aljazeera.net": {
+  "feeds": [],
+  "status": "200"
+ },
+ "theengineer.co.uk": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "mittrchina.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "renewableenergyworld.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "therobotreport.com": {
+  "feeds": [
+   "https://www.therobotreport.com/feed/",
+   "https://www.therobotreport.com/comments/feed/",
+   "https://www.therobotreport.com/home/feed/"
+  ],
+  "status": "200"
+ },
+ "evwind.aeeolica.org": {
+  "feeds": [
+   "https://evwind.aeeolica.org/feed",
+   "https://evwind.aeeolica.org/comments/feed"
+  ],
+  "status": "200"
+ },
+ "vdma.eu": {
+  "feeds": [],
+  "status": "200"
+ },
+ "doubao.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "globaldata.com": {
+  "feeds": [
+   "https://www.globaldata.com/feed/",
+   "https://www.globaldata.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "techorange.com": {
+  "feeds": [
+   "https://techorange.com/feed/"
+  ],
+  "status": "200"
+ },
+ "jpmorgan.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "msci.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "cnbc.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "knowridge.com": {
+  "feeds": [
+   "https://knowridge.com/feed/",
+   "https://knowridge.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "tech-insider.org": {
+  "feeds": [
+   "https://tech-insider.org/feed/",
+   "https://tech-insider.org/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "e27.co": {
+  "feeds": [
+   "https://e27.co/feed"
+  ],
+  "status": "200"
+ },
+ "convergence-now.com": {
+  "feeds": [
+   "https://www.convergence-now.com/feed/",
+   "https://www.convergence-now.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "sciencedaily.com": {
+  "feeds": [
+   "https://www.sciencedaily.com/rss/all.xml"
+  ],
+  "status": "200"
+ },
+ "cnas.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "siliconangle.com": {
+  "feeds": [
+   "https://siliconangle.com/feed"
+  ],
+  "status": "200"
+ },
+ "swp-berlin.org": {
+  "feeds": [
+   "https://swp-berlin.org/rss.xml"
+  ],
+  "status": "200"
+ },
+ "interestingengineering.com": {
+  "feeds": [
+   "https://interestingengineering.com/feed"
+  ],
+  "status": "200"
+ },
+ "apnews.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "ecoportal.net": {
+  "feeds": [
+   "https://www.ecoportal.net/feed/",
+   "https://www.ecoportal.net/en/feed/",
+   "https://www.ecoportal.net/uk/feed/"
+  ],
+  "status": "200"
+ },
+ "droneii.com": {
+  "feeds": [
+   "https://droneii.com/feed"
+  ],
+  "status": "200"
+ },
+ "piie.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "editorialge.com": {
+  "feeds": [
+   "https://editorialge.com/feed"
+  ],
+  "status": "200"
+ },
+ "thailand-business-news.com": {
+  "feeds": [
+   "https://www.thailand-business-news.com/feed",
+   "https://www.thailand-business-news.com/comments/feed"
+  ],
+  "status": "200"
+ },
+ "logisticsmgmt.com": {
+  "feeds": [
+   "https://feeds.feedburner.com/logisticsmgmt/latest"
+  ],
+  "status": "200"
+ },
+ "opentools.ai": {
+  "feeds": [],
+  "status": "200"
+ },
+ "nytimes.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "upi.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "odi.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "zaobao.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "usnews.com": {
+  "feeds": [],
+  "status": "The read operation timed out"
+ },
+ "medium.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "washingtonexaminer.com": {
+  "feeds": [
+   "https://www.washingtonexaminer.com/feed/",
+   "https://www.washingtonexaminer.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "sundayguardianlive.com": {
+  "feeds": [
+   "https://sundayguardianlive.com/feed/",
+   "https://sundayguardianlive.com/feed/atom/",
+   "https://sundayguardianlive.com/feed/",
+   "https://sundayguardianlive.com/comments/feed/",
+   "https://sundayguardianlive.com/web-stories/%postname%-%post_id%/feed/"
+  ],
+  "status": "200"
+ },
+ "offshore-energy.biz": {
+  "feeds": [
+   "https://offshore-energy.biz/feed"
+  ],
+  "status": "200"
+ },
+ "khmertimeskh.com": {
+  "feeds": [
+   "https://www.khmertimeskh.com/feed/",
+   "https://www.khmertimeskh.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "theaustralian.com.au": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "lemonde.fr": {
+  "feeds": [
+   "https://www.lemonde.fr/en/rss/une.xml"
+  ],
+  "status": "200"
+ },
+ "clarivate.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "ioplus.nl": {
+  "feeds": [
+   "https://ioplus.nl/feed"
+  ],
+  "status": "200"
+ },
+ "nst.com.my": {
+  "feeds": [
+   "https://nst.com.my/feed/"
+  ],
+  "status": "200"
+ },
+ "textileworld.com": {
+  "feeds": [],
+  "status": "The read operation timed out"
+ },
+ "bastillepost.com": {
+  "feeds": [],
+  "status": "HTTP Error 503: Service Unavailable: Back-end server is at capacity"
+ },
+ "chineseherald.co.nz": {
+  "feeds": [
+   "https://chineseherald.co.nz/api/rss"
+  ],
+  "status": "200"
+ },
+ "cen.acs.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "moodys.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "icvcm.org": {
+  "feeds": [
+   "https://icvcm.org/feed"
+  ],
+  "status": "200"
+ },
+ "dimsumdaily.hk": {
+  "feeds": [
+   "https://www.dimsumdaily.hk/feed/",
+   "https://www.dimsumdaily.hk/comments/feed/",
+   "https://www.dimsumdaily.hk/news/feed/"
+  ],
+  "status": "200"
+ },
+ "ndtv.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "timesnownews.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "arynews.tv": {
+  "feeds": [
+   "https://arynews.tv/feed"
+  ],
+  "status": "200"
+ },
+ "fr.euronews.com": {
+  "feeds": [
+   "https://fr.euronews.com/rss"
+  ],
+  "status": "200"
+ },
+ "idos-research.de": {
+  "feeds": [],
+  "status": "200"
+ },
+ "thewest.com.au": {
+  "feeds": [
+   "https://thewest.com.au/feed"
+  ],
+  "status": "200"
+ },
+ "indianexpress.com": {
+  "feeds": [
+   "https://indianexpress.com/feed"
+  ],
+  "status": "200"
+ },
+ "finance.biggo.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "telegraph.co.uk": {
+  "feeds": [],
+  "status": "HTTP Error 402: Payment Required"
+ },
+ "thaiheadlines.com": {
+  "feeds": [
+   "https://www.thaiheadlines.com/feed/",
+   "https://www.thaiheadlines.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "businesstoday.com.my": {
+  "feeds": [
+   "https://www.businesstoday.com.my/feed/",
+   "https://www.businesstoday.com.my/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "cepr.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "pharmexec.com": {
+  "feeds": [
+   "https://pharmexec.com/rss"
+  ],
+  "status": "200"
+ },
+ "brecorder.com": {
+  "feeds": [
+   "https://www.brecorder.com/feeds/home/"
+  ],
+  "status": "200"
+ },
+ "sputniknews.cn": {
+  "feeds": [
+   "https://sputniknews.cn/export/rss2/archive/index.xml"
+  ],
+  "status": "200"
+ },
+ "skift.com": {
+  "feeds": [
+   "https://skift.com/feed"
+  ],
+  "status": "200"
+ },
+ "news.search.yahoo.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "computerweekly.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "dominicanewsonline.com": {
+  "feeds": [
+   "https://feeds.feedburner.com/DominicaNewsOnline/",
+   "https://dominicanewsonline.com/news/comments/feed/",
+   "https://dominicanewsonline.com/news/entry-page/feed/"
+  ],
+  "status": "200"
+ },
+ "enanyang.my": {
+  "feeds": [],
+  "status": "200"
+ },
+ "xpert.digital": {
+  "feeds": [
+   "https://xpert.digital/feed/customfeed/",
+   "https://xpert.digital/feed/customatomfeed/",
+   "https://feeds.feedburner.com/xpert/Bc5eRO7hlIp",
+   "https://xpert.digital/industry-b2b/feed/",
+   "https://xpert.digital/logistik-intralogistik/feed/",
+   "https://xpert.digital/solarcarport/feed/",
+   "https://xpert.digital/kuenstliche-intelligenz-ki/feed/",
+   "https://xpert.digital/extended-reality/feed/",
+   "https://xpert.digital/robotics-robotik/feed/",
+   "https://xpert.digital/nseo/feed/",
+   "https://xpert.digital/erneuerbare-energien/feed/",
+   "https://xpert.digital/industry-b2b/feed/",
+   "https://xpert.digital/logistik-intralogistik/feed/",
+   "https://xpert.digital/solarcarport/feed/",
+   "https://xpert.digital/extended-reality/feed/",
+   "https://xpert.digital/robotics-robotik/feed/",
+   "https://xpert.digital/nseo/feed/",
+   "https://xpert.digital/erneuerbare-energien/feed/"
+  ],
+  "status": "200"
+ },
+ "arabnews.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "webvpn.sdufe.edu.cn": {
+  "feeds": [],
+  "status": "200"
+ },
+ "edition.cnn.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "papers.ssrn.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "gulf-times.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "cepr.net": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "counterpointresearch.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "jinan.pbc.gov.cn": {
+  "feeds": [],
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+ },
+ "kucoin.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "thedailystar.net": {
+  "feeds": [
+   "https://thedailystar.net/rss.xml"
+  ],
+  "status": "200"
+ },
+ "manufacturingdigital.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "weforum.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "asiasentinel.com": {
+  "feeds": [
+   "https://asiasentinel.com/feed"
+  ],
+  "status": "200"
+ },
+ "china-briefing.com": {
+  "feeds": [],
+  "status": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+ },
+ "georgechen.substack.com": {
+  "feeds": [
+   "https://georgechen.substack.com/feed"
+  ],
+  "status": "200"
+ },
+ "howardschinaexplainer.substack.com": {
+  "feeds": [
+   "https://howardschinaexplainer.substack.com/feed"
+  ],
+  "status": "200"
+ },
+ "businesstoday.in": {
+  "feeds": [
+   "https://businesstoday.in/feed"
+  ],
+  "status": "200"
+ },
+ "wolfganglehmacher.substack.com": {
+  "feeds": [
+   "https://wolfganglehmacher.substack.com/feed"
+  ],
+  "status": "200"
+ },
+ "chinainnopharma.substack.com": {
+  "feeds": [
+   "https://chinainnopharma.substack.com/feed"
+  ],
+  "status": "200"
+ },
+ "moderntimes.blog": {
+  "feeds": [
+   "https://moderntimes.blog/feed"
+  ],
+  "status": "200"
+ },
+ "geoeconomic.substack.com": {
+  "feeds": [
+   "https://geoeconomic.substack.com/feed"
+  ],
+  "status": "200"
+ },
+ "chinatalk.media": {
+  "feeds": [
+   "https://chinatalk.media/feed"
+  ],
+  "status": "200"
+ },
+ "leonliao.substack.com": {
+  "feeds": [
+   "https://leonliao.substack.com/feed"
+  ],
+  "status": "200"
+ },
+ "rsis.edu.sg": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "chathamhouse.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "economy.ac": {
+  "feeds": [
+   "https://economy.ac/rss.xml"
+  ],
+  "status": "200"
+ },
+ "chinahealthpulse.com": {
+  "feeds": [
+   "https://chinahealthpulse.com/feed"
+  ],
+  "status": "200"
+ },
+ "cmegroup.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "institute.global": {
+  "feeds": [],
+  "status": "HTTP Error 429: Too Many Requests"
+ },
+ "cepa.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "euronews.com": {
+  "feeds": [
+   "https://euronews.com/rss"
+  ],
+  "status": "200"
+ },
+ "mises.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "dw.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "chemistryworld.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "cset.georgetown.edu": {
+  "feeds": [
+   "https://cset.georgetown.edu/feed/"
+  ],
+  "status": "200"
+ },
+ "eng.belta.by": {
+  "feeds": [],
+  "status": "200"
+ },
+ "thestar.com.my": {
+  "feeds": [],
+  "status": "200"
+ },
+ "economictimes.indiatimes.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "heritage.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "eastwestcenter.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "substack.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "chinaindustrybrief.com": {
+  "feeds": [],
+  "status": "The read operation timed out"
+ },
+ "nationalreview.com": {
+  "feeds": [
+   "https://www.nationalreview.com/feed/",
+   "https://www.nationalreview.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "gtradejournal.org": {
+  "feeds": [],
+  "status": "The read operation timed out"
+ },
+ "internationalaffairs.org.au": {
+  "feeds": [
+   "https://www.internationalaffairs.org.au/feed/"
+  ],
+  "status": "200"
+ },
+ "thinkchina.sg": {
+  "feeds": [],
+  "status": "200"
+ },
+ "axios.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "techinsights.com": {
+  "feeds": [
+   "https://techinsights.com/rss.xml"
+  ],
+  "status": "200"
+ },
+ "theasset.com": {
+  "feeds": [],
+  "status": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+ },
+ "handelsblatt.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "think.ing.com": {
+  "feeds": [
+   "https://think.ing.com/rss"
+  ],
+  "status": "200"
+ },
+ "tass.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "mckinsey.com.cn": {
+  "feeds": [],
+  "status": "200"
+ },
+ "cbre.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "irishtimes.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "oica.net": {
+  "feeds": [],
+  "status": "200"
+ },
+ "oxfordeconomics.com": {
+  "feeds": [
+   "https://www.oxfordeconomics.com/feed/",
+   "https://www.oxfordeconomics.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "iseas.edu.sg": {
+  "feeds": [
+   "https://iseas.edu.sg/feed/",
+   "https://iseas.edu.sg/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "worldpoliticsreview.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "vovworld.vn": {
+  "feeds": [],
+  "status": "200"
+ },
+ "kielinstitut.de": {
+  "feeds": [],
+  "status": "200"
+ },
+ "asiasociety.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "hoover.org": {
+  "feeds": [
+   "https://hoover.org/feed"
+  ],
+  "status": "200"
+ },
+ "notus.org": {
+  "feeds": [
+   "https://www.washingtonsun.com/index.rss"
+  ],
+  "status": "200"
+ },
+ "fintech.global": {
+  "feeds": [
+   "https://fintech.global/feed/",
+   "https://fintech.global/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "ctol.digital": {
+  "feeds": [],
+  "status": "200"
+ },
+ "semiconductors.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "fpif.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "zerohedge.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "imd.org": {
+  "feeds": [
+   "https://imd.org/feed"
+  ],
+  "status": "200"
+ },
+ "observer.com": {
+  "feeds": [],
+  "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of "
+ },
+ "automation.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "cnnews.chosun.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "research.natixis.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "chinausfocus.com": {
+  "feeds": [
+   "https://chinausfocus.com/rss.xml"
+  ],
+  "status": "200"
+ },
+ "zmyx.info": {
+  "feeds": [
+   "https://zmyx.net/feed/",
+   "https://zmyx.net/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "theinitium.com": {
+  "feeds": [
+   "https://theinitium.com/rss/"
+  ],
+  "status": "200"
+ },
+ "rbcwealthmanagement.com": {
+  "feeds": [
+   "https://www.rbcwealthmanagement.com/en-us/feed",
+   "https://www.rbcwealthmanagement.com/en-us/comments/feed"
+  ],
+  "status": "200"
+ },
+ "news.gallup.com": {
+  "feeds": [
+   "https://news.gallup.com/sitemaps/content.rss"
+  ],
+  "status": "200"
+ },
+ "kwm.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "aijourn.com": {
+  "feeds": [
+   "https://aijourn.com/feed/",
+   "https://aijourn.com/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "jpmorganchase.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "ibm.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "powermag.com": {
+  "feeds": [
+   "https://powermag.com/feed"
+  ],
+  "status": "200"
+ },
+ "hudson.org": {
+  "feeds": [
+   "https://hudson.org/rss.xml"
+  ],
+  "status": "200"
+ },
+ "specialeurasia.com": {
+  "feeds": [
+   "https://www.specialeurasia.com/feed/",
+   "https://www.specialeurasia.com/feed/podcast"
+  ],
+  "status": "200"
+ },
+ "bnnbloomberg.ca": {
+  "feeds": [],
+  "status": "200"
+ },
+ "abc.net.au": {
+  "feeds": [],
+  "status": "200"
+ },
+ "henryjacksonsociety.org": {
+  "feeds": [
+   "https://henryjacksonsociety.org/feed/"
+  ],
+  "status": "200"
+ },
+ "omdia.tech.informa.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "cato.org": {
+  "feeds": [
+   "https://cato.org/rss.xml"
+  ],
+  "status": "200"
+ },
+ "openai.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "fisherinvestments.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "siai.org": {
+  "feeds": [
+   "https://siai.org/rss.xml"
+  ],
+  "status": "200"
+ },
+ "wahyusyafiul.medium.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "bernama.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "brandfinance.com": {
+  "feeds": [
+   "https://brandfinance.com/feed"
+  ],
+  "status": "200"
+ },
+ "nielseniq.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "nature.com": {
+  "feeds": [
+   "https://www.nature.com/nature.rss"
+  ],
+  "status": "200"
+ },
+ "travelandtourworld.cn": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "energyandcleanair.org": {
+  "feeds": [
+   "https://energyandcleanair.org/feed/",
+   "https://energyandcleanair.org/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "yomiuri.co.jp": {
+  "feeds": [],
+  "status": "200"
+ },
+ "benzinga.com": {
+  "feeds": [
+   "https://benzinga.com/feed"
+  ],
+  "status": "200"
+ },
+ "aspistrategist.org.au": {
+  "feeds": [
+   "https://aspistrategist.org.au/feed"
+  ],
+  "status": "200"
+ },
+ "oilprice.com": {
+  "feeds": [
+   "https://oilprice.com/rss.xml"
+  ],
+  "status": "200"
+ },
+ "ember-energy.org": {
+  "feeds": [
+   "https://ember-energy.org/feed"
+  ],
+  "status": "200"
+ },
+ "aibusiness.com": {
+  "feeds": [
+   "https://aibusiness.com/rss.xml"
+  ],
+  "status": "200"
+ },
+ "dbresearch.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "china.hani.co.kr": {
+  "feeds": [],
+  "status": "200"
+ },
+ "thebulletin.org": {
+  "feeds": [
+   "https://thebulletin.org/home/feed/"
+  ],
+  "status": "200"
+ },
+ "hk01.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "theconversation.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "woodmac.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "cryptopolitan.com": {
+  "feeds": [
+   "https://www.cryptopolitan.com/feed/"
+  ],
+  "status": "200"
+ },
+ "thelancet.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "globaltrademag.com": {
+  "feeds": [
+   "https://www.globaltrademag.com/feed/podcast/"
+  ],
+  "status": "200"
+ },
+ "insidehighered.com": {
+  "feeds": [
+   "https://www.insidehighered.com/rss.xml"
+  ],
+  "status": "200"
+ },
+ "rolandberger.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "hinrichfoundation.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "chainalysis.com": {
+  "feeds": [
+   "https://chainalysis.com/feed"
+  ],
+  "status": "200"
+ },
+ "untourism.int": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "insight.kellogg.northwestern.edu": {
+  "feeds": [
+   "https://insight.kellogg.northwestern.edu/feed/rss"
+  ],
+  "status": "200"
+ },
+ "prnasia.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "commondreams.org": {
+  "feeds": [
+   "https://commondreams.org/feeds/feed.rss"
+  ],
+  "status": "200"
+ },
+ "hbr.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "wired.com": {
+  "feeds": [],
+  "status": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+ },
+ "warriormaven.com": {
+  "feeds": [
+   "https://warriormaven.com/rss/WARMAV/full",
+   "https://warriormaven.com/feed/WARMAV/full.xml"
+  ],
+  "status": "200"
+ },
+ "asianinvestor.net": {
+  "feeds": [],
+  "status": "200"
+ },
+ "china.ahk.de": {
+  "feeds": [],
+  "status": "200"
+ },
+ "dialogue.earth": {
+  "feeds": [
+   "https://dialogue.earth/en/feed/",
+   "https://dialogue.earth/en/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "inkstickmedia.com": {
+  "feeds": [
+   "https://inkstickmedia.com/feed"
+  ],
+  "status": "200"
+ },
+ "legrandcontinent.eu": {
+  "feeds": [
+   "https://legrandcontinent.eu/fr/feed/"
+  ],
+  "status": "200"
+ },
+ "voguebusiness.com": {
+  "feeds": [
+   "https://www.vogue.com/feed/rss"
+  ],
+  "status": "200"
+ },
+ "thepolicycircle.org": {
+  "feeds": [
+   "https://www.thepolicycircle.org/feed/",
+   "https://www.thepolicycircle.org/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "hawkinsight.com": {
+  "feeds": [],
+  "status": "HTTP Error 503: Service Unavailable"
+ },
+ "lawliberty.org": {
+  "feeds": [
+   "https://lawliberty.org/feed/"
+  ],
+  "status": "200"
+ },
+ "conference-board.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "group.dhl.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "justsecurity.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "daxueconsulting.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ecfr.eu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "europeanbusinessmagazine.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "rareearthexchanges.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "iima.or.jp": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "kingsresearch.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "fairobserver.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "altusgroup.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "wipo.int": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "apec.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "responsiblestatecraft.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "kearney.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "internationalepolitik.de": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "swissinfo.ch": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "cambridgeassociates.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "research.danskebank.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "kbra.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "johnmenadue.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ieefa.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "bvp.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "jacobin.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "asiapacific.ca": {
+  "feeds": [],
+  "status": "200"
+ },
+ "gulfif.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "frostchina.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "uscc.gov": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "pymnts.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "techpolicy.press": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "kiep.go.kr": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "carbonbrief.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "e-ir.info": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "iai.it": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "rochester.edu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "thebanker.com": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "greencars.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ashmoregroup.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "issafrica.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "pewresearch.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "preventionweb.net": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "icis.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "dgap.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "dbs.com.sg": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "savageminds.substack.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "unescap.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "aura.co.th": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "idc.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ubs.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "news.az": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "greencentralbanking.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "bain.cn": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "e3g.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "fas.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "fintechmagazine.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "procurementmag.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "innovationnewsnetwork.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "insideevs.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "interactivecrypto.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "tippinsights.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "eweek.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "environmentenergyleader.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "eurekalert.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "venturebeat.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "alcircle.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "bobsguide.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "isdp.eu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "futureuae.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "restofworld.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "jdsupra.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "mecouncil.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "uscnpm.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "semafor.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "aciperspectives.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "business.hsbc.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "bbvaresearch.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "globalchanakya.in": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ejiltalk.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "cjcci.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "aecf-france.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "amchamchina.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "federalreserve.gov": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "cgccusa.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "commission.europa.eu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ec.europa.eu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "newyorkfed.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "whitehouse.gov": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ecb.europa.eu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "bankofengland.co.uk": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "sccei.fsi.stanford.edu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "edelman.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "worldpolicyhub.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "blogs.griffith.edu.au": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "bechtel.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "henleyglobal.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "cer.eu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "asiapathways-adbi.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "nomuraconnects.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "boj.or.jp": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "iccwbo.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ualberta.ca": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "chinaselectcommittee.house.gov": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "fsb.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "bis.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "imf.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "aiib.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "unctad.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ndb.int": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "openknowledge.worldbank.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "wto.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "blogs.worldbank.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ilo.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "oecd.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "freedium-mirror.cfd": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "finance.sina.com.cn": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "archive.md": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "wallstreetcn.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "m.huanqiu.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "guancha.cn": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "cankaoxiaoxi.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "news.163.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "finance.eastmoney.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "toutiao.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "caixin.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "m.thepaper.cn": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "world.huanqiu.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "evrimagaci.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "finance.yahoo.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "theins.ru": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "eurasiareview.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "businesskorea.co.kr": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "euractiv.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "focus.de": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "at-s.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "detroitnews.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "english.elpais.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "pmn.co.nz": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "kitco.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "smh.com.au": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "nzz.ch": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "koreatimes.co.kr": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "eurasianet.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "farmersweekly.co.za": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "theregister.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ria.ru": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "thestatesman.net": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "regtechtimes.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "fijivillage.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "nation.com.pk": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "dailytimes.com.pk": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "tribune.com.pk": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "antaranews.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "chinese.joins.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "eurasiantimes.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "tw.news.yahoo.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "canberratimes.com.au": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "news18.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "theglobeandmail.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "news.mingpao.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "magyarnemzet.hu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "discoveryalert.com.au": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "ainvest.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "archive.ph": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "cnki.net": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "zaobao.com.sg": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "jhsjk.people.cn": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "cna.com.tw": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "12371.cn": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "reliefweb.int": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "hk.finance.yahoo.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "caus.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "onesafe.io": {
+  "feeds": [],
+  "status": "200"
+ },
+ "centralbanking.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "gpbullhound.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "gfmag.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "eba.europa.eu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "8cc7.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "terrygroup.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "realcleardefense.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "sousuo.gov.cn": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "aseanbriefing.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "ey.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "barrons.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "euromonitor.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "presswire.com": {
+  "feeds": [
+   "https://presswire.com/feed/"
+  ],
+  "status": "200"
+ },
+ "gbm.hsbc.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "asiabriefing.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "ankasam.org": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "markets.financialcontent.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "blogs.idc.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "telefonica.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "budgetlab.yale.edu": {
+  "feeds": [],
+  "status": "200"
+ },
+ "ibanet.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "associatedmedias.com": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "curate.nd.edu": {
+  "feeds": [],
+  "status": "202"
+ },
+ "gisreportsonline.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "globalgovernance.eu": {
+  "feeds": [],
+  "status": "<urlopen error [Errno 61] Connection refused>"
+ },
+ "geopoliticalmonitor.com": {
+  "feeds": [
+   "https://geopoliticalmonitor.com/feed"
+  ],
+  "status": "200"
+ },
+ "warontherocks.com": {
+  "feeds": [
+   "https://warontherocks.com/feed"
+  ],
+  "status": "200"
+ },
+ "manchester.ac.uk": {
+  "feeds": [],
+  "status": "200"
+ },
+ "cigionline.org": {
+  "feeds": [],
+  "status": "HTTP Error 403: Forbidden"
+ },
+ "nber.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "india-briefing.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "saiia.org.za": {
+  "feeds": [
+   "https://saiia.org.za/feed/",
+   "https://saiia.org.za/comments/feed/"
+  ],
+  "status": "200"
+ },
+ "vietnam-briefing.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "privatebanking.hsbc.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "hurun.net": {
+  "feeds": [],
+  "status": "200"
+ },
+ "iif.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "kantar.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "middleeastbriefing.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "uobgroup.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "hydrogeninsight.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "rusi.org": {
+  "feeds": [],
+  "status": "200"
+ },
+ "coindesk.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "afr.com": {
+  "feeds": [],
+  "status": "200"
+ },
+ "capitaleconomics.com": {
+  "feeds": [],
+  "status": "200"
+ }
+}

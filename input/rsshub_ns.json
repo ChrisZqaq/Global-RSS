@@ -1,0 +1,11804 @@
+{
+ "zju": {
+  "domains": [
+   "physics.zju.edu.cn"
+  ],
+  "name": "浙江大学"
+ },
+ "daxiaamu": {
+  "domains": [
+   "daxiaamu.com"
+  ],
+  "name": "大侠阿木"
+ },
+ "cde": {
+  "domains": [
+   "cde.org.cn"
+  ],
+  "name": "国家药品审评网站"
+ },
+ "keylol": {
+  "domains": [
+   "keylol.com"
+  ],
+  "name": "其乐"
+ },
+ "hnust": {
+  "domains": [
+   "hnust.edu.cn"
+  ],
+  "name": "湖南科技大学"
+ },
+ "konghq": {
+  "domains": [
+   "konghq.com"
+  ],
+  "name": "Kong API 网关平台"
+ },
+ "elasticsearch-cn": {
+  "domains": [
+   "elasticsearch.cn"
+  ],
+  "name": "Elastic 中文社区"
+ },
+ "apple": {
+  "domains": [
+   "apple.com"
+  ],
+  "name": "Apple"
+ },
+ "cas": {
+  "domains": [
+   "cas.cn"
+  ],
+  "name": "中国科学院"
+ },
+ "crac": {
+  "domains": [
+   "crac.org.cn"
+  ],
+  "name": "中国无线电协会业余无线电分会"
+ },
+ "humanlayer": {
+  "domains": [
+   "humanlayer.dev"
+  ],
+  "name": "HumanLayer"
+ },
+ "zongheng": {
+  "domains": [
+   "zongheng.com"
+  ],
+  "name": "纵横中文网"
+ },
+ "f95zone": {
+  "domains": [
+   "f95zone.to"
+  ],
+  "name": "F95zone"
+ },
+ "firefox": {
+  "domains": [
+   "monitor.firefox.com"
+  ],
+  "name": "Mozilla"
+ },
+ "civitai": {
+  "domains": [
+   "civitai.com"
+  ],
+  "name": "Civitai"
+ },
+ "fnal": {
+  "domains": [
+   "news.fnal.gov"
+  ],
+  "name": "Fermilab"
+ },
+ "tmtpost": {
+  "domains": [
+   "tmtpost.com"
+  ],
+  "name": "钛媒体"
+ },
+ "coolidge": {
+  "domains": [
+   "coolidge.org"
+  ],
+  "name": "Coolidge Corner Theatre"
+ },
+ "50forum": {
+  "domains": [
+   "50forum.org.cn"
+  ],
+  "name": "经济 50 人论坛"
+ },
+ "xupt": {
+  "domains": [
+   "xupt.edu.cn"
+  ],
+  "name": "西安邮电大学"
+ },
+ "saraba1st": {
+  "domains": [
+   "stage1st.com"
+  ],
+  "name": "Saraba1st"
+ },
+ "tqyb": {
+  "domains": [
+   "tqyb.com.cn"
+  ],
+  "name": "广东天气"
+ },
+ "chnmuseum": {
+  "domains": [
+   "chnmuseum.cn"
+  ],
+  "name": "National Museum Of China"
+ },
+ "medsci": {
+  "domains": [
+   "medsci.cn"
+  ],
+  "name": "梅斯医学 MedSci"
+ },
+ "yenpress": {
+  "domains": [
+   "yenpress.com"
+  ],
+  "name": "Yen Press"
+ },
+ "cdzjryb": {
+  "domains": [
+   "zw.cdzjryb.com"
+  ],
+  "name": "成都住建蓉 e 办"
+ },
+ "gf-cn": {
+  "domains": [
+   "sunborngame.com"
+  ],
+  "name": "少女前线"
+ },
+ "pencilnews": {
+  "domains": [
+   "pencilnews.cn"
+  ],
+  "name": "铅笔道"
+ },
+ "cbpanet": {
+  "domains": [
+   "cbpanet.com"
+  ],
+  "name": "中国豆制品网"
+ },
+ "lenovo": {
+  "domains": [
+   "lenovo.com.cn"
+  ],
+  "name": "联想"
+ },
+ "canada.ca": {
+  "domains": [
+   "canada.ca"
+  ],
+  "name": "Canada.ca"
+ },
+ "okx": {
+  "domains": [
+   "okx.com/zh-hans"
+  ],
+  "name": "欧易 OKX"
+ },
+ "right": {
+  "domains": [
+   "right.com.cn"
+  ],
+  "name": "恩山无线论坛"
+ },
+ "gzhu": {
+  "domains": [
+   "yjsy.gzhu.edu.cn"
+  ],
+  "name": "广州大学"
+ },
+ "teamblind": {
+  "domains": [
+   "teamblind.com"
+  ],
+  "name": "Blind"
+ },
+ "finviz": {
+  "domains": [
+   "finviz.com"
+  ],
+  "name": "finviz"
+ },
+ "colamanga": {
+  "domains": [
+   "colamanga.com"
+  ],
+  "name": "COLAMANGA"
+ },
+ "jbma": {
+  "domains": [
+   "jbma.net"
+  ],
+  "name": "Japan Bullion Market Association"
+ },
+ "ebb": {
+  "domains": [
+   "ebb.io"
+  ],
+  "name": "ebb"
+ },
+ "utdallas": {
+  "domains": [
+   "utdallas.edu"
+  ],
+  "name": "University of Texas at Dallas"
+ },
+ "letterboxd": {
+  "domains": [
+   "letterboxd.com"
+  ],
+  "name": "Letterboxd"
+ },
+ "ahm": {
+  "domains": [
+   "ahm.cn"
+  ],
+  "name": "Anhui Museum"
+ },
+ "aozora": {
+  "domains": [
+   "aozora.gr.jp"
+  ],
+  "name": "青空文庫"
+ },
+ "nymity": {
+  "domains": [
+   "censorbib.nymity.ch"
+  ],
+  "name": "nymity"
+ },
+ "jandan": {
+  "domains": [
+   "jandan.net"
+  ],
+  "name": "煎蛋"
+ },
+ "yxrb": {
+  "domains": [
+   "news.yxrb.net"
+  ],
+  "name": "游戏日报"
+ },
+ "catti": {
+  "domains": [
+   "catticenter.com"
+  ],
+  "name": "全国翻译专业资格水平考试 (CATTI)"
+ },
+ "mpaypass": {
+  "domains": [
+   "mpaypass.com.cn"
+  ],
+  "name": "移动支付网"
+ },
+ "99percentinvisible": {
+  "domains": [
+   "99percentinvisible.org"
+  ],
+  "name": "99% Invisible"
+ },
+ "ctbu": {
+  "domains": [
+   "ctbu.edu.cn/"
+  ],
+  "name": "重庆工商大学"
+ },
+ "komiic": {
+  "domains": [
+   "komiic.com"
+  ],
+  "name": "Komiic"
+ },
+ "link3": {
+  "domains": [
+   "link3.to"
+  ],
+  "name": "Link3"
+ },
+ "sonomama": {
+  "domains": [
+   "sonomama.net"
+  ],
+  "name": "Sonomama"
+ },
+ "readwise": {
+  "domains": [
+   "readwise.io"
+  ],
+  "name": "Readwise"
+ },
+ "sgcc": {
+  "domains": [
+   "sgcc.com.cn"
+  ],
+  "name": "国家电网"
+ },
+ "c114": {
+  "domains": [
+   "c114.com.cn"
+  ],
+  "name": "C114 通信网"
+ },
+ "hkepc": {
+  "domains": [
+   "hkepc.com"
+  ],
+  "name": "HKEPC"
+ },
+ "freewechat": {
+  "domains": [
+   "freewechat.com"
+  ],
+  "name": "自由微信"
+ },
+ "bvisness": {
+  "domains": [
+   "bvisness.me"
+  ],
+  "name": "Ben Visness"
+ },
+ "cccfna": {
+  "domains": [
+   "cccfna.org.cn"
+  ],
+  "name": "中国食品土畜进出口商会"
+ },
+ "fx57": {
+  "domains": [
+   "fx57.cn"
+  ],
+  "name": "枫叶网"
+ },
+ "ajmide": {
+  "domains": [
+   "m.ajmide.com"
+  ],
+  "name": "阿基米德 FM"
+ },
+ "cline": {
+  "domains": [
+   "cline.bot"
+  ],
+  "name": "Cline Offcial Blog"
+ },
+ "keep": {
+  "domains": [
+   "gotokeep.com"
+  ],
+  "name": "Keep"
+ },
+ "un": {
+  "domains": [
+   "un.org"
+  ],
+  "name": "United Nations"
+ },
+ "idaily": {
+  "domains": [
+   "idai.ly"
+  ],
+  "name": "iDaily"
+ },
+ "pixiv": {
+  "domains": [
+   "pixiv.net"
+  ],
+  "name": "pixiv"
+ },
+ "xhamster": {
+  "domains": [
+   "xhamster.com"
+  ],
+  "name": "xHamster"
+ },
+ "trow": {
+  "domains": [
+   "trow.cc"
+  ],
+  "name": "The Ring of Wonder"
+ },
+ "bukenavi": {
+  "domains": [
+   "bukenavi.jp"
+  ],
+  "name": "Bukenavi"
+ },
+ "kpmg": {
+  "domains": [
+   "kpmg.com"
+  ],
+  "name": "KPMG"
+ },
+ "neatdownloadmanager": {
+  "domains": [
+   "neatdownloadmanager.com"
+  ],
+  "name": "Neat Download Manager"
+ },
+ "reactiflux": {
+  "domains": [
+   "reactiflux.com"
+  ],
+  "name": "Reactiflux"
+ },
+ "ddosi": {
+  "domains": [
+   "ddosi.org"
+  ],
+  "name": "雨苁博客"
+ },
+ "3kns": {
+  "domains": [
+   "3kns.com"
+  ],
+  "name": "3k-Switch游戏库"
+ },
+ "loltw": {
+  "domains": [
+   "lol.garena.tw"
+  ],
+  "name": "英雄联盟"
+ },
+ "kimlaw": {
+  "domains": [
+   "kimlaw.or.kr"
+  ],
+  "name": "The Korea Institute of Marine Law"
+ },
+ "ssm": {
+  "domains": [
+   "ssm.gov.mo"
+  ],
+  "name": "澳门卫生局"
+ },
+ "abskoop": {
+  "domains": [
+   "nsfw.abskoop.com"
+  ],
+  "name": "A 姐分享"
+ },
+ "chicagotribune": {
+  "domains": [
+   "chicagotribune.com"
+  ],
+  "name": "Chicago Tribune"
+ },
+ "barronschina": {
+  "domains": [
+   "barronschina.com.cn"
+  ],
+  "name": "巴伦周刊中文版"
+ },
+ "rfa": {
+  "domains": [
+   "rfa.org"
+  ],
+  "name": "Radio Free Asia (RFA) 自由亚洲电台"
+ },
+ "wabei": {
+  "domains": [
+   "wabei.cn"
+  ],
+  "name": "挖贝网"
+ },
+ "javdb": {
+  "domains": [
+   "javdb.com"
+  ],
+  "name": "JavDB"
+ },
+ "ynet": {
+  "domains": [
+   "ynet.com"
+  ],
+  "name": "北青网"
+ },
+ "autotrader": {
+  "domains": [
+   "autotrader.co.uk"
+  ],
+  "name": "AutoTrader"
+ },
+ "zed": {
+  "domains": [
+   "zed.dev"
+  ],
+  "name": "Zed"
+ },
+ "baoyu": {
+  "domains": [
+   "baoyu.io"
+  ],
+  "name": "宝玉"
+ },
+ "taoguba": {
+  "domains": [
+   "tgb.cn"
+  ],
+  "name": "淘股吧"
+ },
+ "cartoonmad": {
+  "domains": [
+   "cartoonmad.com"
+  ],
+  "name": "動漫狂"
+ },
+ "zuel": {
+  "domains": [
+   "wap.zuel.edu.cn"
+  ],
+  "name": "中南财经政法大学"
+ },
+ "qidian": {
+  "domains": [
+   "qidian.com"
+  ],
+  "name": "起点"
+ },
+ "gamersky": {
+  "domains": [
+   "gamersky.com"
+  ],
+  "name": "GamerSky"
+ },
+ "ryo.lu": {
+  "domains": [
+   "ryo.lu"
+  ],
+  "name": "Ryo Lu"
+ },
+ "webcatalog": {
+  "domains": [
+   "desktop.webcatalog.io"
+  ],
+  "name": "WebCatalog"
+ },
+ "unraid": {
+  "domains": [
+   "unraid.net"
+  ],
+  "name": "Unraid"
+ },
+ "jinse": {
+  "domains": [
+   "jinse.com.cn"
+  ],
+  "name": "金色财经"
+ },
+ "yxdzqb": {
+  "domains": [
+   "yxdzqb.com"
+  ],
+  "name": "游戏打折情报"
+ },
+ "warthunder": {
+  "domains": [
+   "warthunder.com"
+  ],
+  "name": "War Thunder"
+ },
+ "zsnews": {
+  "domains": [
+   "zsnews.cn"
+  ],
+  "name": "中山网"
+ },
+ "digitaling": {
+  "domains": [
+   "digitaling.com"
+  ],
+  "name": "数英网"
+ },
+ "misskon": {
+  "domains": [
+   "misskon.com"
+  ],
+  "name": "MissKON"
+ },
+ "cohere": {
+  "domains": [
+   "cohere.com"
+  ],
+  "name": "Cohere"
+ },
+ "hpoi": {
+  "domains": [
+   "hpoi.net"
+  ],
+  "name": "Hpoi 手办维基"
+ },
+ "bc3ts": {
+  "domains": [
+   "web.bc3ts.net"
+  ],
+  "name": "爆料公社"
+ },
+ "gigazine": {
+  "domains": [
+   "gigazine.net"
+  ],
+  "name": "GIGAZINE"
+ },
+ "aamacau": {
+  "domains": [
+   "aamacau.com"
+  ],
+  "name": "論盡媒體 AllAboutMacau Media"
+ },
+ "wogem": {
+  "domains": [
+   "wogem.at"
+  ],
+  "name": "WOGEM"
+ },
+ "zhizhuan100": {
+  "domains": [
+   "zhizhuan100.com.cn"
+  ],
+  "name": "智篆商业"
+ },
+ "scientificamerican": {
+  "domains": [
+   "scientificamerican.com"
+  ],
+  "name": "Scientific American"
+ },
+ "zhuwang": {
+  "domains": [
+   "zhujia.zhuwang.cc"
+  ],
+  "name": "中国养猪网"
+ },
+ "abc": {
+  "domains": [
+   "abc.net.au"
+  ],
+  "name": "ABC News (Australian Broadcasting Corporation)"
+ },
+ "ncpssd": {
+  "domains": [
+   "ncpssd.cn"
+  ],
+  "name": "国家哲学社会科学文献中心"
+ },
+ "wyzxwk": {
+  "domains": [
+   "wyzxwk.com"
+  ],
+  "name": "乌有之乡"
+ },
+ "uber": {
+  "domains": [
+   "uber.com"
+  ],
+  "name": "Uber"
+ },
+ "gamegene": {
+  "domains": [
+   "news.gamegene.cn"
+  ],
+  "name": "游戏基因"
+ },
+ "mittrchina": {
+  "domains": [
+   "mittrchina.com"
+  ],
+  "name": "麻省理工科技评论"
+ },
+ "theblockbeats": {
+  "domains": [
+   "theblockbeats.info"
+  ],
+  "name": "律动 BlockBeats"
+ },
+ "sigsac": {
+  "domains": [
+   "sigsac.org"
+  ],
+  "name": "ACM Special Interest Group on Security Audit and Control"
+ },
+ "cyzone": {
+  "domains": [
+   "cyzone.cn"
+  ],
+  "name": "创业邦"
+ },
+ "jtn": {
+  "domains": [
+   "jtn.com"
+  ],
+  "name": "金诚同达律师事务所"
+ },
+ "kunchengblog": {
+  "domains": [
+   "kunchengblog.com"
+  ],
+  "name": "Kun Cheng"
+ },
+ "leiphone": {
+  "domains": [
+   "leiphone.com"
+  ],
+  "name": "雷峰网"
+ },
+ "qzcea": {
+  "domains": [
+   "qzcea.org"
+  ],
+  "name": "泉州市跨境电子商务协会"
+ },
+ "miui": {
+  "domains": [
+   "miui.com"
+  ],
+  "name": "MIUI"
+ },
+ "wdfxw": {
+  "domains": [
+   "wdfxw.net"
+  ],
+  "name": "WDFXW文档分享网"
+ },
+ "odakyu": {
+  "domains": [
+   "odakyu.jp"
+  ],
+  "name": "Odakyu Electric Railway"
+ },
+ "xboxfan": {
+  "domains": [
+   "xboxfan.com"
+  ],
+  "name": "盒心光环"
+ },
+ "nycu": {
+  "domains": [
+   "nycu.edu.tw"
+  ],
+  "name": "National Yang Ming Chiao Tung University"
+ },
+ "grupoanimal": {
+  "domains": [
+   "grupoanimal.mx"
+  ],
+  "name": "Grupo Animal"
+ },
+ "guangzhoumetro": {
+  "domains": [
+   "gzmtr.com"
+  ],
+  "name": "广州地铁"
+ },
+ "caicai": {
+  "domains": [
+   "caicai.me"
+  ],
+  "name": "CaiCai"
+ },
+ "mcdonalds": {
+  "domains": [
+   "mcdonalds.com.cn"
+  ],
+  "name": "麦当劳"
+ },
+ "etoland": {
+  "domains": [
+   "etoland.co.kr"
+  ],
+  "name": "eTOLAND"
+ },
+ "jpmorganchase": {
+  "domains": [
+   "jpmorganchase.com"
+  ],
+  "name": "JPMorgan Chase"
+ },
+ "ebc": {
+  "domains": [
+   "ebc.net.tw"
+  ],
+  "name": "東森新聞"
+ },
+ "getitfree": {
+  "domains": [
+   "getitfree.cn"
+  ],
+  "name": "正版中国"
+ },
+ "wzbc": {
+  "domains": [
+   "wzbc.edu.cn"
+  ],
+  "name": "温州商学院"
+ },
+ "twitter": {
+  "domains": [
+   "x.com"
+  ],
+  "name": "X (Twitter)"
+ },
+ "skeb": {
+  "domains": [
+   "skeb.jp"
+  ],
+  "name": "Skeb"
+ },
+ "acfun": {
+  "domains": [
+   "acfun.cn"
+  ],
+  "name": "AcFun"
+ },
+ "jrj": {
+  "domains": [
+   "jrj.com.cn"
+  ],
+  "name": "金融界"
+ },
+ "141jav": {
+  "domains": [
+   "141jav.com"
+  ],
+  "name": "141JAV"
+ },
+ "keio": {
+  "domains": [
+   "keio.co.jp"
+  ],
+  "name": "Keio Corporation"
+ },
+ "lifeweek": {
+  "domains": [
+   "lifeweek.com.cn"
+  ],
+  "name": "三联生活周刊"
+ },
+ "uukanshu": {
+  "domains": [
+   "uukanshu.cc"
+  ],
+  "name": "UU 看书"
+ },
+ "ftm": {
+  "domains": [
+   "ftm.eu"
+  ],
+  "name": "Follow The Money"
+ },
+ "spglobal": {
+  "domains": [
+   "spglobal.com"
+  ],
+  "name": "S&P Global"
+ },
+ "foreignaffairs": {
+  "domains": [
+   "foreignaffairs.com"
+  ],
+  "name": "Foreign Affairs"
+ },
+ "thepaper": {
+  "domains": [
+   "thepaper.cn"
+  ],
+  "name": "澎湃新闻"
+ },
+ "shopback": {
+  "domains": [
+   "shopback.com.tw"
+  ],
+  "name": "ShopBack"
+ },
+ "bangumi.moe": {
+  "domains": [
+   "bangumi.online"
+  ],
+  "name": "萌番组"
+ },
+ "shisu": {
+  "domains": [
+   "shisu.edu.cn"
+  ],
+  "name": "上海外国语大学"
+ },
+ "nodejs": {
+  "domains": [
+   "nodejs.org"
+  ],
+  "name": "Node.js"
+ },
+ "2048": {
+  "domains": [
+   "hjd2048.com"
+  ],
+  "name": "2048 核基地"
+ },
+ "lkong": {
+  "domains": [
+   "lkong.com"
+  ],
+  "name": "龙空"
+ },
+ "popyard": {
+  "domains": [
+   "cn.popyard.space"
+  ],
+  "name": "八阕"
+ },
+ "wsj": {
+  "domains": [
+   "cn.wsj.com"
+  ],
+  "name": "The Wall Street Journal (WSJ) 华尔街日报"
+ },
+ "resonac": {
+  "domains": [
+   "resonac.com"
+  ],
+  "name": "Resonac"
+ },
+ "chsi": {
+  "domains": [
+   "yz.chsi.com.cn"
+  ],
+  "name": "中国研究生招生信息网"
+ },
+ "cau": {
+  "domains": [
+   "ciee.cau.edu.cn"
+  ],
+  "name": "中国农业大学"
+ },
+ "fx678": {
+  "domains": [
+   "fx678.com"
+  ],
+  "name": "汇通网"
+ },
+ "finology": {
+  "domains": [
+   "insider.finology.in"
+  ],
+  "name": "Finology Insider"
+ },
+ "unusualwhales": {
+  "domains": [
+   "unusualwhales.com"
+  ],
+  "name": "Unusual Whales"
+ },
+ "zhubai": {
+  "domains": [
+   "zhubai.love"
+  ],
+  "name": "竹白"
+ },
+ "5music": {
+  "domains": [
+   "5music.com.tw"
+  ],
+  "name": "五大唱片"
+ },
+ "galxe": {
+  "domains": [
+   "app.galxe.com"
+  ],
+  "name": "Galxe"
+ },
+ "30secondsofcode": {
+  "domains": [
+   "30secondsofcode.org"
+  ],
+  "name": "30 Seconds of code"
+ },
+ "buct": {
+  "domains": [
+   "buct.edu.cn"
+  ],
+  "name": "北京化工大学"
+ },
+ "oceanengine": {
+  "domains": [
+   "trendinsight.oceanengine.com"
+  ],
+  "name": "巨量算数 - 算数指数"
+ },
+ "weekendhk": {
+  "domains": [
+   "weekendhk.com"
+  ],
+  "name": "新假期周刊"
+ },
+ "cosplaytele": {
+  "domains": [
+   "cosplaytele.com"
+  ],
+  "name": "CosplayTele"
+ },
+ "bandcamp": {
+  "domains": [
+   "bandcamp.com"
+  ],
+  "name": "Bandcamp"
+ },
+ "swufe": {
+  "domains": [
+   "it.swufe.edu.cn"
+  ],
+  "name": "西南财经大学"
+ },
+ "tju": {
+  "domains": [
+   "cic.tju.edu.cn"
+  ],
+  "name": "Tianjin University 天津大学"
+ },
+ "nciae": {
+  "domains": [
+   "nciae.edu.cn"
+  ],
+  "name": "北华航天工业学院"
+ },
+ "pixabay": {
+  "domains": [
+   "pixabay.com"
+  ],
+  "name": "Pixabay"
+ },
+ "naceweb": {
+  "domains": [
+   "community.naceweb.org"
+  ],
+  "name": "National Association of Colleges and Employers"
+ },
+ "acgvinyl": {
+  "domains": [
+   "acgvinyl.com"
+  ],
+  "name": "ACG Vinyl - 黑胶"
+ },
+ "chongdiantou": {
+  "domains": [
+   "chongdiantou.com"
+  ],
+  "name": "充电头网"
+ },
+ "gdut": {
+  "domains": [
+   "oas.gdut.edu.cn"
+  ],
+  "name": "广东工业大学"
+ },
+ "capitalmuseum": {
+  "domains": [
+   "capitalmuseum.org.cn/"
+  ],
+  "name": "Capital Museum"
+ },
+ "hackernews": {
+  "domains": [
+   "ycombinator.com"
+  ],
+  "name": "Hacker News"
+ },
+ "xjtu": {
+  "domains": [
+   "2yuan.xjtu.edu.cn"
+  ],
+  "name": "西安交通大学"
+ },
+ "98zhibo": {
+  "domains": [
+   "98zhibo.com"
+  ],
+  "name": "98直播吧"
+ },
+ "cbndata": {
+  "domains": [
+   "cbndata.com"
+  ],
+  "name": "CBNData"
+ },
+ "eztv": {
+  "domains": [
+   "eztv.it"
+  ],
+  "name": "EZTV"
+ },
+ "sicau": {
+  "domains": [
+   "sicau.edu.cn"
+  ],
+  "name": "四川农业大学"
+ },
+ "yande": {
+  "domains": [
+   "yande.re"
+  ],
+  "name": "yande.re"
+ },
+ "capitalmind": {
+  "domains": [
+   "capitalmind.in"
+  ],
+  "name": "Capitalmind"
+ },
+ "rfi": {
+  "domains": [
+   "rfi.fr"
+  ],
+  "name": "Radio France Internationale"
+ },
+ "chub": {
+  "domains": [
+   "chub.ai"
+  ],
+  "name": "Chub"
+ },
+ "poxiao": {
+  "domains": [
+   "poxiao.com"
+  ],
+  "name": "破晓电影"
+ },
+ "zjgtjy": {
+  "domains": [
+   "zjgtjy.cn"
+  ],
+  "name": "浙江省土地使用权网上交易系统"
+ },
+ "51cto": {
+  "domains": [
+   "51cto.com"
+  ],
+  "name": "51CTO"
+ },
+ "sse": {
+  "domains": [
+   "bond.sse.com.cn"
+  ],
+  "name": "上海证券交易所"
+ },
+ "transformer-circuits": {
+  "domains": [
+   "transformer-circuits.pub"
+  ],
+  "name": "Transformer Circuits"
+ },
+ "gitcode": {
+  "domains": [
+   "gitcode.com"
+  ],
+  "name": "GitCode"
+ },
+ "ally": {
+  "domains": [
+   "rail.ally.net.cn"
+  ],
+  "name": "艾莱资讯"
+ },
+ "testflight": {
+  "domains": [
+   "testflight.apple.com"
+  ],
+  "name": "TestFlight"
+ },
+ "europechinese": {
+  "domains": [
+   "europechinese.blogspot.com"
+  ],
+  "name": "歐洲動態（國際）"
+ },
+ "ifi-audio": {
+  "domains": [
+   "ifi-audio.com"
+  ],
+  "name": "iFi audio"
+ },
+ "vulture": {
+  "domains": [
+   "vulture.com"
+  ],
+  "name": "Vulture"
+ },
+ "oshwhub": {
+  "domains": [
+   "oshwhub.com"
+  ],
+  "name": "oshwhub 立创开源硬件平台"
+ },
+ "ui.cn": {
+  "domains": [
+   "ui.cn"
+  ],
+  "name": "UI 中国"
+ },
+ "my-formosa": {
+  "domains": [
+   "my-formosa.com.tw"
+  ],
+  "name": "美麗島電子報"
+ },
+ "52hrtt": {
+  "domains": [
+   "52hrtt.com"
+  ],
+  "name": "52hrtt 华人头条"
+ },
+ "ups": {
+  "domains": [
+   "ups.com"
+  ],
+  "name": "UPS"
+ },
+ "ncwu": {
+  "domains": [
+   "ncwu.edu.cn"
+  ],
+  "name": "华北水利水电大学"
+ },
+ "mymusicsheet": {
+  "domains": [
+   "mymusicfive.com"
+  ],
+  "name": "mymusic5 (MyMusicSheet)"
+ },
+ "ornl": {
+  "domains": [
+   "ornl.gov"
+  ],
+  "name": "Oak Ridge National Laboratory"
+ },
+ "fediverse": {
+  "domains": [
+   "fediverse.observer"
+  ],
+  "name": "Fediverse"
+ },
+ "cebbank": {
+  "domains": [
+   "cebbank.com"
+  ],
+  "name": "中国光大银行"
+ },
+ "fansly": {
+  "domains": [
+   "fansly.com"
+  ],
+  "name": "Fansly"
+ },
+ "zaobao": {
+  "domains": [
+   "zaobao.com"
+  ],
+  "name": "联合早报"
+ },
+ "gitee": {
+  "domains": [
+   "gitee.com"
+  ],
+  "name": "Gitee"
+ },
+ "zjgsu": {
+  "domains": [
+   "news.zjgsu.edu.cn"
+  ],
+  "name": "浙江工商大学"
+ },
+ "dxy": {
+  "domains": [
+   "dxy.cn"
+  ],
+  "name": "丁香园"
+ },
+ "ixigua": {
+  "domains": [
+   "ixigua.com"
+  ],
+  "name": "西瓜视频"
+ },
+ "genossenschaften": {
+  "domains": [
+   "genossenschaften.immo"
+  ],
+  "name": "Genossenschaften.immo"
+ },
+ "zyshow": {
+  "domains": [
+   "zyshow.net"
+  ],
+  "name": "综艺秀"
+ },
+ "warhammer-community": {
+  "domains": [
+   "warhammer-community.com/en-gb/"
+  ],
+  "name": "Warhammer Community"
+ },
+ "sfacg": {
+  "domains": [
+   "book.sfacg.com"
+  ],
+  "name": "SF 轻小说"
+ },
+ "questn": {
+  "domains": [
+   "app.questn.com"
+  ],
+  "name": "QuestN"
+ },
+ "meipai": {
+  "domains": [
+   "meipai.com"
+  ],
+  "name": "美拍"
+ },
+ "diershoubing": {
+  "domains": [
+   "diershoubing.com"
+  ],
+  "name": "二柄 APP"
+ },
+ "tgbus": {
+  "domains": [
+   "tgbus.com"
+  ],
+  "name": "电玩巴士 TGBUS"
+ },
+ "polimi": {
+  "domains": [
+   "polimi.it"
+  ],
+  "name": "Polimi"
+ },
+ "wohnnet": {
+  "domains": [
+   "wohnnet.at"
+  ],
+  "name": "wohnnet.at"
+ },
+ "gofans": {
+  "domains": [
+   "gofans.cn"
+  ],
+  "name": "GoFans"
+ },
+ "yystv": {
+  "domains": [
+   "yystv.cn"
+  ],
+  "name": "游研社"
+ },
+ "changba": {
+  "domains": [
+   "changba.com"
+  ],
+  "name": "唱吧"
+ },
+ "zread": {
+  "domains": [
+   "zread.ai"
+  ],
+  "name": "Zread"
+ },
+ "ndss-symposium": {
+  "domains": [
+   "ndss-symposium.org"
+  ],
+  "name": "Network and Distributed System Security (NDSS) Symposium"
+ },
+ "wangwusiwj": {
+  "domains": [
+   "wangwusiwj.blogspot.com"
+  ],
+  "name": "王五四文集"
+ },
+ "xynu": {
+  "domains": [
+   "zkb.xynu.edu.cn"
+  ],
+  "name": "信阳师范学院"
+ },
+ "jou": {
+  "domains": [
+   "jou.edu.cn"
+  ],
+  "name": "江苏海洋大学"
+ },
+ "cqust": {
+  "domains": [
+   "cqust.edu.cn"
+  ],
+  "name": "重庆科技学院"
+ },
+ "sctu": {
+  "domains": [
+   "sctu.edu.cn"
+  ],
+  "name": "四川旅游学院"
+ },
+ "njupt": {
+  "domains": [
+   "jwc.njupt.edu.cn"
+  ],
+  "name": "南京邮电大学"
+ },
+ "huitun": {
+  "domains": [
+   "huitun.com"
+  ],
+  "name": "灰豚数据"
+ },
+ "jianshu": {
+  "domains": [
+   "jianshu.com"
+  ],
+  "name": "简书"
+ },
+ "putty": {
+  "domains": [
+   "chiark.greenend.org.uk"
+  ],
+  "name": "PuTTY"
+ },
+ "grubstreet": {
+  "domains": [
+   "grubstreet.com"
+  ],
+  "name": "Grub Street"
+ },
+ "dn": {
+  "domains": [
+   "dn.com"
+  ],
+  "name": "DN.com"
+ },
+ "sara": {
+  "domains": [
+   "sara.org.cn"
+  ],
+  "name": "上海业余无线电协会"
+ },
+ "axis-studios": {
+  "domains": [
+   "axis-studios.com"
+  ],
+  "name": "Axis Studios"
+ },
+ "byteclicks": {
+  "domains": [
+   "byteclicks.com"
+  ],
+  "name": "字节点击"
+ },
+ "sspai": {
+  "domains": [
+   "sspai.com"
+  ],
+  "name": "少数派 sspai"
+ },
+ "cnbc": {
+  "domains": [
+   "search.cnbc.com"
+  ],
+  "name": "CNBC"
+ },
+ "hk01": {
+  "domains": [
+   "hk01.com"
+  ],
+  "name": "香港 01"
+ },
+ "whb": {
+  "domains": [
+   "whb.cn"
+  ],
+  "name": "文汇报"
+ },
+ "gettr": {
+  "domains": [
+   "gettr.com"
+  ],
+  "name": "GETTR"
+ },
+ "aeaweb": {
+  "domains": [
+   "aeaweb.org"
+  ],
+  "name": "American Economic Association"
+ },
+ "famitsu": {
+  "domains": [
+   "famitsu.com"
+  ],
+  "name": "ファミ通"
+ },
+ "niaogebiji": {
+  "domains": [
+   "niaogebiji.com"
+  ],
+  "name": "鸟哥笔记"
+ },
+ "bfl": {
+  "domains": [
+   "bfl.ai"
+  ],
+  "name": "BFL AI"
+ },
+ "cool18": {
+  "domains": [
+   "cool18.com"
+  ],
+  "name": "禁忌书屋"
+ },
+ "icac": {
+  "domains": [
+   "icac.org.hk"
+  ],
+  "name": "Hong Kong Independent Commission Against Corruption 香港廉政公署"
+ },
+ "syosetu": {
+  "domains": [
+   "syosetu.com"
+  ],
+  "name": "Syosetu"
+ },
+ "discord": {
+  "domains": [
+   "discord.com"
+  ],
+  "name": "Discord"
+ },
+ "steam": {
+  "domains": [
+   "store.steampowered.com"
+  ],
+  "name": "Steam"
+ },
+ "bjeea": {
+  "domains": [
+   "bjeea.cn"
+  ],
+  "name": "北京教育考试院"
+ },
+ "autocentre": {
+  "domains": [
+   "autocentre.ua"
+  ],
+  "name": "Автоцентр.ua"
+ },
+ "springer": {
+  "domains": [
+   "springer.com"
+  ],
+  "name": "Springer"
+ },
+ "lagou": {
+  "domains": [
+   "lagou.com"
+  ],
+  "name": "拉勾网"
+ },
+ "vcb-s": {
+  "domains": [
+   "vcb-s.com"
+  ],
+  "name": "VCB-Studio"
+ },
+ "accessbriefing": {
+  "domains": [
+   "accessbriefing.com"
+  ],
+  "name": "Access Briefing"
+ },
+ "picnob.info": {
+  "domains": [
+   "instagram.com"
+  ],
+  "name": "Instagram"
+ },
+ "yna": {
+  "domains": [
+   "yna.co.kr"
+  ],
+  "name": "Yonhap News Agency"
+ },
+ "go": {
+  "domains": [
+   "go.jp"
+  ],
+  "name": "JapanGov"
+ },
+ "jingzhengu": {
+  "domains": [
+   "jingzhengu.com"
+  ],
+  "name": "精真估"
+ },
+ "dblp": {
+  "domains": [
+   "dblp.org"
+  ],
+  "name": "DBLP"
+ },
+ "thenewslens": {
+  "domains": [
+   "thenewslens.com"
+  ],
+  "name": "The News Lens 關鍵評論"
+ },
+ "wizfile": {
+  "domains": [
+   "antibody-software.com"
+  ],
+  "name": "WziFile"
+ },
+ "piapro": {
+  "domains": [
+   "piapro.jp"
+  ],
+  "name": "piapro"
+ },
+ "radio": {
+  "domains": [
+   "radio.cn"
+  ],
+  "name": "云听"
+ },
+ "appstare": {
+  "domains": [
+   "appstare.net"
+  ],
+  "name": "AppStare"
+ },
+ "gelonghui": {
+  "domains": [
+   "gelonghui.com"
+  ],
+  "name": "格隆汇"
+ },
+ "huawei": {
+  "domains": [
+   "developer.huawei.com"
+  ],
+  "name": "华为"
+ },
+ "im2maker": {
+  "domains": [
+   "im2maker.com"
+  ],
+  "name": "镁客网"
+ },
+ "wikipedia": {
+  "domains": [
+   "en.wikipedia.org"
+  ],
+  "name": "Wikipedia"
+ },
+ "lizhi": {
+  "domains": [
+   "lizhi.fm"
+  ],
+  "name": "荔枝 FM"
+ },
+ "guduodata": {
+  "domains": [
+   "data.guduodata.com"
+  ],
+  "name": "骨朵数据"
+ },
+ "lemonde": {
+  "domains": [
+   "lemonde.fr"
+  ],
+  "name": "Le Monde"
+ },
+ "bit": {
+  "domains": [
+   "cs.bit.edu.cn"
+  ],
+  "name": "北京理工大学"
+ },
+ "wfdf": {
+  "domains": [
+   "wfdf.sport"
+  ],
+  "name": "WFDF"
+ },
+ "patagonia": {
+  "domains": [
+   "patagonia.com"
+  ],
+  "name": "Patagonia"
+ },
+ "weidian": {
+  "domains": [
+   "weidian.com"
+  ],
+  "name": "微店"
+ },
+ "lianxh": {
+  "domains": [
+   "lianxh.cn"
+  ],
+  "name": "连享会"
+ },
+ "javbus": {
+  "domains": [
+   "javbus.com"
+  ],
+  "name": "JavBus"
+ },
+ "vice": {
+  "domains": [
+   "vice.com"
+  ],
+  "name": "VICE"
+ },
+ "uraaka-joshi": {
+  "domains": [
+   "uraaka-joshi.com"
+  ],
+  "name": "裏垢女子まとめ"
+ },
+ "cuit": {
+  "domains": [
+   "cuit.edu.cn"
+  ],
+  "name": "成都信息工程大学"
+ },
+ "tableau": {
+  "domains": [
+   "public.tableau.com"
+  ],
+  "name": "Tableau"
+ },
+ "aiaa": {
+  "domains": [
+   "arc.aiaa.org"
+  ],
+  "name": "AIAA Aerospace Research Central"
+ },
+ "sdo": {
+  "domains": [
+   "sdo.com"
+  ],
+  "name": "盛趣游戏在线"
+ },
+ "dlu": {
+  "domains": [
+   "dlu.edu.cn"
+  ],
+  "name": "大连大学"
+ },
+ "jewishmuseum": {
+  "domains": [
+   "thejewishmuseum.org"
+  ],
+  "name": "The Jewish Museum"
+ },
+ "amazon": {
+  "domains": [
+   "amazon.com"
+  ],
+  "name": "Amazon"
+ },
+ "6v123": {
+  "domains": [
+   "hao6v.cc"
+  ],
+  "name": "6v 电影"
+ },
+ "rmlt": {
+  "domains": [
+   "rmlt.com.cn"
+  ],
+  "name": "人民论坛网"
+ },
+ "dr": {
+  "domains": [
+   "dr.dk"
+  ],
+  "name": "DR (Danmarks Radio)"
+ },
+ "asus": {
+  "domains": [
+   "asus.com.cn"
+  ],
+  "name": "ASUS"
+ },
+ "aflcio": {
+  "domains": [
+   "aflcio.org"
+  ],
+  "name": "American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)"
+ },
+ "straitstimes": {
+  "domains": [
+   "straitstimes.com"
+  ],
+  "name": "The Strait Times"
+ },
+ "gitlab": {
+  "domains": [
+   "gitlab.com"
+  ],
+  "name": "GitLab"
+ },
+ "transcriptforest": {
+  "domains": [
+   "transcriptforest.com"
+  ],
+  "name": "Transcript Forest"
+ },
+ "fangchan": {
+  "domains": [
+   "fangchan.com"
+  ],
+  "name": "中房网"
+ },
+ "paulgraham": {
+  "domains": [
+   "paulgraham.com"
+  ],
+  "name": "Paul Graham"
+ },
+ "baidu": {
+  "domains": [
+   "baidu.com"
+  ],
+  "name": "百度"
+ },
+ "bangumi.tv": {
+  "domains": [
+   "bangumi.tv"
+  ],
+  "name": "Bangumi 番组计划"
+ },
+ "allpoetry": {
+  "domains": [
+   "allpoetry.com"
+  ],
+  "name": "All Poetry"
+ },
+ "peopo": {
+  "domains": [
+   "peopo.org"
+  ],
+  "name": "PeoPo 公民新聞"
+ },
+ "thehindu": {
+  "domains": [
+   "thehindu.com"
+  ],
+  "name": "The Hindu"
+ },
+ "kaiyanapp": {
+  "domains": [
+   "kaiyanapp.com"
+  ],
+  "name": "开眼"
+ },
+ "tass": {
+  "domains": [
+   "tass.com"
+  ],
+  "name": "Russian News Agency TASS"
+ },
+ "dangdang": {
+  "domains": [
+   "open.dangdang.com"
+  ],
+  "name": "当当开放平台"
+ },
+ "hit": {
+  "domains": [
+   "hit.edu.cn"
+  ],
+  "name": "哈尔滨工业大学"
+ },
+ "dahecube": {
+  "domains": [
+   "dahecube.com"
+  ],
+  "name": "大河财立方"
+ },
+ "apnic": {
+  "domains": [
+   "blog.apnic.net"
+  ],
+  "name": "APNIC"
+ },
+ "boc": {
+  "domains": [
+   "boc.cn"
+  ],
+  "name": "中国银行"
+ },
+ "gushiwen": {
+  "domains": [
+   "gushiwen.cn"
+  ],
+  "name": "古诗文网"
+ },
+ "soulapp": {
+  "domains": [
+   "soulapp.cn"
+  ],
+  "name": "Soul"
+ },
+ "tongji": {
+  "domains": [
+   "bksy.tongji.edu.cn"
+  ],
+  "name": "同济大学"
+ },
+ "scoop": {
+  "domains": [
+   "scoop.sh"
+  ],
+  "name": "Scoop"
+ },
+ "hicairo": {
+  "domains": [
+   "hicairo.com"
+  ],
+  "name": "HiFeng"
+ },
+ "gs": {
+  "domains": [
+   "goldmansachs.com"
+  ],
+  "name": "Goldman Sachs"
+ },
+ "ruby-china": {
+  "domains": [
+   "ruby-china.org"
+  ],
+  "name": "Ruby China"
+ },
+ "pubscholar": {
+  "domains": [
+   "pubscholar.cn"
+  ],
+  "name": "PubScholar 公益学术平台"
+ },
+ "csu": {
+  "domains": [
+   "career.csu.edu.cn"
+  ],
+  "name": "中南大学"
+ },
+ "kuaidi100": {
+  "domains": [
+   "kuaidi100.com"
+  ],
+  "name": "快递 100"
+ },
+ "hljucm": {
+  "domains": [
+   "yjsy.hljucm.net"
+  ],
+  "name": "黑龙江中医药大学"
+ },
+ "pingwest": {
+  "domains": [
+   "pingwest.com"
+  ],
+  "name": "品玩"
+ },
+ "zjut": {
+  "domains": [
+   "zjut.edu.cn"
+  ],
+  "name": "浙江工业大学"
+ },
+ "aliyun": {
+  "domains": [
+   "developer.aliyun.com"
+  ],
+  "name": "阿里云"
+ },
+ "smashingmagazine": {
+  "domains": [
+   "smashingmagazine.com"
+  ],
+  "name": "Smashing Magazine"
+ },
+ "jamesclear": {
+  "domains": [
+   "jamesclear.com"
+  ],
+  "name": "James Clear"
+ },
+ "cahkms": {
+  "domains": [
+   "cahkms.org"
+  ],
+  "name": "全国港澳研究会"
+ },
+ "dehenglaw": {
+  "domains": [
+   "dehenglaw.com"
+  ],
+  "name": "德恒律师事务所"
+ },
+ "rescuetime": {
+  "domains": [
+   "rescuetime.com"
+  ],
+  "name": "RescueTime"
+ },
+ "fortunechina": {
+  "domains": [
+   "fortunechina.com"
+  ],
+  "name": "财富中文网"
+ },
+ "lit": {
+  "domains": [
+   "lit.edu.cn"
+  ],
+  "name": "洛阳理工学院"
+ },
+ "asianfanfics": {
+  "domains": [
+   "asianfanfics.com"
+  ],
+  "name": "Asianfanfics"
+ },
+ "cqgas": {
+  "domains": [
+   "cqgas.cn"
+  ],
+  "name": "重庆燃气"
+ },
+ "pwc": {
+  "domains": [
+   "strategyand.pwc.com"
+  ],
+  "name": "PwC Strategy&"
+ },
+ "zaozao": {
+  "domains": [
+   "zaozao.run"
+  ],
+  "name": "前端早早聊"
+ },
+ "southcn": {
+  "domains": [
+   "nfapp.southcn.com"
+  ],
+  "name": "南方网"
+ },
+ "hitsz": {
+  "domains": [
+   "hitsz.edu.cn"
+  ],
+  "name": "哈尔滨工业大学（深圳）"
+ },
+ "sehuatang": {
+  "domains": [
+   "sehuatang.net"
+  ],
+  "name": "色花堂"
+ },
+ "linkresearcher": {
+  "domains": [
+   "linkresearcher.com"
+  ],
+  "name": "Link Research"
+ },
+ "oreno3d": {
+  "domains": [
+   "oreno3d.com"
+  ],
+  "name": "俺の 3D エロ動画 (oreno3d)"
+ },
+ "codeforces": {
+  "domains": [
+   "codeforces.com"
+  ],
+  "name": "Codeforces"
+ },
+ "thegadgetflow": {
+  "domains": [
+   "thegadgetflow.com"
+  ],
+  "name": "Gadget Flow"
+ },
+ "futunn": {
+  "domains": [
+   "news.futunn.com"
+  ],
+  "name": "Futubull 富途牛牛"
+ },
+ "newrank": {
+  "domains": [
+   "newrank.cn"
+  ],
+  "name": "新榜"
+ },
+ "sec-wiki": {
+  "domains": [
+   "sec-wiki.com"
+  ],
+  "name": "SecWiki - 安全维基"
+ },
+ "modb": {
+  "domains": [
+   "modb.pro"
+  ],
+  "name": "墨天轮"
+ },
+ "zsxq": {
+  "domains": [
+   "zsxq.com"
+  ],
+  "name": "知识星球"
+ },
+ "neu": {
+  "domains": [
+   "neunews.neu.edu.cn"
+  ],
+  "name": "东北大学"
+ },
+ "trendingpapers": {
+  "domains": [
+   "trendingpapers.com"
+  ],
+  "name": "Trending Papers"
+ },
+ "youku": {
+  "domains": [
+   "i.youku.com"
+  ],
+  "name": "优酷"
+ },
+ "jiuyangongshe": {
+  "domains": [
+   "jiuyangongshe.com"
+  ],
+  "name": "韭研公社"
+ },
+ "cctv": {
+  "domains": [
+   "news.cctv.com"
+  ],
+  "name": "央视新闻"
+ },
+ "creaders": {
+  "domains": [
+   "news.creaders.net"
+  ],
+  "name": "万维读者"
+ },
+ "forwardfuture": {
+  "domains": [
+   "forwardfuture.com"
+  ],
+  "name": "Forward Future"
+ },
+ "jlu": {
+  "domains": [
+   "jlu.edu.cn"
+  ],
+  "name": "吉林大学"
+ },
+ "ke": {
+  "domains": [
+   "research.ke.com"
+  ],
+  "name": "贝壳研究院"
+ },
+ "njust": {
+  "domains": [
+   "jwc.njust.edu.cn"
+  ],
+  "name": "南京理工大学"
+ },
+ "chinanzxh": {
+  "domains": [
+   "chinanzxh.com"
+  ],
+  "name": "中国农资流通协会"
+ },
+ "sorrycc": {
+  "domains": [
+   "sorrycc.com"
+  ],
+  "name": "云谦的博客"
+ },
+ "pinterest": {
+  "domains": [
+   "pinterest.com"
+  ],
+  "name": "Pinterest"
+ },
+ "ntrblog": {
+  "domains": [
+   "ntrblog.com"
+  ],
+  "name": "NTR BLOG（寝取られブログ）"
+ },
+ "ttv": {
+  "domains": [
+   "news.ttv.com.tw"
+  ],
+  "name": "台視新聞網"
+ },
+ "quantamagazine": {
+  "domains": [
+   "quantamagazine.org"
+  ],
+  "name": "Quanta Magazine"
+ },
+ "v2rayshare": {
+  "domains": [
+   "v2rayshare.com"
+  ],
+  "name": "V2rayShare"
+ },
+ "bytes": {
+  "domains": [
+   "bytes.dev"
+  ],
+  "name": "ui.dev"
+ },
+ "issuehunt": {
+  "domains": [
+   "issuehunt.io"
+  ],
+  "name": "Issue Hunt"
+ },
+ "tfc-taiwan": {
+  "domains": [
+   "tfc-taiwan.org.tw"
+  ],
+  "name": "Taiwan FactCheck Center"
+ },
+ "gzmtu": {
+  "domains": [
+   "gzmtu.edu.cn"
+  ],
+  "name": "广州航海学院"
+ },
+ "tokeninsight": {
+  "domains": [
+   "tokeninsight.com"
+  ],
+  "name": "TokenInsight"
+ },
+ "oeeee": {
+  "domains": [
+   "oeeee.com"
+  ],
+  "name": "南方都市报"
+ },
+ "mathpix": {
+  "domains": [
+   "mathpix.com"
+  ],
+  "name": "Mathpix"
+ },
+ "luma": {
+  "domains": [
+   "lu.ma"
+  ],
+  "name": "LuMa"
+ },
+ "njuferret": {
+  "domains": [
+   "njuferret.github.io"
+  ],
+  "name": "njuferret"
+ },
+ "artstation": {
+  "domains": [
+   "artstation.com"
+  ],
+  "name": "ArtStation"
+ },
+ "deltaio": {
+  "domains": [
+   "delta.io"
+  ],
+  "name": "Delta Lake"
+ },
+ "junhe": {
+  "domains": [
+   "junhe.com"
+  ],
+  "name": "君合律师事务所"
+ },
+ "visualstudio": {
+  "domains": [
+   "visualstudio.com"
+  ],
+  "name": "Visual Studio"
+ },
+ "collabo-cafe": {
+  "domains": [
+   "collabo-cafe.com"
+  ],
+  "name": "コラボカフェ"
+ },
+ "baozimh": {
+  "domains": [
+   "baozimh.com"
+  ],
+  "name": "包子漫画"
+ },
+ "ncepu": {
+  "domains": [
+   "yjsy.ncepu.edu.cn"
+  ],
+  "name": "华北电力大学"
+ },
+ "kenshin": {
+  "domains": [
+   "kenshin.hk"
+  ],
+  "name": "劍心．回憶"
+ },
+ "sdu": {
+  "domains": [
+   "sdu.edu.cn"
+  ],
+  "name": "山东大学"
+ },
+ "rthk": {
+  "domains": [
+   "rthk.hk"
+  ],
+  "name": "RTHK 香港電台"
+ },
+ "usst": {
+  "domains": [
+   "jwc.usst.edu.cn"
+  ],
+  "name": "上海理工大学"
+ },
+ "icbc": {
+  "domains": [
+   "icbc.com.cn"
+  ],
+  "name": "中国工商银行"
+ },
+ "noi": {
+  "domains": [
+   "noi.cn"
+  ],
+  "name": "NOI 全国青少年信息学奥林匹克竞赛"
+ },
+ "brooklynmuseum": {
+  "domains": [
+   "brooklynmuseum.org"
+  ],
+  "name": "Brooklyn Museum"
+ },
+ "lanqiao": {
+  "domains": [
+   "lanqiao.cn"
+  ],
+  "name": "蓝桥云课"
+ },
+ "wordpress": {
+  "domains": [
+   "wordpress.org"
+  ],
+  "name": "WordPress"
+ },
+ "dx2025": {
+  "domains": [
+   "dx2025.com"
+  ],
+  "name": "东西智库"
+ },
+ "bjsk": {
+  "domains": [
+   "bjsk.org.cn"
+  ],
+  "name": "北京社科网"
+ },
+ "newslaundry": {
+  "domains": [
+   "newslaundry.com"
+  ],
+  "name": "Newslaundry"
+ },
+ "iracing": {
+  "domains": [
+   "iracing.com"
+  ],
+  "name": "iRacing"
+ },
+ "hrbust": {
+  "domains": [
+   "hrbust.edu.cn"
+  ],
+  "name": "哈尔滨理工大学"
+ },
+ "mrinalxdev": {
+  "domains": [
+   "mrinalxdev.github.io"
+  ],
+  "name": "Mrinal Pramanick"
+ },
+ "papers": {
+  "domains": [
+   "papers.cool"
+  ],
+  "name": "Cool Papers"
+ },
+ "fjdaily": {
+  "domains": [
+   "fjdaily.com"
+  ],
+  "name": "福建日报"
+ },
+ "wanqu": {
+  "domains": [
+   "wanqu.co"
+  ],
+  "name": "湾区日报"
+ },
+ "shuiguopai": {
+  "domains": [
+   "shuiguopai.com"
+  ],
+  "name": "水果派"
+ },
+ "topys": {
+  "domains": [
+   "topys.cn"
+  ],
+  "name": "TOPYS"
+ },
+ "gameres": {
+  "domains": [
+   "gameres.com"
+  ],
+  "name": "GameRes 游资网"
+ },
+ "bookwalker": {
+  "domains": [
+   "bookwalker.com.tw"
+  ],
+  "name": "BOOK☆WALKER"
+ },
+ "iri-search": {
+  "domains": [
+   "iri-search.net"
+  ],
+  "name": "iri-search"
+ },
+ "treccani": {
+  "domains": [
+   "treccani.it"
+  ],
+  "name": "Treccani"
+ },
+ "qbittorrent": {
+  "domains": [
+   "qbittorrent.org"
+  ],
+  "name": "qBittorrent"
+ },
+ "uibe": {
+  "domains": [
+   "hr.uibe.edu.cn"
+  ],
+  "name": "对外经济贸易大学"
+ },
+ "fzmtr": {
+  "domains": [
+   "fzmtr.com"
+  ],
+  "name": "福州地铁"
+ },
+ "zhujiceping": {
+  "domains": [
+   "zhujiceping.com"
+  ],
+  "name": "国外主机测评"
+ },
+ "cointelegraph": {
+  "domains": [
+   "cointelegraph.com"
+  ],
+  "name": "Cointelegraph"
+ },
+ "hentai-cosplays-xxx": {
+  "domains": [
+   "hentai-cosplay-xxx.com"
+  ],
+  "name": "Hentai Cosplays"
+ },
+ "dev.to": {
+  "domains": [
+   "dev.to"
+  ],
+  "name": "DEV Community"
+ },
+ "deadbydaylight": {
+  "domains": [
+   "deadbydaylight.com"
+  ],
+  "name": "DeadbyDaylight"
+ },
+ "mastodon": {
+  "domains": [
+   "mastodon.social"
+  ],
+  "name": "Mastodon"
+ },
+ "v1tx": {
+  "domains": [
+   "v1tx.com"
+  ],
+  "name": "v1tx"
+ },
+ "shoac": {
+  "domains": [
+   "shoac.com.cn"
+  ],
+  "name": "上海东方艺术中心"
+ },
+ "wiensued": {
+  "domains": [
+   "wiensued.at"
+  ],
+  "name": "Wien-Süd"
+ },
+ "tpre": {
+  "domains": [
+   "tpre.cn"
+  ],
+  "name": "天津产权交易中心"
+ },
+ "python": {
+  "domains": [
+   "python.org"
+  ],
+  "name": "Python"
+ },
+ "furstar": {
+  "domains": [
+   "furstar.jp"
+  ],
+  "name": "Furstar"
+ },
+ "panewslab": {
+  "domains": [
+   "panewslab.com"
+  ],
+  "name": "PANews"
+ },
+ "camchina": {
+  "domains": [
+   "cste.org.cn"
+  ],
+  "name": "中国管理现代化研究会"
+ },
+ "furaffinity": {
+  "domains": [
+   "furaffinity.net"
+  ],
+  "name": "Furaffinity"
+ },
+ "bendibao": {
+  "domains": [
+   "bendibao.com"
+  ],
+  "name": "本地宝"
+ },
+ "cursor": {
+  "domains": [
+   "cursor.com"
+  ],
+  "name": "Cursor"
+ },
+ "okayafrica": {
+  "domains": [
+   "okayafrica.com"
+  ],
+  "name": "OkayAfrica"
+ },
+ "themoviedb": {
+  "domains": [
+   "themoviedb.org"
+  ],
+  "name": "The Movie Database"
+ },
+ "xaut": {
+  "domains": [
+   "xaut.edu.cn"
+  ],
+  "name": "西安理工大学"
+ },
+ "playno1": {
+  "domains": [
+   "stno1.playno1.com"
+  ],
+  "name": "PLAYNO.1 玩樂達人"
+ },
+ "cpu": {
+  "domains": [
+   "cpu.edu.cn"
+  ],
+  "name": "中国药科大学"
+ },
+ "samsungmembers": {
+  "domains": [
+   "samsungmembers.cn"
+  ],
+  "name": "三星盖乐世社区"
+ },
+ "mercari": {
+  "domains": [
+   "jp.mercari.com"
+  ],
+  "name": "Mercari"
+ },
+ "gaoyu": {
+  "domains": [
+   "gaoyu.me"
+  ],
+  "name": "Yu Gao"
+ },
+ "kakuyomu": {
+  "domains": [
+   "kakuyomu.jp"
+  ],
+  "name": "カクヨム"
+ },
+ "meteor": {
+  "domains": [
+   "meteor.today"
+  ],
+  "name": "Meteor"
+ },
+ "hentaimama": {
+  "domains": [
+   "hentaimama.io"
+  ],
+  "name": "Hentaimama"
+ },
+ "szse": {
+  "domains": [
+   "szse.cn"
+  ],
+  "name": "深圳证券交易所"
+ },
+ "theguardian": {
+  "domains": [
+   "theguardian.com"
+  ],
+  "name": "The Guardian"
+ },
+ "infoq": {
+  "domains": [
+   "infoq.cn"
+  ],
+  "name": "InfoQ 中文"
+ },
+ "alternativeto": {
+  "domains": [
+   "alternativeto.net"
+  ],
+  "name": "AlternativeTo"
+ },
+ "langchain": {
+  "domains": [
+   "blog.langchain.dev"
+  ],
+  "name": "LangChain Blog"
+ },
+ "cuc": {
+  "domains": [
+   "yz.cuc.edu.cn"
+  ],
+  "name": "中国传媒大学"
+ },
+ "appstore": {
+  "domains": [
+   "apps.apple.com"
+  ],
+  "name": "App Store/Mac App Store"
+ },
+ "kanxue": {
+  "domains": [
+   "kanxue.com"
+  ],
+  "name": "看雪"
+ },
+ "podwise": {
+  "domains": [
+   "podwise.ai"
+  ],
+  "name": "Podwise"
+ },
+ "deeplearning": {
+  "domains": [
+   "deeplearning.ai"
+  ],
+  "name": "DeepLearning.AI"
+ },
+ "mi": {
+  "domains": [
+   "mi.com"
+  ],
+  "name": "小米"
+ },
+ "rarehistoricalphotos": {
+  "domains": [
+   "rarehistoricalphotos.com"
+  ],
+  "name": "Rare Historical Photos"
+ },
+ "chinamoney": {
+  "domains": [
+   "chinamoney.com.cn"
+  ],
+  "name": "中国货币网"
+ },
+ "company3": {
+  "domains": [
+   "company3.com"
+  ],
+  "name": "Company 3"
+ },
+ "hyperdash": {
+  "domains": [
+   "hyperdash.info"
+  ],
+  "name": "HyperDash"
+ },
+ "bilibili": {
+  "domains": [
+   "bilibili.com"
+  ],
+  "name": "哔哩哔哩 bilibili"
+ },
+ "msn": {
+  "domains": [
+   "msn.com"
+  ],
+  "name": "MSN"
+ },
+ "cbaigui": {
+  "domains": [
+   "cbaigui.com"
+  ],
+  "name": "纪妖"
+ },
+ "bcg": {
+  "domains": [
+   "bcg.com"
+  ],
+  "name": "Boston Consulting Group"
+ },
+ "szftedu": {
+  "domains": [
+   "ylxx.szftedu.cn"
+  ],
+  "name": "园岭小学"
+ },
+ "ynu": {
+  "domains": [
+   "ynu.edu.cn"
+  ],
+  "name": "云南大学"
+ },
+ "cspengyuan": {
+  "domains": [
+   "cspengyuan.com"
+  ],
+  "name": "中证鹏元"
+ },
+ "orcid": {
+  "domains": [
+   "orcid.org"
+  ],
+  "name": "ORCID"
+ },
+ "ceph": {
+  "domains": [
+   "ceph.io"
+  ],
+  "name": "Ceph"
+ },
+ "kovidgoyal": {
+  "domains": [
+   "sw.kovidgoyal.net"
+  ],
+  "name": "Kovid"
+ },
+ "afdian": {
+  "domains": [
+   "afdian.net"
+  ],
+  "name": "爱发电"
+ },
+ "greasyfork": {
+  "domains": [
+   "greasyfork.org"
+  ],
+  "name": "Greasy Fork"
+ },
+ "fcbayern": {
+  "domains": [
+   "fcbayern.com"
+  ],
+  "name": "FC Bayern München"
+ },
+ "metmuseum": {
+  "domains": [
+   "metmuseum.org"
+  ],
+  "name": "The Metropolitan Museum of Art"
+ },
+ "zhimap": {
+  "domains": [
+   "zhimap.com"
+  ],
+  "name": "ZhiMap"
+ },
+ "x-mol": {
+  "domains": [
+   "x-mol.com"
+  ],
+  "name": "X-MOL"
+ },
+ "zcmu": {
+  "domains": [
+   "jwc.zcmu.edu.cn"
+  ],
+  "name": "浙江中医药大学"
+ },
+ "free": {
+  "domains": [
+   "free.com.tw"
+  ],
+  "name": "免費資源網路社群"
+ },
+ "unit-image": {
+  "domains": [
+   "unit-image.fr"
+  ],
+  "name": "Unit Image"
+ },
+ "plurk": {
+  "domains": [
+   "plurk.com"
+  ],
+  "name": "Plurk"
+ },
+ "laohu8": {
+  "domains": [
+   "laohu8.com"
+  ],
+  "name": "老虎社区"
+ },
+ "wchscu": {
+  "domains": [
+   "wchscu.cn"
+  ],
+  "name": "华西医院"
+ },
+ "reuters": {
+  "domains": [
+   "reuters.com"
+  ],
+  "name": "Reuters"
+ },
+ "thepetcity": {
+  "domains": [
+   "thepetcity.co"
+  ],
+  "name": "PetCity 毛孩日常"
+ },
+ "immich": {
+  "domains": [
+   "immich.app"
+  ],
+  "name": "Immich"
+ },
+ "inspirehep": {
+  "domains": [
+   "inspirehep.net"
+  ],
+  "name": "INSPIRE"
+ },
+ "nobelprize": {
+  "domains": [
+   "nobelprize.org"
+  ],
+  "name": "Nobel Prize"
+ },
+ "eurogamer": {
+  "domains": [
+   "eurogamer.net"
+  ],
+  "name": "Eurogamer"
+ },
+ "ipsw.dev": {
+  "domains": [
+   "ipsw.dev"
+  ],
+  "name": "IPSW.dev"
+ },
+ "creative-comic": {
+  "domains": [
+   "creative-comic.tw"
+  ],
+  "name": "CCC 創作集"
+ },
+ "shoppingdesign": {
+  "domains": [
+   "shoppingdesign.com.tw"
+  ],
+  "name": "Shopping Design"
+ },
+ "dribbble": {
+  "domains": [
+   "dribbble.com"
+  ],
+  "name": "Dribbble"
+ },
+ "typora": {
+  "domains": [
+   "typora.io"
+  ],
+  "name": "Typora"
+ },
+ "stratechery": {
+  "domains": [
+   "blog.stratechery.com"
+  ],
+  "name": "Stratechery by Ben Thompson"
+ },
+ "sou-yun": {
+  "domains": [
+   "sou-yun.cn"
+  ],
+  "name": "搜韵网"
+ },
+ "voidtools": {
+  "domains": [
+   "voidtools.com"
+  ],
+  "name": "voidtools"
+ },
+ "simpleinfo": {
+  "domains": [
+   "blog.simpleinfo.cc"
+  ],
+  "name": "簡訊設計"
+ },
+ "idolmaster": {
+  "domains": [
+   "idolmaster-official.jp"
+  ],
+  "name": "アイドルマスター THE IDOLM@STER"
+ },
+ "cast": {
+  "domains": [
+   "cast.org.cn"
+  ],
+  "name": "中国科学技术协会"
+ },
+ "mrm": {
+  "domains": [
+   "mrm.com.cn"
+  ],
+  "name": "华储网"
+ },
+ "xyu": {
+  "domains": [
+   "xyc.edu.cn"
+  ],
+  "name": "新余学院"
+ },
+ "leetcode": {
+  "domains": [
+   "leetcode.com"
+  ],
+  "name": "LeetCode"
+ },
+ "ghisler": {
+  "domains": [
+   "ghisler.com"
+  ],
+  "name": "Total Commander"
+ },
+ "guangdiu": {
+  "domains": [
+   "guangdiu.com"
+  ],
+  "name": "逛丢"
+ },
+ "stheadline": {
+  "domains": [
+   "std.stheadline.com"
+  ],
+  "name": "星島日報"
+ },
+ "guanhai": {
+  "domains": [
+   "guanhai.com.cn"
+  ],
+  "name": "观海新闻"
+ },
+ "crossbell": {
+  "domains": [
+   "crossbell.io"
+  ],
+  "name": "Crossbell"
+ },
+ "curiouscat": {
+  "domains": [
+   "curiouscat.live"
+  ],
+  "name": "CuriousCat"
+ },
+ "ainvest": {
+  "domains": [
+   "ainvest.com"
+  ],
+  "name": "AInvest"
+ },
+ "ichunqiu": {
+  "domains": [
+   "bbs.ichunqiu.com"
+  ],
+  "name": "i春秋"
+ },
+ "iknowwhatyoudownload": {
+  "domains": [
+   "iknowwhatyoudownload.com"
+  ],
+  "name": "I Know What You Download"
+ },
+ "timednews": {
+  "domains": [
+   "timednews.com"
+  ],
+  "name": "时刻新闻"
+ },
+ "ikea": {
+  "domains": [
+   "ikea.com"
+  ],
+  "name": "IKEA"
+ },
+ "soweather": {
+  "domains": [
+   "wx.soweather.com"
+  ],
+  "name": "SoWeather"
+ },
+ "moyukik": {
+  "domains": [
+   "h5-ol.sns.sohu.com/hy-moyukik-h5"
+  ],
+  "name": "摸鱼 kik"
+ },
+ "ustr": {
+  "domains": [
+   "ustr.gov"
+  ],
+  "name": "The United States Trade Representative"
+ },
+ "bbc": {
+  "domains": [
+   "bbc.com"
+  ],
+  "name": "BBC"
+ },
+ "coolpc": {
+  "domains": [
+   "coolpc.com.tw"
+  ],
+  "name": "原價屋"
+ },
+ "mashiro": {
+  "domains": [
+   "mashiro.best"
+  ],
+  "name": "真白的年轮面包"
+ },
+ "fudan": {
+  "domains": [
+   "fudan.edu.cn"
+  ],
+  "name": "复旦大学"
+ },
+ "alpinelinux": {
+  "domains": [
+   "alpinelinux.org"
+  ],
+  "name": "Alpine Linux"
+ },
+ "nankai": {
+  "domains": [
+   "yzb.nankai.edu.cn"
+  ],
+  "name": "南开大学"
+ },
+ "dgtle": {
+  "domains": [
+   "dgtle.com"
+  ],
+  "name": "数字尾巴"
+ },
+ "pconline": {
+  "domains": [
+   "pconline.com.cn"
+  ],
+  "name": "太平洋科技"
+ },
+ "3dmgame": {
+  "domains": [
+   "3dmgame.com"
+  ],
+  "name": "3DMGame"
+ },
+ "apiseven": {
+  "domains": [
+   "apiseven.com"
+  ],
+  "name": "支流科技"
+ },
+ "gamersecret": {
+  "domains": [
+   "gamersecret.com"
+  ],
+  "name": "Gamer Secret"
+ },
+ "qipamaijia": {
+  "domains": [
+   "qipamaijia.com"
+  ],
+  "name": "奇葩买家秀"
+ },
+ "jimmyspa": {
+  "domains": [
+   "jimmyspa.com"
+  ],
+  "name": "幾米 JIMMY S.P.A. Official Website"
+ },
+ "projectjav": {
+  "domains": [
+   "projectjav.com"
+  ],
+  "name": "ProjectJAV"
+ },
+ "routledge": {
+  "domains": [
+   "routledge.com"
+  ],
+  "name": "Routledge"
+ },
+ "aibase": {
+  "domains": [
+   "aibase.com"
+  ],
+  "name": "AIbase"
+ },
+ "lemmy": {
+  "domains": [
+   "join-lemmy.org"
+  ],
+  "name": "Lemmy"
+ },
+ "ecust": {
+  "domains": [
+   "e.ecust.edu.cn"
+  ],
+  "name": "华东理工大学"
+ },
+ "hoyolab": {
+  "domains": [
+   "hoyolab.com"
+  ],
+  "name": "HoYoLAB"
+ },
+ "layoffs": {
+  "domains": [
+   "layoffs.fyi"
+  ],
+  "name": "Layoffs.fyi"
+ },
+ "hitwh": {
+  "domains": [
+   "hitwh.edu.cn"
+  ],
+  "name": "哈尔滨工业大学（威海）"
+ },
+ "web": {
+  "domains": [
+   "web.dev"
+  ],
+  "name": "web.dev"
+ },
+ "xclient": {
+  "domains": [
+   "xclient.info"
+  ],
+  "name": "xclient.info"
+ },
+ "stanford": {
+  "domains": [
+   "hazyresearch.stanford.edu/blog"
+  ],
+  "name": "Stanford"
+ },
+ "tokyu": {
+  "domains": [
+   "tokyu.co.jp"
+  ],
+  "name": "Tokyu Railways"
+ },
+ "jiemian": {
+  "domains": [
+   "jiemian.com"
+  ],
+  "name": "界面新闻"
+ },
+ "zxcs": {
+  "domains": [
+   "zxcs.click"
+  ],
+  "name": "知轩藏书"
+ },
+ "10000link": {
+  "domains": [
+   "10000link.com"
+  ],
+  "name": "10000万联网"
+ },
+ "anime1": {
+  "domains": [
+   "anime1.me"
+  ],
+  "name": "Anime1"
+ },
+ "zuvio": {
+  "domains": [
+   "irs.zuvio.com.tw"
+  ],
+  "name": "Zuvio"
+ },
+ "sqmc": {
+  "domains": [
+   "sqmc.edu.cn"
+  ],
+  "name": "新乡医学院三全学院"
+ },
+ "dykszx": {
+  "domains": [
+   "dykszx.com"
+  ],
+  "name": "德阳人事考试网"
+ },
+ "nenu": {
+  "domains": [
+   "sohac.nenu.edu.cn"
+  ],
+  "name": "东北师范大学"
+ },
+ "douban": {
+  "domains": [
+   "douban.com"
+  ],
+  "name": "豆瓣"
+ },
+ "t66y": {
+  "domains": [
+   "t66y.com"
+  ],
+  "name": "草榴社区"
+ },
+ "jiangnan": {
+  "domains": [
+   "jiangnan.edu.cn"
+  ],
+  "name": "江南大学"
+ },
+ "xiaomiyoupin": {
+  "domains": [
+   "xiaomiyoupin.com"
+  ],
+  "name": "小米有品"
+ },
+ "bookfere": {
+  "domains": [
+   "bookfere.com"
+  ],
+  "name": "书伴"
+ },
+ "publico": {
+  "domains": [
+   "publico.es"
+  ],
+  "name": "Público"
+ },
+ "firecore": {
+  "domains": [
+   "firecore.com"
+  ],
+  "name": "Infuse"
+ },
+ "9to5": {
+  "domains": [
+   "9to5toys.com"
+  ],
+  "name": "9To5"
+ },
+ "ff14": {
+  "domains": [
+   "eu.finalfantasyxiv.com"
+  ],
+  "name": "FINAL FANTASY XIV"
+ },
+ "x6d": {
+  "domains": [
+   "xd.x6d.com"
+  ],
+  "name": "小刀娱乐网"
+ },
+ "castanet": {
+  "domains": [
+   "castanet.net"
+  ],
+  "name": "Castanet"
+ },
+ "kuai": {
+  "domains": [
+   "kuai.media"
+  ],
+  "name": "快媒体"
+ },
+ "ahut": {
+  "domains": [
+   "ahut.edu.cn"
+  ],
+  "name": "安徽工业大学"
+ },
+ "maven": {
+  "domains": [
+   "repo1.maven.org/maven2/"
+  ],
+  "name": "Maven"
+ },
+ "nchu": {
+  "domains": [
+   "nchu.edu.cn"
+  ],
+  "name": "南昌航空大学"
+ },
+ "fantia": {
+  "domains": [
+   "fantia.jp"
+  ],
+  "name": "Fantia"
+ },
+ "cpta": {
+  "domains": [
+   "cpta.com.cn"
+  ],
+  "name": "中国人事考试网"
+ },
+ "cnljxh": {
+  "domains": [
+   "cnljxh.com"
+  ],
+  "name": "中国炼焦行业协会"
+ },
+ "cnu.cc": {
+  "domains": [
+   "cnu.cc"
+  ],
+  "name": "视觉联盟"
+ },
+ "google": {
+  "domains": [
+   "google.com"
+  ],
+  "name": "Google"
+ },
+ "youdao": {
+  "domains": [
+   "note.youdao.com"
+  ],
+  "name": "有道云笔记"
+ },
+ "follow": {
+  "domains": [
+   "app.follow.is"
+  ],
+  "name": "Follow"
+ },
+ "ifnews": {
+  "domains": [
+   "ifnews.com"
+  ],
+  "name": "国际金融报"
+ },
+ "cncf": {
+  "domains": [
+   "cncf.io"
+  ],
+  "name": "CNCF"
+ },
+ "abmedia": {
+  "domains": [
+   "abmedia.io"
+  ],
+  "name": "链新闻 ABMedia"
+ },
+ "typeless": {
+  "domains": [
+   "typeless.com"
+  ],
+  "name": "Typeless"
+ },
+ "informs": {
+  "domains": [
+   "pubsonline.informs.org"
+  ],
+  "name": "INFORMS"
+ },
+ "comic-walker": {
+  "domains": [
+   "comic-walker.com"
+  ],
+  "name": "カドコミ(Kadocomi)"
+ },
+ "docschina": {
+  "domains": [
+   "docschina.org"
+  ],
+  "name": "印记中文"
+ },
+ "mafengwo": {
+  "domains": [
+   "mafengwo.cn"
+  ],
+  "name": "马蜂窝"
+ },
+ "cngal": {
+  "domains": [
+   "cngal.org"
+  ],
+  "name": "CnGal"
+ },
+ "koreaherald": {
+  "domains": [
+   "koreaherald.com"
+  ],
+  "name": "The Korea Herald"
+ },
+ "myfigurecollection": {
+  "domains": [
+   "myfigurecollection.net"
+  ],
+  "name": "MyFigureCollection"
+ },
+ "trakt": {
+  "domains": [
+   "trakt.tv"
+  ],
+  "name": "Trakt.tv"
+ },
+ "comicat": {
+  "domains": [
+   "comicat.org"
+  ],
+  "name": "Comicat"
+ },
+ "hdu": {
+  "domains": [
+   "hdu.edu.cn"
+  ],
+  "name": "杭州电子科技大学"
+ },
+ "microsoft": {
+  "domains": [
+   "microsoft.com"
+  ],
+  "name": "Microsoft"
+ },
+ "ymgal": {
+  "domains": [
+   "ymgal.games"
+  ],
+  "name": "月幕 Galgame"
+ },
+ "commonhealth": {
+  "domains": [
+   "commonhealth.com.tw"
+  ],
+  "name": "康健"
+ },
+ "claude": {
+  "domains": [
+   "claude.com"
+  ],
+  "name": "Claude"
+ },
+ "onet": {
+  "domains": [
+   "wiadomosci.onet.pl"
+  ],
+  "name": "Onet"
+ },
+ "yoasobi-music": {
+  "domains": [
+   "yoasobi-music.jp"
+  ],
+  "name": "Yoasobi Official"
+ },
+ "clickme": {
+  "domains": [
+   "clickme.net"
+  ],
+  "name": "ClickMe"
+ },
+ "twreporter": {
+  "domains": [
+   "twreporter.org"
+  ],
+  "name": "報導者"
+ },
+ "jingwei.link": {
+  "domains": [
+   "jingwei.link"
+  ],
+  "name": "敬维博客"
+ },
+ "lmu": {
+  "domains": [
+   "lmu.de"
+  ],
+  "name": "Ludwig Maximilian University of Munich"
+ },
+ "cneb": {
+  "domains": [
+   "cneb.gov.cn"
+  ],
+  "name": "中国国家应急广播"
+ },
+ "oschina": {
+  "domains": [
+   "oschina.net"
+  ],
+  "name": "开源中国"
+ },
+ "xys": {
+  "domains": [
+   "xys.org"
+  ],
+  "name": "新语丝"
+ },
+ "washingtonpost": {
+  "domains": [
+   "washingtonpost.com"
+  ],
+  "name": "The Washington Post"
+ },
+ "tjbwg": {
+  "domains": [
+   "tjbwg.cn"
+  ],
+  "name": "Tianjin Museum"
+ },
+ "usts": {
+  "domains": [
+   "jwch.usts.edu.cn"
+  ],
+  "name": "苏州科技大学"
+ },
+ "verfghbw": {
+  "domains": [
+   "verfgh.baden-wuerttemberg.de"
+  ],
+  "name": "Constitutional Court of Baden-Württemberg (Germany)"
+ },
+ "kuwaitlocal": {
+  "domains": [
+   "kuwaitlocal.com"
+  ],
+  "name": "Kuwait Local"
+ },
+ "dlmu": {
+  "domains": [
+   "news.dlmu.edu.cn"
+  ],
+  "name": "大连海事大学"
+ },
+ "agora0": {
+  "domains": [
+   "agorahub.github.io"
+  ],
+  "name": "AG⓪RA"
+ },
+ "myfans": {
+  "domains": [
+   "myfans.jp"
+  ],
+  "name": "myfans"
+ },
+ "scu": {
+  "domains": [
+   "scu.edu.cn"
+  ],
+  "name": "四川大学"
+ },
+ "iqnew": {
+  "domains": [
+   "iqnew.com"
+  ],
+  "name": "爱 Q 生活网"
+ },
+ "hkushop": {
+  "domains": [
+   "hkushop.com"
+  ],
+  "name": "環球唱片(香港)官方網上商店"
+ },
+ "mycard520": {
+  "domains": [
+   "mycard520.com.tw"
+  ],
+  "name": "MyCard娛樂中心"
+ },
+ "atptour": {
+  "domains": [
+   "atptour.com"
+  ],
+  "name": "ATP Tour"
+ },
+ "baai": {
+  "domains": [
+   "hub.baai.ac.cn"
+  ],
+  "name": "北京智源人工智能研究院"
+ },
+ "fda": {
+  "domains": [
+   "fda.gov"
+  ],
+  "name": "U.S. Food and Drug Administration"
+ },
+ "spotify": {
+  "domains": [
+   "open.spotify.com"
+  ],
+  "name": "Spotify"
+ },
+ "literotica": {
+  "domains": [
+   "literotica.com"
+  ],
+  "name": "Literotica"
+ },
+ "vocus": {
+  "domains": [
+   "vocus.cc"
+  ],
+  "name": "方格子"
+ },
+ "coolapk": {
+  "domains": [
+   "coolapk.com"
+  ],
+  "name": "酷安"
+ },
+ "bing": {
+  "domains": [
+   "cn.bing.com"
+  ],
+  "name": "Bing"
+ },
+ "hbsea": {
+  "domains": [
+   "hbsea.org.cn"
+  ],
+  "name": "湖北省软件企业协会"
+ },
+ "globallawreview": {
+  "domains": [
+   "globallawreview.org"
+  ],
+  "name": "环球法律评论"
+ },
+ "imiker": {
+  "domains": [
+   "imiker.com"
+  ],
+  "name": "米课"
+ },
+ "substack": {
+  "domains": [
+   "substack.com"
+  ],
+  "name": "Substack"
+ },
+ "dingshao": {
+  "domains": [
+   "dingshao.cn"
+  ],
+  "name": "盯梢"
+ },
+ "56kog": {
+  "domains": [
+   "56kog.com"
+  ],
+  "name": "明月中文网"
+ },
+ "oesw": {
+  "domains": [
+   "oesw.at"
+  ],
+  "name": "ÖSW"
+ },
+ "queshu": {
+  "domains": [
+   "queshu.com"
+  ],
+  "name": "缺书网"
+ },
+ "gamekee": {
+  "domains": [
+   "gamekee.com"
+  ],
+  "name": "GameKee | 游戏百科攻略"
+ },
+ "oncc": {
+  "domains": [
+   "hk.on.cc"
+  ],
+  "name": "东网"
+ },
+ "ngd": {
+  "domains": [
+   "ngd.org.cn"
+  ],
+  "name": "中国农工民主党"
+ },
+ "4kup": {
+  "domains": [
+   "4kup.net"
+  ],
+  "name": "4KUP"
+ },
+ "lixin": {
+  "domains": [
+   "lixin.edu.cn"
+  ],
+  "name": "上海立信会计金融学院"
+ },
+ "producthunt": {
+  "domains": [
+   "producthunt.com"
+  ],
+  "name": "Product Hunt"
+ },
+ "leagueoflegends": {
+  "domains": [
+   "leagueoflegends.com"
+  ],
+  "name": "League of Legends"
+ },
+ "copymanga": {
+  "domains": [
+   "copymanga.com"
+  ],
+  "name": "拷贝漫画"
+ },
+ "govopendata": {
+  "domains": [
+   "cn.govopendata.com"
+  ],
+  "name": "公共数据开放平台"
+ },
+ "cpuid": {
+  "domains": [
+   "cpuid.com"
+  ],
+  "name": "CPUID"
+ },
+ "zodgame": {
+  "domains": [
+   "zodgame.xyz"
+  ],
+  "name": "ZodGame"
+ },
+ "meritalk": {
+  "domains": [
+   "meritalk.com"
+  ],
+  "name": "MeriTalk"
+ },
+ "xiaomi.eu": {
+  "domains": [
+   "xiaomi.eu"
+  ],
+  "name": "Xiaomi.eu"
+ },
+ "bad": {
+  "domains": [
+   "bad.news"
+  ],
+  "name": "Bad.news"
+ },
+ "indianexpress": {
+  "domains": [
+   "indianexpress.com"
+  ],
+  "name": "The Indian Express"
+ },
+ "zyw": {
+  "domains": [
+   "hot.zyw.asia"
+  ],
+  "name": "zyw"
+ },
+ "chinasilkmuseum": {
+  "domains": [
+   "chinasilkmuseum.com"
+  ],
+  "name": "China National Silk Museum"
+ },
+ "cfmmc": {
+  "domains": [
+   "cfmmc.com"
+  ],
+  "name": "中国期货市场监控中心"
+ },
+ "diariofruticola": {
+  "domains": [
+   "diariofruticola.cl"
+  ],
+  "name": "Diario Frutícola"
+ },
+ "19lou": {
+  "domains": [
+   "19lou.com"
+  ],
+  "name": "19 楼"
+ },
+ "qq88": {
+  "domains": [
+   "qq88.info"
+  ],
+  "name": "秋爸日字"
+ },
+ "1point3acres": {
+  "domains": [
+   "blog.1point3acres.com"
+  ],
+  "name": "一亩三分地"
+ },
+ "xbmu": {
+  "domains": [
+   "xbmu.edu.cn"
+  ],
+  "name": "西北民族大学"
+ },
+ "qlu": {
+  "domains": [
+   "qlu.edu.cn"
+  ],
+  "name": "齐鲁工业大学"
+ },
+ "naver": {
+  "domains": [
+   "naver.com"
+  ],
+  "name": "네이버"
+ },
+ "qianzhan": {
+  "domains": [
+   "qianzhan.com"
+  ],
+  "name": "前瞻网"
+ },
+ "hackerone": {
+  "domains": [
+   "hackerone.com"
+  ],
+  "name": "HackerOne"
+ },
+ "macupdate": {
+  "domains": [
+   "macupdate.com"
+  ],
+  "name": "MacUpdate"
+ },
+ "fxiaoke": {
+  "domains": [
+   "fxiaoke.com"
+  ],
+  "name": "纷享销客 CRM"
+ },
+ "mofa": {
+  "domains": [
+   "mofa.go.jp"
+  ],
+  "name": "Ministry of Foreign Affairs of Japan 日本国外務省"
+ },
+ "bwsg": {
+  "domains": [
+   "bwsg.at"
+  ],
+  "name": "BWSG"
+ },
+ "0x80": {
+  "domains": [
+   "0x80.pl"
+  ],
+  "name": "Wojciech Muła"
+ },
+ "castbox": {
+  "domains": [
+   "castbox.fm"
+  ],
+  "name": "Castbox"
+ },
+ "curius": {
+  "domains": [
+   "curius.app"
+  ],
+  "name": "Curius"
+ },
+ "cs": {
+  "domains": [
+   "cs.com.cn"
+  ],
+  "name": "中证网"
+ },
+ "css-tricks": {
+  "domains": [
+   "css-tricks.com"
+  ],
+  "name": "CSS-Tricks"
+ },
+ "8world": {
+  "domains": [
+   "8world.com"
+  ],
+  "name": "8 视界"
+ },
+ "odaily": {
+  "domains": [
+   "odaily.news"
+  ],
+  "name": "Odaily 星球日报"
+ },
+ "nmc": {
+  "domains": [
+   "nmc.cn"
+  ],
+  "name": "中央气象台"
+ },
+ "nhentai": {
+  "domains": [
+   "nhentai.net"
+  ],
+  "name": "nhentai"
+ },
+ "10jqka": {
+  "domains": [
+   "10jqka.com.cn"
+  ],
+  "name": "同花顺财经"
+ },
+ "savills": {
+  "domains": [
+   "savills.com.cn"
+  ],
+  "name": "第一太平戴维斯 Savills"
+ },
+ "penguin-random-house": {
+  "domains": [
+   "penguinrandomhouse.com"
+  ],
+  "name": "Penguin Random House"
+ },
+ "fashionnetwork": {
+  "domains": [
+   "fashionnetwork.cn"
+  ],
+  "name": "FashionNetwork"
+ },
+ "hkjunkcall": {
+  "domains": [
+   "hkjunkcall.com"
+  ],
+  "name": "HKJunkCall 資訊中心"
+ },
+ "cnbeta": {
+  "domains": [
+   "cnbeta.com.tw"
+  ],
+  "name": "cnBeta.COM"
+ },
+ "nippon": {
+  "domains": [
+   "nippon.com"
+  ],
+  "name": "走进日本"
+ },
+ "temponw": {
+  "domains": [
+   "temponw.com"
+  ],
+  "name": "Temponw"
+ },
+ "tiddlywiki": {
+  "domains": [
+   "tiddlywiki.com"
+  ],
+  "name": "TiddlyWiki"
+ },
+ "v2ex": {
+  "domains": [
+   "v2ex.com"
+  ],
+  "name": "V2EX"
+ },
+ "bnu": {
+  "domains": [
+   "bs.bnu.edu.cn"
+  ],
+  "name": "北京师范大学"
+ },
+ "coomer": {
+  "domains": [
+   "coomer.st"
+  ],
+  "name": "Coomer"
+ },
+ "acea": {
+  "domains": [
+   "acea.auto"
+  ],
+  "name": "ACEA"
+ },
+ "everia": {
+  "domains": [
+   "everia.club"
+  ],
+  "name": "EVERIA.CLUB"
+ },
+ "mangadex": {
+  "domains": [
+   "mangadex.org"
+  ],
+  "name": "MangaDex"
+ },
+ "cfachina": {
+  "domains": [
+   "cfachina.org"
+  ],
+  "name": "中国期货业协会"
+ },
+ "subhd": {
+  "domains": [
+   "subhd.tv"
+  ],
+  "name": "Sub HD"
+ },
+ "rss": {
+  "domains": [
+   "rssboard.org"
+  ],
+  "name": "RSS Proxy"
+ },
+ "canaeru": {
+  "domains": [
+   "canaeru.usen.com"
+  ],
+  "name": "Canaeru"
+ },
+ "duozhi": {
+  "domains": [
+   "duozhi.com"
+  ],
+  "name": "多知网"
+ },
+ "visionias": {
+  "domains": [
+   "visionias.in"
+  ],
+  "name": "VisionIAS"
+ },
+ "uniqlo": {
+  "domains": [
+   "uniqlo.com"
+  ],
+  "name": "Uniqlo"
+ },
+ "swissinfo": {
+  "domains": [
+   "swissinfo.ch"
+  ],
+  "name": "swissinfo"
+ },
+ "vimeo": {
+  "domains": [
+   "vimeo.com"
+  ],
+  "name": "Vimeo"
+ },
+ "sustainabilitymag": {
+  "domains": [
+   "sustainabilitymag.com"
+  ],
+  "name": "Sustainability Magazine"
+ },
+ "gamer520": {
+  "domains": [
+   "gamer520.com"
+  ],
+  "name": "全球游戏交流中心"
+ },
+ "gcores": {
+  "domains": [
+   "gcores.com"
+  ],
+  "name": "机核网"
+ },
+ "dhu": {
+  "domains": [
+   "dhu.edu.cn"
+  ],
+  "name": "东华大学"
+ },
+ "expats": {
+  "domains": [
+   "expats.cz"
+  ],
+  "name": "Expats.cz"
+ },
+ "asiantolick": {
+  "domains": [
+   "asiantolick.com"
+  ],
+  "name": "Asian to lick"
+ },
+ "pornhub": {
+  "domains": [
+   "pornhub.com"
+  ],
+  "name": "PornHub"
+ },
+ "esquirehk": {
+  "domains": [
+   "esquirehk.com"
+  ],
+  "name": "Esquire Hong Kong"
+ },
+ "imop": {
+  "domains": [
+   "imop.com"
+  ],
+  "name": "imop"
+ },
+ "ruc": {
+  "domains": [
+   "ruc.edu.cn"
+  ],
+  "name": "Renmin University of China"
+ },
+ "newmuseum": {
+  "domains": [
+   "newmuseum.org"
+  ],
+  "name": "New Museum"
+ },
+ "rottentomatoes": {
+  "domains": [
+   "rottentomatoes.com"
+  ],
+  "name": "Rotten Tomatoes"
+ },
+ "yomujp": {
+  "domains": [
+   "yomujp.com"
+  ],
+  "name": "日本語多読道場"
+ },
+ "nosec": {
+  "domains": [
+   "nosec.org"
+  ],
+  "name": "NOSEC 安全讯息平台"
+ },
+ "utgd": {
+  "domains": [
+   "utgd.net"
+  ],
+  "name": "UNTAG"
+ },
+ "ncku": {
+  "domains": [
+   "ncku.edu.tw"
+  ],
+  "name": "National Cheng Kung University"
+ },
+ "science": {
+  "domains": [
+   "science.org"
+  ],
+  "name": "Science Magazine"
+ },
+ "chinania": {
+  "domains": [
+   "chinania.org.cn"
+  ],
+  "name": "中国有色金属工业网"
+ },
+ "temposmart": {
+  "domains": [
+   "temposmart.jp"
+  ],
+  "name": "Temposmart"
+ },
+ "rss3": {
+  "domains": [
+   "rss3.io"
+  ],
+  "name": "RSS3"
+ },
+ "cts": {
+  "domains": [
+   "news.cts.com.tw"
+  ],
+  "name": "華視"
+ },
+ "mingpao": {
+  "domains": [
+   "mingpao.com"
+  ],
+  "name": "明報"
+ },
+ "gdsrx": {
+  "domains": [
+   "gdsrx.org.cn"
+  ],
+  "name": "广东省食品药品审评认证技术协会"
+ },
+ "logonews": {
+  "domains": [
+   "logonews.cn"
+  ],
+  "name": "LogoNews 标志情报局"
+ },
+ "javtiful": {
+  "domains": [
+   "javtiful.com"
+  ],
+  "name": "Javtiful"
+ },
+ "aiea": {
+  "domains": [
+   "aiea.org"
+  ],
+  "name": "Asian Innovation and Entrepreneurship Association"
+ },
+ "hnu": {
+  "domains": [
+   "scc.hnu.edu.cn"
+  ],
+  "name": "湖南大学"
+ },
+ "romielf": {
+  "domains": [
+   "romielf.com"
+  ],
+  "name": "每日赛车"
+ },
+ "fantube": {
+  "domains": [
+   "fantube.tokyo"
+  ],
+  "name": "FANTUBE"
+ },
+ "railway": {
+  "domains": [
+   "railway.com"
+  ],
+  "name": "Railway"
+ },
+ "ifs": {
+  "domains": [
+   "ifs.org.uk"
+  ],
+  "name": "Institute for Fiscal Studies"
+ },
+ "unipd": {
+  "domains": [
+   "unipd.it"
+  ],
+  "name": "Università di Padova"
+ },
+ "ccac": {
+  "domains": [
+   "ccac.org.mo"
+  ],
+  "name": "Macau Independent Commission Against Corruption 澳门廉政公署"
+ },
+ "kpopping": {
+  "domains": [
+   "kpopping.com"
+  ],
+  "name": "kpopping"
+ },
+ "7gogo": {
+  "domains": [
+   "7gogo.jp"
+  ],
+  "name": "755"
+ },
+ "qnap": {
+  "domains": [
+   "qnap.com"
+  ],
+  "name": "QNAP"
+ },
+ "psyche": {
+  "domains": [
+   "psyche.co"
+  ],
+  "name": "Psyche"
+ },
+ "postman": {
+  "domains": [
+   "postman.com"
+  ],
+  "name": "Postman"
+ },
+ "423down": {
+  "domains": [
+   "423down.com"
+  ],
+  "name": "423Down"
+ },
+ "usenix": {
+  "domains": [
+   "usenix.org"
+  ],
+  "name": "USENIX"
+ },
+ "shopify": {
+  "domains": [
+   "shopify.com"
+  ],
+  "name": "Shopify"
+ },
+ "caai": {
+  "domains": [
+   "caai.cn"
+  ],
+  "name": "中国人工智能学会"
+ },
+ "jsu": {
+  "domains": [
+   "jsu.edu.cn"
+  ],
+  "name": "吉首大学"
+ },
+ "banshujiang": {
+  "domains": [
+   "banshujiang.cn"
+  ],
+  "name": "搬书匠"
+ },
+ "sega": {
+  "domains": [
+   "pjsekai.sega.jp"
+  ],
+  "name": "SEGA"
+ },
+ "cntv": {
+  "domains": [
+   "navi.cctv.com"
+  ],
+  "name": "CNTV"
+ },
+ "hostmonit": {
+  "domains": [
+   "stock.hostmonit.com"
+  ],
+  "name": "全球主机监控"
+ },
+ "stockedge": {
+  "domains": [
+   "web.stockedge.com"
+  ],
+  "name": "Stock Edge"
+ },
+ "hellobtc": {
+  "domains": [
+   "hellobtc.com"
+  ],
+  "name": "白话区块链"
+ },
+ "dayanzai": {
+  "domains": [
+   "dayanzai.me"
+  ],
+  "name": "大眼仔旭"
+ },
+ "nwnu": {
+  "domains": [
+   "nwnu.edu.cn"
+  ],
+  "name": "西北师范大学"
+ },
+ "icity": {
+  "domains": [
+   "icity.ly"
+  ],
+  "name": "iCity"
+ },
+ "vertikal": {
+  "domains": [
+   "vertikal.net"
+  ],
+  "name": "Vertikal.net"
+ },
+ "blizzard": {
+  "domains": [
+   "news.blizzard.com"
+  ],
+  "name": "Blizzard"
+ },
+ "cpcaauto": {
+  "domains": [
+   "中国汽车流通协会汽车市场研究分会"
+  ],
+  "name": "cpcaauto.com"
+ },
+ "xiachufang": {
+  "domains": [
+   "xiachufang.com"
+  ],
+  "name": "下厨房"
+ },
+ "cisia": {
+  "domains": [
+   "cisia.org"
+  ],
+  "name": "中国无机盐工业协会"
+ },
+ "deadline": {
+  "domains": [
+   "deadline.com"
+  ],
+  "name": "Deadline"
+ },
+ "athome": {
+  "domains": [
+   "athome.co.jp"
+  ],
+  "name": "at home"
+ },
+ "geekpark": {
+  "domains": [
+   "geekpark.net"
+  ],
+  "name": "极客公园"
+ },
+ "hanime1": {
+  "domains": [
+   "hanime1.me"
+  ],
+  "name": "Hanime1"
+ },
+ "slashdot": {
+  "domains": [
+   "slashdot.org"
+  ],
+  "name": "Slashdot"
+ },
+ "sourceforge": {
+  "domains": [
+   "sourceforge.net"
+  ],
+  "name": "SourceForge"
+ },
+ "dealstreetasia": {
+  "domains": [
+   "dealstreetasia.com"
+  ],
+  "name": "DealStreetAsia"
+ },
+ "tesla": {
+  "domains": [
+   "tesla.cn"
+  ],
+  "name": "特斯拉中国"
+ },
+ "eagle": {
+  "domains": [
+   "cn.eagle.cool"
+  ],
+  "name": "Eagle"
+ },
+ "ianspriggs": {
+  "domains": [
+   "ianspriggs.com"
+  ],
+  "name": "Ian Spriggss"
+ },
+ "wellcee": {
+  "domains": [
+   "wellcee.com"
+  ],
+  "name": "Wellcee 唯心所寓"
+ },
+ "gelbooru": {
+  "domains": [
+   "gelbooru.com"
+  ],
+  "name": "Gelbooru"
+ },
+ "ntdtv": {
+  "domains": [
+   "ntdtv.com"
+  ],
+  "name": "新唐人电视台"
+ },
+ "69shu": {
+  "domains": [
+   "69shuba.cx"
+  ],
+  "name": "69书吧"
+ },
+ "aljazeera": {
+  "domains": [
+   "aljazeera.com"
+  ],
+  "name": "Aljazeera"
+ },
+ "jgsu": {
+  "domains": [
+   "jgsu.edu.cn"
+  ],
+  "name": "井冈山大学"
+ },
+ "resetera": {
+  "domains": [
+   "resetera.com"
+  ],
+  "name": "ResetEra"
+ },
+ "lhratings": {
+  "domains": [
+   "lhratings.com"
+  ],
+  "name": "联合资信评估股份有限公司"
+ },
+ "medium": {
+  "domains": [
+   "medium.com"
+  ],
+  "name": "Medium"
+ },
+ "meta": {
+  "domains": [
+   "meta.com"
+  ],
+  "name": "Meta"
+ },
+ "studygolang": {
+  "domains": [
+   "studygolang.com"
+  ],
+  "name": "Go 语言中文网"
+ },
+ "skysports": {
+  "domains": [
+   "skysports.com"
+  ],
+  "name": "Sky Sports"
+ },
+ "stcn": {
+  "domains": [
+   "stcn.com"
+  ],
+  "name": "证券时报网"
+ },
+ "ximalaya": {
+  "domains": [
+   "ximalaya.com"
+  ],
+  "name": "喜马拉雅"
+ },
+ "bloomberg": {
+  "domains": [
+   "bloomberg.com"
+  ],
+  "name": "Bloomberg"
+ },
+ "meishichina": {
+  "domains": [
+   "meishichina.com"
+  ],
+  "name": "美食天下"
+ },
+ "manybooks": {
+  "domains": [
+   "manybooks.net"
+  ],
+  "name": "ManyBooks"
+ },
+ "leemeng": {
+  "domains": [
+   "leemeng.tw"
+  ],
+  "name": "LeeMeng"
+ },
+ "samsung": {
+  "domains": [
+   "research.samsung.com"
+  ],
+  "name": "Samsung"
+ },
+ "bluestacks": {
+  "domains": [
+   "bluestacks.com"
+  ],
+  "name": "BlueStacks"
+ },
+ "domp4": {
+  "domains": [
+   "xlmp4.com"
+  ],
+  "name": "DoMP4 影视"
+ },
+ "toei": {
+  "domains": [
+   "kotsu.metro.tokyo.jp"
+  ],
+  "name": "Toei Transportation"
+ },
+ "wainao": {
+  "domains": [
+   "wainao.me"
+  ],
+  "name": "歪脑"
+ },
+ "uwants": {
+  "domains": [
+   "uwants.com"
+  ],
+  "name": "Uwants"
+ },
+ "fanqienovel": {
+  "domains": [
+   "fanqienovel.com"
+  ],
+  "name": "番茄小说"
+ },
+ "ruancan": {
+  "domains": [
+   "ruancan.com"
+  ],
+  "name": "软餐"
+ },
+ "dcfever": {
+  "domains": [
+   "dcfever.com"
+  ],
+  "name": "DCFever"
+ },
+ "cowlevel": {
+  "domains": [
+   "cowlevel.net"
+  ],
+  "name": "奶牛关"
+ },
+ "br-klassik": {
+  "domains": [
+   "br-klassik.de"
+  ],
+  "name": "BR-Klassik"
+ },
+ "yinxiang": {
+  "domains": [
+   "yinxiang.com"
+  ],
+  "name": "印象识堂"
+ },
+ "kchuhai": {
+  "domains": [
+   "kchuhai.com"
+  ],
+  "name": "快出海"
+ },
+ "qingting": {
+  "domains": [
+   "qingting.fm"
+  ],
+  "name": "蜻蜓 FM"
+ },
+ "chinafile": {
+  "domains": [
+   "chinafile.com"
+  ],
+  "name": "ChinaFile"
+ },
+ "bitmovin": {
+  "domains": [
+   "bitmovin.com"
+  ],
+  "name": "Bitmovin"
+ },
+ "grand-challenge": {
+  "domains": [
+   "grand-challenge.org"
+  ],
+  "name": "Grand-Challenge"
+ },
+ "economist": {
+  "domains": [
+   "economist.com"
+  ],
+  "name": "The Economist"
+ },
+ "cib": {
+  "domains": [
+   "cib.com.cn"
+  ],
+  "name": "中国兴业银行"
+ },
+ "digitalcameraworld": {
+  "domains": [
+   "digitalcameraworld.com"
+  ],
+  "name": "Digital Camera World"
+ },
+ "the": {
+  "domains": [
+   "river.to"
+  ],
+  "name": "River.to (江河日下)"
+ },
+ "mathunion": {
+  "domains": [
+   "mathunion.org"
+  ],
+  "name": "International Mathematical Union"
+ },
+ "youzhiyouxing": {
+  "domains": [
+   "youzhiyouxing.cn"
+  ],
+  "name": "有知有行"
+ },
+ "spankbang": {
+  "domains": [
+   "spankbang.com"
+  ],
+  "name": "SpankBang"
+ },
+ "remnote": {
+  "domains": [
+   "remnote.com"
+  ],
+  "name": "RemNote"
+ },
+ "ctei": {
+  "domains": [
+   "news.ctei.cn"
+  ],
+  "name": "中国纺织经济信息网"
+ },
+ "infzm": {
+  "domains": [
+   "infzm.com"
+  ],
+  "name": "南方周末"
+ },
+ "gesiba": {
+  "domains": [
+   "gesiba.at"
+  ],
+  "name": "Gesiba"
+ },
+ "1lou": {
+  "domains": [
+   "1lou.me"
+  ],
+  "name": "BT 之家 1LOU 站"
+ },
+ "qqmusic": {
+  "domains": [
+   "y.qq.com"
+  ],
+  "name": "QQ 音乐"
+ },
+ "fruitdatakings": {
+  "domains": [
+   "fruitdatakings.com"
+  ],
+  "name": "Fruit Data Kings"
+ },
+ "notateslaapp": {
+  "domains": [
+   "notateslaapp.com"
+  ],
+  "name": "Not a Tesla App"
+ },
+ "telecompaper": {
+  "domains": [
+   "telecompaper.com"
+  ],
+  "name": "Telecompaper"
+ },
+ "cls": {
+  "domains": [
+   "cls.cn"
+  ],
+  "name": "财联社"
+ },
+ "ekantipur": {
+  "domains": [
+   "ekantipur.com"
+  ],
+  "name": "Ekantipur / कान्तिपुर (Nepal)"
+ },
+ "supchina": {
+  "domains": [
+   "supchina.com"
+  ],
+  "name": "SupChina"
+ },
+ "qwen": {
+  "domains": [
+   "qwen.ai"
+  ],
+  "name": "Qwen Research"
+ },
+ "runyeah": {
+  "domains": [
+   "runyeah.world"
+  ],
+  "name": "跑野大爆炸"
+ },
+ "funresearch": {
+  "domains": [
+   "funresearch.cn"
+  ],
+  "name": "泛研网"
+ },
+ "cankaoxiaoxi": {
+  "domains": [
+   "cankaoxiaoxi.com"
+  ],
+  "name": "参考消息"
+ },
+ "acs": {
+  "domains": [
+   "pubs.acs.org"
+  ],
+  "name": "ACS Publications"
+ },
+ "digitalpolicyalert": {
+  "domains": [
+   "digitalpolicyalert.org"
+  ],
+  "name": "Digital Policy Alert"
+ },
+ "zhiy": {
+  "domains": [
+   "zhiy.cc"
+  ],
+  "name": "知园"
+ },
+ "cccmc": {
+  "domains": [
+   "cccmc.org.cn"
+  ],
+  "name": "中国五矿化工进出口商会"
+ },
+ "nuc": {
+  "domains": [
+   "nuc.edu.cn"
+  ],
+  "name": "中北大学"
+ },
+ "distill": {
+  "domains": [
+   "distill.pub"
+  ],
+  "name": "Distill"
+ },
+ "thinkingmachines": {
+  "domains": [
+   "thinkingmachines.ai"
+  ],
+  "name": "Thinking Machines Lab"
+ },
+ "sjtu": {
+  "domains": [
+   "sjtu.edu.cn"
+  ],
+  "name": "上海交通大学"
+ },
+ "qweather": {
+  "domains": [
+   "qweather.com"
+  ],
+  "name": "和风天气"
+ },
+ "91porn": {
+  "domains": [
+   "91porn.com"
+  ],
+  "name": "91porn"
+ },
+ "m-78": {
+  "domains": [
+   "m-78.jp"
+  ],
+  "name": "円谷ステーション"
+ },
+ "35mmc": {
+  "domains": [
+   "35mmc.com"
+  ],
+  "name": "35mmc"
+ },
+ "fanxinzhui": {
+  "domains": [
+   "fanxinzhui.com"
+  ],
+  "name": "追新番"
+ },
+ "qm120": {
+  "domains": [
+   "qm120.com"
+  ],
+  "name": "全民健康网"
+ },
+ "wbv-gpa": {
+  "domains": [
+   "wbv-gpa.at"
+  ],
+  "name": "WBV-GPA"
+ },
+ "shmtu": {
+  "domains": [
+   "jwc.shmtu.edu.cn"
+  ],
+  "name": "上海海事大学"
+ },
+ "comic-fuz": {
+  "domains": [
+   "comic-fuz.com"
+  ],
+  "name": "COMIC FUZ"
+ },
+ "howtoforge": {
+  "domains": [
+   "howtoforge.com"
+  ],
+  "name": "Howtoforge Linux Tutorials"
+ },
+ "nicovideo": {
+  "domains": [
+   "nicovideo.jp"
+  ],
+  "name": "Niconico"
+ },
+ "monsterhunter": {
+  "domains": [
+   "monsterhunter.com"
+  ],
+  "name": "Monster Hunter"
+ },
+ "eshukan": {
+  "domains": [
+   "eshukan.com"
+  ],
+  "name": "万维书刊网"
+ },
+ "ahmu": {
+  "domains": [
+   "yjsxy.ahmu.edu.cn"
+  ],
+  "name": "安徽医科大学"
+ },
+ "radio-canada": {
+  "domains": [
+   "ici.radio-canada.ca"
+  ],
+  "name": "Radio-Canada.ca"
+ },
+ "natgeo": {
+  "domains": [
+   "nationalgeographic.com"
+  ],
+  "name": "National Geographic"
+ },
+ "typst": {
+  "domains": [
+   "typst.com"
+  ],
+  "name": "Typst"
+ },
+ "cupl": {
+  "domains": [
+   "jwc.cupl.edu.cn/index/tzgg.htm"
+  ],
+  "name": "CUPL"
+ },
+ "ltaaa": {
+  "domains": [
+   "ltaaa.cn"
+  ],
+  "name": "龙腾网"
+ },
+ "npr": {
+  "domains": [
+   "npr.org"
+  ],
+  "name": "NPR (National Public Radio)"
+ },
+ "zhibo8": {
+  "domains": [
+   "zhibo8.cc"
+  ],
+  "name": "直播吧"
+ },
+ "netflav": {
+  "domains": [
+   "netflav.com"
+  ],
+  "name": "Netflav"
+ },
+ "ccnu": {
+  "domains": [
+   "ccnu.91wllm.com"
+  ],
+  "name": "华中师范大学"
+ },
+ "acwifi": {
+  "domains": [
+   "acwifi.net"
+  ],
+  "name": "路由器技术分享"
+ },
+ "asahi": {
+  "domains": [
+   "asahi.com"
+  ],
+  "name": "朝日新聞デジタル"
+ },
+ "av01": {
+  "domains": [
+   "av01.media"
+  ],
+  "name": "AV01"
+ },
+ "schwabnetwork": {
+  "domains": [
+   "schwabnetwork.com"
+  ],
+  "name": "Schwab Network"
+ },
+ "efe": {
+  "domains": [
+   "efe.com"
+  ],
+  "name": "EFE Noticias"
+ },
+ "mcp": {
+  "domains": [
+   "mcp.so"
+  ],
+  "name": "MCP.so"
+ },
+ "agefans": {
+  "domains": [
+   "agemys.cc"
+  ],
+  "name": "AGE 动漫"
+ },
+ "ahjzu": {
+  "domains": [
+   "news.ahjzu.edu.cn"
+  ],
+  "name": "安徽建筑大学"
+ },
+ "gumroad": {
+  "domains": [
+   "gumroad.com"
+  ],
+  "name": "Gumroad"
+ },
+ "hunanpea": {
+  "domains": [
+   "rsks.hunanpea.com"
+  ],
+  "name": "湖南人事考试网"
+ },
+ "devtrium": {
+  "domains": [
+   "devtrium.com"
+  ],
+  "name": "Devtrium"
+ },
+ "5eplay": {
+  "domains": [
+   "csgo.5eplay.com"
+  ],
+  "name": "5EPLAY"
+ },
+ "techsir": {
+  "domains": [
+   "techsir.com"
+  ],
+  "name": "TechSir"
+ },
+ "cffex": {
+  "domains": [
+   "cffex.com.cn"
+  ],
+  "name": "中国金融期货交易所"
+ },
+ "toutiao": {
+  "domains": [
+   "toutiao.com"
+  ],
+  "name": "今日头条"
+ },
+ "theinitium": {
+  "domains": [
+   "theinitium.com"
+  ],
+  "name": "The Initium"
+ },
+ "cssn": {
+  "domains": [
+   "iolaw.cssn.cn"
+  ],
+  "name": "Chinese Social Science Net"
+ },
+ "voanews": {
+  "domains": [
+   "voachinese.com"
+  ],
+  "name": "Voice of America (VOA)"
+ },
+ "re3data": {
+  "domains": [
+   "re3data.org"
+  ],
+  "name": "re3data"
+ },
+ "landiannews": {
+  "domains": [
+   "landiannews.com"
+  ],
+  "name": "蓝点网"
+ },
+ "cfr": {
+  "domains": [
+   "cfr.org"
+  ],
+  "name": "Council on Foreign Relations"
+ },
+ "jump": {
+  "domains": [
+   "switch.jumpvg.com"
+  ],
+  "name": "JUMP"
+ },
+ "bjwxdxh": {
+  "domains": [
+   "bjwxdxh.org.cn"
+  ],
+  "name": "北京无线电协会"
+ },
+ "xiaozhuanlan": {
+  "domains": [
+   "xiaozhuanlan.com"
+  ],
+  "name": "小专栏"
+ },
+ "iwara": {
+  "domains": [
+   "iwara.tv"
+  ],
+  "name": "iwara"
+ },
+ "lineageos": {
+  "domains": [
+   "lineageos.org"
+  ],
+  "name": "LineageOS"
+ },
+ "bast": {
+  "domains": [
+   "bast.net.cn"
+  ],
+  "name": "北京市科学技术协会"
+ },
+ "chinadegrees": {
+  "domains": [
+   "chinadegrees.com.cn"
+  ],
+  "name": "中华人民共和国学位证书查询"
+ },
+ "cybersecurityventures": {
+  "domains": [
+   "cybersecurityventures.com"
+  ],
+  "name": "Cybercrime Magazine"
+ },
+ "ccmn": {
+  "domains": [
+   "ccmn.cn"
+  ],
+  "name": "长江有色网"
+ },
+ "picnob": {
+  "domains": [
+   "instagram.com"
+  ],
+  "name": "Instagram"
+ },
+ "byau": {
+  "domains": [
+   "byau.edu.cn"
+  ],
+  "name": "黑龙江八一农垦大学"
+ },
+ "yuancheng.work": {
+  "domains": [
+   "yuancheng.work"
+  ],
+  "name": "远程.work"
+ },
+ "xwenming": {
+  "domains": [
+   "xwenming.com"
+  ],
+  "name": "未知文明"
+ },
+ "yidoutang": {
+  "domains": [
+   "yidoutang.com"
+  ],
+  "name": "一兜糖"
+ },
+ "tribalfootball": {
+  "domains": [
+   "tribalfootball.com"
+  ],
+  "name": "Tribal Football"
+ },
+ "archdaily": {
+  "domains": [
+   "archdaily.cn"
+  ],
+  "name": "ArchDaily"
+ },
+ "tumblr": {
+  "domains": [
+   "tumblr.com"
+  ],
+  "name": "Tumblr"
+ },
+ "nature": {
+  "domains": [
+   "nature.com"
+  ],
+  "name": "Nature Journal"
+ },
+ "notefolio": {
+  "domains": [
+   "notefolio.net"
+  ],
+  "name": "Notefolio"
+ },
+ "playpcesor": {
+  "domains": [
+   "playpcesor.com"
+  ],
+  "name": "电脑玩物"
+ },
+ "8kcos": {
+  "domains": [
+   "8kcosplay.com"
+  ],
+  "name": "8KCosplay"
+ },
+ "gogoanimehd": {
+  "domains": [
+   "developer.anitaku.to"
+  ],
+  "name": "Gogoanimehd"
+ },
+ "youtube": {
+  "domains": [
+   "youtube.com"
+  ],
+  "name": "YouTube"
+ },
+ "cqut": {
+  "domains": [
+   "cqut.edu.cn"
+  ],
+  "name": "重庆理工大学"
+ },
+ "brave": {
+  "domains": [
+   "brave.com"
+  ],
+  "name": "Brave"
+ },
+ "wuzhongmuseum": {
+  "domains": [
+   "wuzhongmuseum.com"
+  ],
+  "name": "Museum of Wu"
+ },
+ "gitpod": {
+  "domains": [
+   "gitpod.io"
+  ],
+  "name": "Gitpod"
+ },
+ "konachan": {
+  "domains": [
+   "konachan.com"
+  ],
+  "name": "Konachan.com Anime Wallpapers"
+ },
+ "hypergryph": {
+  "domains": [
+   "hypergryph.com"
+  ],
+  "name": "鹰角网络"
+ },
+ "cbre": {
+  "domains": [
+   "cbre.com.cn"
+  ],
+  "name": "世邦魏理仕 CBRE"
+ },
+ "aqara": {
+  "domains": [
+   "aqara.com"
+  ],
+  "name": "Aqara"
+ },
+ "gitkraken": {
+  "domains": [
+   "gitkraken.com"
+  ],
+  "name": "GitKraken"
+ },
+ "hafu": {
+  "domains": [
+   "hafu.edu.cn"
+  ],
+  "name": "河南财政金融学院"
+ },
+ "likeshop": {
+  "domains": [
+   "likeshop.me"
+  ],
+  "name": "LikeShop"
+ },
+ "chinaventure": {
+  "domains": [
+   "chinaventure.com.cn"
+  ],
+  "name": "投中网"
+ },
+ "fanbox": {
+  "domains": [
+   "fanbox.cc"
+  ],
+  "name": "fanbox"
+ },
+ "sobooks": {
+  "domains": [
+   "sobooks.net"
+  ],
+  "name": "SoBooks"
+ },
+ "jin10": {
+  "domains": [
+   "jin10.com"
+  ],
+  "name": "金十数据"
+ },
+ "81": {
+  "domains": [
+   "81.cn"
+  ],
+  "name": "中国军网"
+ },
+ "deepseek": {
+  "domains": [
+   "api-docs.deepseek.com"
+  ],
+  "name": "DeepSeek"
+ },
+ "showstart": {
+  "domains": [
+   "showstart.com"
+  ],
+  "name": "秀动网"
+ },
+ "hket": {
+  "domains": [
+   "china.hket.com"
+  ],
+  "name": "香港经济日报"
+ },
+ "njfu": {
+  "domains": [
+   "njfu.edu.cn"
+  ],
+  "name": "南京林业大学"
+ },
+ "chouti": {
+  "domains": [
+   "ichouti.cn"
+  ],
+  "name": "抽屉新热榜"
+ },
+ "altotrain": {
+  "domains": [
+   "altotrain.ca"
+  ],
+  "name": "Alto - Toronto-Québec City High-Speed Rail Network"
+ },
+ "121": {
+  "domains": [
+   "121.com.cn"
+  ],
+  "name": "深圳台风网"
+ },
+ "mindmeister": {
+  "domains": [
+   "mindmeister.com"
+  ],
+  "name": "MindMeister"
+ },
+ "chaping": {
+  "domains": [
+   "chaping.cn"
+  ],
+  "name": "差评"
+ },
+ "daily": {
+  "domains": [
+   "app.daily.dev"
+  ],
+  "name": "Daily.dev"
+ },
+ "nintendo": {
+  "domains": [
+   "nintendo.com"
+  ],
+  "name": "Nintendo"
+ },
+ "thoughtco": {
+  "domains": [
+   "thoughtco.com"
+  ],
+  "name": "ThoughtCo"
+ },
+ "apkpure": {
+  "domains": [
+   "apkpure.com"
+  ],
+  "name": "APKPure"
+ },
+ "monotype": {
+  "domains": [
+   "monotype.com"
+  ],
+  "name": "Monotype"
+ },
+ "gc.ca": {
+  "domains": [
+   "pm.gc.ca"
+  ],
+  "name": "Prime Minister of Canada"
+ },
+ "ireader": {
+  "domains": [
+   "pweb.d.ireader.com"
+  ],
+  "name": "掌阅 iReader"
+ },
+ "mcmod": {
+  "domains": [
+   "mcmod.cn"
+  ],
+  "name": "MC百科"
+ },
+ "bse": {
+  "domains": [
+   "bse.cn"
+  ],
+  "name": "北京证券交易所"
+ },
+ "readhub": {
+  "domains": [
+   "readhub.cn"
+  ],
+  "name": "Readhub"
+ },
+ "bangumi.online": {
+  "domains": [
+   "bangumi.online"
+  ],
+  "name": "アニメ新番組"
+ },
+ "dnaindia": {
+  "domains": [
+   "dnaindia.com"
+  ],
+  "name": "DNA India"
+ },
+ "dekudeals": {
+  "domains": [
+   "dekudeals.com"
+  ],
+  "name": "dekudeals"
+ },
+ "scmp": {
+  "domains": [
+   "scmp.com"
+  ],
+  "name": "Corona Virus Disease 2019"
+ },
+ "topbook": {
+  "domains": [
+   "topbook.cc"
+  ],
+  "name": "Topbook"
+ },
+ "zjol": {
+  "domains": [
+   "zjol.com.cn"
+  ],
+  "name": "浙江在线"
+ },
+ "gisreportsonline": {
+  "domains": [
+   "gisreportsonline.com"
+  ],
+  "name": "GIS Reports"
+ },
+ "glo": {
+  "domains": [
+   "glo.com.cn"
+  ],
+  "name": "环球律师事务所"
+ },
+ "hackertalk": {
+  "domains": [
+   "hackertalk.net"
+  ],
+  "name": "HACKER TALK 黑客说"
+ },
+ "xinpianchang": {
+  "domains": [
+   "xinpianchang.com"
+  ],
+  "name": "新片场"
+ },
+ "yxdown": {
+  "domains": [
+   "yxdown.com"
+  ],
+  "name": "游讯网"
+ },
+ "huxiu": {
+  "domains": [
+   "huxiu.com"
+  ],
+  "name": "虎嗅"
+ },
+ "newsmarket": {
+  "domains": [
+   "newsmarket.com.tw"
+  ],
+  "name": "上下游 News&Market"
+ },
+ "jetbrains": {
+  "domains": [
+   "jetbrains.com"
+  ],
+  "name": "JetBrains"
+ },
+ "polymarket": {
+  "domains": [
+   "polymarket.com"
+  ],
+  "name": "Polymarket"
+ },
+ "daoxuan": {
+  "domains": [
+   "daoxuan.cc"
+  ],
+  "name": "道宣的窝"
+ },
+ "secshi": {
+  "domains": [
+   "secshi.com"
+  ],
+  "name": "酷客影视"
+ },
+ "thzt": {
+  "domains": [
+   "thzt.github.io"
+  ],
+  "name": "thzt"
+ },
+ "rsseverything": {
+  "domains": [
+   "rsseverything.com"
+  ],
+  "name": "RssEverything"
+ },
+ "hebtv": {
+  "domains": [
+   "web.cmc.hebtv.com"
+  ],
+  "name": "河北网络广播电视台"
+ },
+ "njucm": {
+  "domains": [
+   "lib.njucm.edu.cn"
+  ],
+  "name": "南京中医药大学"
+ },
+ "scau": {
+  "domains": [
+   "yzb.scau.edu.cn"
+  ],
+  "name": "华南农业大学"
+ },
+ "nuaa": {
+  "domains": [
+   "aao.nuaa.edu.cn"
+  ],
+  "name": "南京航空航天大学"
+ },
+ "sznews": {
+  "domains": [
+   "sznews.com"
+  ],
+  "name": "深圳新闻网"
+ },
+ "lala": {
+  "domains": [
+   "lala.im"
+  ],
+  "name": "荒岛"
+ },
+ "xml": {
+  "domains": [
+   "xml.com"
+  ],
+  "name": "XML.com"
+ },
+ "tsdm39": {
+  "domains": [
+   "tsdm39.com"
+  ],
+  "name": "天使动漫论坛"
+ },
+ "lifetimes": {
+  "domains": [
+   "lifetimes.cn"
+  ],
+  "name": "生命时报"
+ },
+ "booth.pm": {
+  "domains": [
+   "booth.pm"
+  ],
+  "name": "BOOTH"
+ },
+ "wkjyqh": {
+  "domains": [
+   "wkjyqh.com"
+  ],
+  "name": "五矿期货"
+ },
+ "ippa": {
+  "domains": [
+   "ippa.top"
+  ],
+  "name": "子方有料"
+ },
+ "blockworks": {
+  "domains": [
+   "blockworks.co"
+  ],
+  "name": "Blockworks"
+ },
+ "javlibrary": {
+  "domains": [
+   "javlibrary.com"
+  ],
+  "name": "JAVLibrary"
+ },
+ "chinathinktanks": {
+  "domains": [
+   "chinathinktanks.org.cn"
+  ],
+  "name": "中国智库网"
+ },
+ "openalex": {
+  "domains": [
+   "openalex.org"
+  ],
+  "name": "OpenAlex"
+ },
+ "zotero": {
+  "domains": [
+   "zotero.org"
+  ],
+  "name": "Zotero"
+ },
+ "notion": {
+  "domains": [
+   "notion.so"
+  ],
+  "name": "Notion"
+ },
+ "aijishu": {
+  "domains": [
+   "aijishu"
+  ],
+  "name": "极术社区"
+ },
+ "ccreports": {
+  "domains": [
+   "ccreports.com.cn"
+  ],
+  "name": "消费者报道"
+ },
+ "fisher-spb": {
+  "domains": [
+   "fisher.spb.ru"
+  ],
+  "name": "Fisher Spb"
+ },
+ "ali213": {
+  "domains": [
+   "ali213.net"
+  ],
+  "name": "游侠网"
+ },
+ "hnmuseum": {
+  "domains": [
+   "hnmuseum.com/zh-hans"
+  ],
+  "name": "Hunan Museum"
+ },
+ "getdailyart": {
+  "domains": [
+   "getdailyart.com"
+  ],
+  "name": "DailyArt 每日艺术"
+ },
+ "cbc": {
+  "domains": [
+   "cbc.ca"
+  ],
+  "name": "Canadian Broadcasting Corporation"
+ },
+ "thewirehindi": {
+  "domains": [
+   "thewirehindi.com"
+  ],
+  "name": "The Wire Hindi"
+ },
+ "cockroachlabs": {
+  "domains": [
+   "cockroachlabs.com"
+  ],
+  "name": "Cockroach Labs"
+ },
+ "cmpxchg8b": {
+  "domains": [
+   "lock.cmpxchg8b.com"
+  ],
+  "name": "cmpxchg8b"
+ },
+ "forklog": {
+  "domains": [
+   "forklog.com"
+  ],
+  "name": "Forklog"
+ },
+ "supercell": {
+  "domains": [
+   "supercell.com"
+  ],
+  "name": "Supercell"
+ },
+ "eastday": {
+  "domains": [
+   "mini.eastday.com"
+  ],
+  "name": "东方网"
+ },
+ "fjksbm": {
+  "domains": [
+   "fjksbm.com"
+  ],
+  "name": "福建考试报名网"
+ },
+ "iguoguo": {
+  "domains": [
+   "iguoguo.net"
+  ],
+  "name": "爱果果"
+ },
+ "u9a9": {
+  "domains": [
+   "u9a9.com"
+  ],
+  "name": "U9A9"
+ },
+ "mplus": {
+  "domains": [
+   "mplus.org.hk"
+  ],
+  "name": "M+博物館"
+ },
+ "secrss": {
+  "domains": [
+   "secrss.com"
+  ],
+  "name": "安全内参"
+ },
+ "magazinelib": {
+  "domains": [
+   "magazinelib.com"
+  ],
+  "name": "MagazineLib"
+ },
+ "cqwu": {
+  "domains": [
+   "cqwu.net"
+  ],
+  "name": "重庆文理学院"
+ },
+ "huoxian": {
+  "domains": [
+   "zone.huoxian.cn"
+  ],
+  "name": "火线"
+ },
+ "btzj": {
+  "domains": [
+   "btbtt20.com"
+  ],
+  "name": "BT 之家"
+ },
+ "gamebase": {
+  "domains": [
+   "news.gamebase.com.tw"
+  ],
+  "name": "遊戲基地 Gamebase"
+ },
+ "sxhm": {
+  "domains": [
+   "sxhm.com/"
+  ],
+  "name": "Shaanxi History Museum"
+ },
+ "loongarch": {
+  "domains": [
+   "loongarch.org"
+  ],
+  "name": "LA UOSC社区"
+ },
+ "webtoons": {
+  "domains": [
+   "webtoons.com"
+  ],
+  "name": "Webtoons"
+ },
+ "zhonglun": {
+  "domains": [
+   "zhonglun.com"
+  ],
+  "name": "中伦律师事务所"
+ },
+ "dtcj": {
+  "domains": [
+   "dtcj.com"
+  ],
+  "name": "DT 财经"
+ },
+ "21caijing": {
+  "domains": [
+   "21caijing.com"
+  ],
+  "name": "21财经"
+ },
+ "hamel": {
+  "domains": [
+   "hamel.dev"
+  ],
+  "name": "Hamel"
+ },
+ "tver": {
+  "domains": [
+   "tver.jp"
+  ],
+  "name": "TVer"
+ },
+ "fuliba": {
+  "domains": [
+   "fuliba2023.net"
+  ],
+  "name": "福利吧"
+ },
+ "mhlw": {
+  "domains": [
+   "mhlw.go.jp"
+  ],
+  "name": "厚生労働省"
+ },
+ "easynomad": {
+  "domains": [
+   "easynomad.cn"
+  ],
+  "name": "轻松游牧-远程工作聚集地"
+ },
+ "tingtingfm": {
+  "domains": [
+   "mobile.tingtingfm.com"
+  ],
+  "name": "听听 FM"
+ },
+ "inewsweek": {
+  "domains": [
+   "inewsweek.cn"
+  ],
+  "name": "中国新闻周刊"
+ },
+ "ifanr": {
+  "domains": [
+   "ifanr.com"
+  ],
+  "name": "爱范儿"
+ },
+ "netflix": {
+  "domains": [
+   "netflix.com"
+  ],
+  "name": "Netflix"
+ },
+ "eventernote": {
+  "domains": [
+   "eventernote.com"
+  ],
+  "name": "Eventernote"
+ },
+ "12306": {
+  "domains": [
+   "kyfw.12306.cn"
+  ],
+  "name": "12306"
+ },
+ "mihoyo": {
+  "domains": [
+   "genshin.hoyoverse.com"
+  ],
+  "name": "米哈游"
+ },
+ "reinet": {
+  "domains": [
+   "reinet.or.jp"
+  ],
+  "name": "日本不動産研究所"
+ },
+ "hameln": {
+  "domains": [
+   "syosetu.org"
+  ],
+  "name": "hameln"
+ },
+ "wechat": {
+  "domains": [
+   "posts.careerengine.us"
+  ],
+  "name": "微信小程序"
+ },
+ "cna": {
+  "domains": [
+   "cna.com.tw"
+  ],
+  "name": "中央通讯社"
+ },
+ "hashnode": {
+  "domains": [
+   "hashnode.dev"
+  ],
+  "name": "hashnode"
+ },
+ "tangshufang": {
+  "domains": [
+   "tangshufang.com"
+  ],
+  "name": "唐书房"
+ },
+ "airchina": {
+  "domains": [
+   "airchina.com.cn"
+  ],
+  "name": "中国国际航空公司"
+ },
+ "iqilu": {
+  "domains": [
+   "v.iqilu.com"
+  ],
+  "name": "齐鲁网"
+ },
+ "pincong": {
+  "domains": [
+   "pincong.rocks"
+  ],
+  "name": "品葱"
+ },
+ "huya": {
+  "domains": [
+   "huya.com"
+  ],
+  "name": "虎牙直播"
+ },
+ "taptap": {
+  "domains": [
+   "taptap.io"
+  ],
+  "name": "TapTap"
+ },
+ "lang": {
+  "domains": [
+   "lang.live"
+  ],
+  "name": "浪 Play 直播"
+ },
+ "oilchem": {
+  "domains": [
+   "oilchem.net"
+  ],
+  "name": "隆众资讯"
+ },
+ "egsea": {
+  "domains": [
+   "egsea.com"
+  ],
+  "name": "e 公司"
+ },
+ "bnext": {
+  "domains": [
+   "bnext.com.tw"
+  ],
+  "name": "數位時代 BusinessNext"
+ },
+ "wzu": {
+  "domains": [
+   "wzu.edu.cn"
+  ],
+  "name": "温州大学"
+ },
+ "henu": {
+  "domains": [
+   "henu.edu.cn"
+  ],
+  "name": "河南大学"
+ },
+ "gocn": {
+  "domains": [
+   "gocn.vip"
+  ],
+  "name": "GoCN"
+ },
+ "umass": {
+  "domains": [
+   "umass.edu"
+  ],
+  "name": "University of Massachusetts Amherst"
+ },
+ "vgnlab": {
+  "domains": [
+   "vgnlab.com.cn"
+  ],
+  "name": "VGN"
+ },
+ "aa1": {
+  "domains": [
+   "aa1.cn"
+  ],
+  "name": "夏柔"
+ },
+ "cell": {
+  "domains": [
+   "cell.com"
+  ],
+  "name": "Cell"
+ },
+ "jl1mall": {
+  "domains": [
+   "jl1mall.com"
+  ],
+  "name": "吉林一号网"
+ },
+ "fraenkelgallery": {
+  "domains": [
+   "fraenkelgallery.com"
+  ],
+  "name": "Fraenkel Gallery"
+ },
+ "mckinsey": {
+  "domains": [
+   "mckinsey.com.cn"
+  ],
+  "name": "麦肯锡"
+ },
+ "luolei": {
+  "domains": [
+   "luolei.org"
+  ],
+  "name": "罗磊的独立博客"
+ },
+ "bluearchive": {
+  "domains": [
+   "bluearchive.jp"
+  ],
+  "name": "Blue Archive"
+ },
+ "nationalgeographic": {
+  "domains": [
+   "nationalgeographic.com"
+  ],
+  "name": "National Geographic"
+ },
+ "chromium": {
+  "domains": [
+   "issues.chromium.org"
+  ],
+  "name": "Chromium"
+ },
+ "digg": {
+  "domains": [
+   "digg.com"
+  ],
+  "name": "Digg"
+ },
+ "bt0": {
+  "domains": [
+   "2bt0.com"
+  ],
+  "name": "不太灵影视"
+ },
+ "yyets": {
+  "domains": [
+   "yysub.net"
+  ],
+  "name": "人人影视"
+ },
+ "wmc-bj": {
+  "domains": [
+   "wmc-bj.net"
+  ],
+  "name": "World Meteorological Centre Beijing"
+ },
+ "scmuseum": {
+  "domains": [
+   "scmuseum.cn"
+  ],
+  "name": "Sichuan Museum"
+ },
+ "sec.today": {
+  "domains": [
+   "sec.today"
+  ],
+  "name": "每日安全"
+ },
+ "inshokuten": {
+  "domains": [
+   "inshokuten.com"
+  ],
+  "name": "Inshokuten.com"
+ },
+ "yinwang": {
+  "domains": [
+   "yinwang.org"
+  ],
+  "name": "王垠的博客 - 当然我在扯淡"
+ },
+ "hust": {
+  "domains": [
+   "hust.edu.cn"
+  ],
+  "name": "华中科技大学"
+ },
+ "bgmlist": {
+  "domains": [
+   "bgmlist.com"
+  ],
+  "name": "番组放送"
+ },
+ "chnmus": {
+  "domains": [
+   "chnmus.net"
+  ],
+  "name": "Henan Museum"
+ },
+ "liulinblog": {
+  "domains": [
+   "liulinblog.com"
+  ],
+  "name": "木木博客"
+ },
+ "guancha": {
+  "domains": [
+   "guancha.cn"
+  ],
+  "name": "观察者网"
+ },
+ "appleinsider": {
+  "domains": [
+   "appleinsider.com"
+  ],
+  "name": "AppleInsider"
+ },
+ "gmcmonline": {
+  "domains": [
+   "gmcmonline.com"
+  ],
+  "name": "国门传媒在线"
+ },
+ "baijing": {
+  "domains": [
+   "baijing.cn"
+  ],
+  "name": "白鲸出海"
+ },
+ "modelscope": {
+  "domains": [
+   "modelscope.cn"
+  ],
+  "name": "ModelScope 魔搭社区"
+ },
+ "farcaster": {
+  "domains": [
+   "farcaster.xyz"
+  ],
+  "name": "Farcaster"
+ },
+ "gitstar-ranking": {
+  "domains": [
+   "gitstar-ranking.com"
+  ],
+  "name": "Gitstar Ranking"
+ },
+ "fate-go": {
+  "domains": [
+   "news.fate-go.jp"
+  ],
+  "name": "Fate/Grand Order"
+ },
+ "soundofhope": {
+  "domains": [
+   "soundofhope.org"
+  ],
+  "name": "希望之声"
+ },
+ "uchicago": {
+  "domains": [
+   "journals.uchicago.edu"
+  ],
+  "name": "The University of Chicago Press: Journals"
+ },
+ "ctinews": {
+  "domains": [
+   "ctinews.com"
+  ],
+  "name": "中天新聞網"
+ },
+ "anytxt": {
+  "domains": [
+   "anytxt.net"
+  ],
+  "name": "Anytxt Searcher"
+ },
+ "cih-index": {
+  "domains": [
+   "cih-index.com"
+  ],
+  "name": "中指研究院"
+ },
+ "jjmhw": {
+  "domains": [
+   "jjmhw.cc"
+  ],
+  "name": "漫小肆"
+ },
+ "metacritic": {
+  "domains": [
+   "metacritic.com"
+  ],
+  "name": "Metacritic"
+ },
+ "keepass": {
+  "domains": [
+   "keepass.info"
+  ],
+  "name": "KeePass"
+ },
+ "cste": {
+  "domains": [
+   "cste.org.cn"
+  ],
+  "name": "中国技术经济学会"
+ },
+ "latepost": {
+  "domains": [
+   "latepost.com"
+  ],
+  "name": "晚点 LatePost"
+ },
+ "meihua": {
+  "domains": [
+   "meihua.info"
+  ],
+  "name": "梅花网"
+ },
+ "japanpost": {
+  "domains": [
+   "trackings.post.japanpost.jp"
+  ],
+  "name": "Japanpost"
+ },
+ "europapress": {
+  "domains": [
+   "europapress.es"
+  ],
+  "name": "Europa Press"
+ },
+ "lwn": {
+  "domains": [
+   "lwn.net"
+  ],
+  "name": "LWN.net"
+ },
+ "ygkkk": {
+  "domains": [
+   "ygkkk.blogspot.com"
+  ],
+  "name": "甬哥侃侃侃YouTube教程摘要随笔"
+ },
+ "e-hentai": {
+  "domains": [
+   "e-hentai.org"
+  ],
+  "name": "E-Hentai"
+ },
+ "gamme": {
+  "domains": [
+   "news.gamme.com.tw"
+  ],
+  "name": "卡卡洛普"
+ },
+ "upc": {
+  "domains": [
+   "computer.upc.edu.cn"
+  ],
+  "name": "中国石油大学（华东）"
+ },
+ "alistapart": {
+  "domains": [
+   "alistapart.com"
+  ],
+  "name": "A List Apart"
+ },
+ "freebuf": {
+  "domains": [
+   "freebuf.com"
+  ],
+  "name": "FreeBuf"
+ },
+ "lntu": {
+  "domains": [
+   "lntu.edu.cn"
+  ],
+  "name": "辽宁工程技术大学"
+ },
+ "edrawsoft": {
+  "domains": [
+   "mm.edrawsoft.cn"
+  ],
+  "name": "思维导图社区"
+ },
+ "cmu": {
+  "domains": [
+   "cmu.edu"
+  ],
+  "name": "Carnegie Mellon University"
+ },
+ "toranoana": {
+  "domains": [
+   "toranoana.jp"
+  ],
+  "name": "とらのあな"
+ },
+ "lens": {
+  "domains": [
+   "lens.xyz"
+  ],
+  "name": "Lens"
+ },
+ "hupu": {
+  "domains": [
+   ".hupu.com"
+  ],
+  "name": "虎扑"
+ },
+ "inuki-ichiba": {
+  "domains": [
+   "inuki-ichiba.jp"
+  ],
+  "name": "Inuki Ichiba"
+ },
+ "guokr": {
+  "domains": [
+   "guokr.com"
+  ],
+  "name": "果壳网"
+ },
+ "jinritemai": {
+  "domains": [
+   "op.jinritemai.com"
+  ],
+  "name": "抖店开放平台"
+ },
+ "enterprisecraftsmanship": {
+  "domains": [
+   "enterprisecraftsmanship.com"
+  ],
+  "name": "Enterprise Craftsmanship"
+ },
+ "qiche365": {
+  "domains": [
+   "qiche365.org.cn"
+  ],
+  "name": "汽车召回网"
+ },
+ "i-tenpo": {
+  "domains": [
+   "i-tenpo.com"
+  ],
+  "name": "Inukitenpo"
+ },
+ "phrack": {
+  "domains": [
+   "phrack.org"
+  ],
+  "name": "Phrack Magazine"
+ },
+ "modian": {
+  "domains": [
+   "modian.com"
+  ],
+  "name": "摩点"
+ },
+ "qbitai": {
+  "domains": [
+   "qbitai.com"
+  ],
+  "name": "量子位"
+ },
+ "nosetime": {
+  "domains": [
+   "nosetime.com"
+  ],
+  "name": "香水时代"
+ },
+ "misskey": {
+  "domains": [
+   "misskey.io"
+  ],
+  "name": "Misskey"
+ },
+ "ktown4u": {
+  "domains": [
+   "ktown4u.com"
+  ],
+  "name": "Ktown4u"
+ },
+ "ciweimao": {
+  "domains": [
+   "wap.ciweimao.com"
+  ],
+  "name": "刺猬猫"
+ },
+ "yzu": {
+  "domains": [
+   "yzu.edu.cn"
+  ],
+  "name": "扬州大学"
+ },
+ "gmu": {
+  "domains": [
+   "gmu.cn"
+  ],
+  "name": "赣南医科大学"
+ },
+ "latexstudio": {
+  "domains": [
+   "latexstudio.net"
+  ],
+  "name": "LaTeX 开源小屋"
+ },
+ "nautiljon": {
+  "domains": [
+   "nautiljon.com"
+  ],
+  "name": "Nautiljon"
+ },
+ "imf": {
+  "domains": [
+   "imf.org"
+  ],
+  "name": "International Monetary Fund"
+ },
+ "ps": {
+  "domains": [
+   "playstation.com"
+  ],
+  "name": "PlayStation Store"
+ },
+ "flyert": {
+  "domains": [
+   "flyert.com.cn"
+  ],
+  "name": "飞客茶馆"
+ },
+ "vom": {
+  "domains": [
+   "vom.mn"
+  ],
+  "name": "Voice of Mongolia"
+ },
+ "cdu": {
+  "domains": [
+   "cdu.edu.cn"
+  ],
+  "name": "成都大学"
+ },
+ "cnjxol": {
+  "domains": [
+   "cnjxol.com"
+  ],
+  "name": "南湖清风"
+ },
+ "china": {
+  "domains": [
+   "finance.china.com"
+  ],
+  "name": "China.com 中华网"
+ },
+ "xaufe": {
+  "domains": [
+   "jiaowu.xaufe.edu.cn"
+  ],
+  "name": "西安财经大学"
+ },
+ "163": {
+  "domains": [
+   "163.com"
+  ],
+  "name": "网易公开课"
+ },
+ "testerhome": {
+  "domains": [
+   "testerhome.com"
+  ],
+  "name": "TesterHome"
+ },
+ "disinfo": {
+  "domains": [
+   "disinfo.eu"
+  ],
+  "name": "EU Disinfo Lab"
+ },
+ "soundcloud": {
+  "domains": [
+   "soundcloud.com"
+  ],
+  "name": "SoundCloud"
+ },
+ "xmnn": {
+  "domains": [
+   "epaper.xmnn.cn"
+  ],
+  "name": "厦门网"
+ },
+ "shcstheatre": {
+  "domains": [
+   "shcstheatre.com"
+  ],
+  "name": "上海文化广场"
+ },
+ "szu": {
+  "domains": [
+   "yz.szu.edu.cn"
+  ],
+  "name": "深圳大学"
+ },
+ "perplexity": {
+  "domains": [
+   "perplexity.ai"
+  ],
+  "name": "Perplexity"
+ },
+ "coolbuy": {
+  "domains": [
+   "coolbuy.com"
+  ],
+  "name": "玩物志"
+ },
+ "marginnote": {
+  "domains": [
+   "bbs.marginnote.com.cn"
+  ],
+  "name": "MarginNote"
+ },
+ "coindesk": {
+  "domains": [
+   "coindesk.com"
+  ],
+  "name": "CoinDesk"
+ },
+ "juejin": {
+  "domains": [
+   "juejin.cn"
+  ],
+  "name": "掘金"
+ },
+ "cefco": {
+  "domains": [
+   "cefco.cn"
+  ],
+  "name": "亚布力中国企业家论坛"
+ },
+ "komica": {
+  "domains": [
+   "komica1.org"
+  ],
+  "name": "Komica"
+ },
+ "ulapia": {
+  "domains": [
+   "ulapia.com"
+  ],
+  "name": "乌拉邦"
+ },
+ "cma": {
+  "domains": [
+   "weather.cma.cn"
+  ],
+  "name": "中国气象局"
+ },
+ "auto-stats": {
+  "domains": [
+   "auto-stats.org.cn"
+  ],
+  "name": "中国汽车工业协会统计信息网"
+ },
+ "yilinzazhi": {
+  "domains": [
+   "yilinzazhi.com"
+  ],
+  "name": "意林杂志"
+ },
+ "szmuseum": {
+  "domains": [
+   "szmuseum.com"
+  ],
+  "name": "Suzhou Museum"
+ },
+ "logrocket": {
+  "domains": [
+   "blog.logrocket.com"
+  ],
+  "name": "logrocket blog"
+ },
+ "njnu": {
+  "domains": [
+   "ceai.njnu.edu.cn"
+  ],
+  "name": "南京师范大学"
+ },
+ "baobua": {
+  "domains": [
+   "baobua.com"
+  ],
+  "name": "BaoBua"
+ },
+ "gwern": {
+  "domains": [
+   "gwern.net"
+  ],
+  "name": "Gwern Branwen"
+ },
+ "zhitongcaijing": {
+  "domains": [
+   "zhitongcaijing.com"
+  ],
+  "name": "智通财经网"
+ },
+ "tradingview": {
+  "domains": [
+   "tradingview.com"
+  ],
+  "name": "TradingView"
+ },
+ "manhuagui": {
+  "domains": [
+   "manhuagui.com"
+  ],
+  "name": "看漫画"
+ },
+ "elecfans": {
+  "domains": [
+   "elecfans.com"
+  ],
+  "name": "电子发烧友"
+ },
+ "seekingalpha": {
+  "domains": [
+   "seekingalpha.com"
+  ],
+  "name": "Seeking Alpha"
+ },
+ "kisskiss": {
+  "domains": [
+   "kisskiss.tv"
+  ],
+  "name": "KISS"
+ },
+ "grandcanalmuseum": {
+  "domains": [
+   "grandcanalmuseum.cn"
+  ],
+  "name": "China Grand Canal Museum"
+ },
+ "mubu": {
+  "domains": [
+   "mubu.com"
+  ],
+  "name": "幕布"
+ },
+ "mamibuy": {
+  "domains": [
+   "mamibuy.com.hk"
+  ],
+  "name": "妈咪帮"
+ },
+ "deloitte": {
+  "domains": [
+   "www2.deloitte.com"
+  ],
+  "name": "Deloitte"
+ },
+ "gameapps": {
+  "domains": [
+   "gameapps.hk"
+  ],
+  "name": "GameApps.hk 香港手机游戏网"
+ },
+ "nltimes": {
+  "domains": [
+   "nltimes.nl"
+  ],
+  "name": "NL Times"
+ },
+ "kantarworldpanel": {
+  "domains": [
+   "kantarworldpanel.com"
+  ],
+  "name": "Kantar Worldpanel"
+ },
+ "wallstreetcn": {
+  "domains": [
+   "wallstreetcn.com"
+  ],
+  "name": "华尔街见闻"
+ },
+ "keyakizaka46": {
+  "domains": [
+   "keyakizaka46.com"
+  ],
+  "name": "欅坂46"
+ },
+ "liveuamap": {
+  "domains": [
+   "liveuamap.com"
+  ],
+  "name": "Live Universal Awareness Map"
+ },
+ "chiculture": {
+  "domains": [
+   "chiculture.org.hk"
+  ],
+  "name": "通識・現代中國"
+ },
+ "ifeng": {
+  "domains": [
+   "feng.ifeng.com"
+  ],
+  "name": "凤凰网"
+ },
+ "qiyoujiage": {
+  "domains": [
+   "qiyoujiage.com"
+  ],
+  "name": "汽油价格网"
+ },
+ "gab": {
+  "domains": [
+   "gab.com"
+  ],
+  "name": "Gab"
+ },
+ "github": {
+  "domains": [
+   "github.com"
+  ],
+  "name": "GitHub"
+ },
+ "kbs": {
+  "domains": [
+   "world.kbs.co.kr"
+  ],
+  "name": "KBS"
+ },
+ "onlyfans": {
+  "domains": [
+   "onlyfans.com"
+  ],
+  "name": "OnlyFans"
+ },
+ "evri": {
+  "domains": [
+   "evri.com"
+  ],
+  "name": "Evri"
+ },
+ "iheima": {
+  "domains": [
+   "iheima.com"
+  ],
+  "name": "i黑马网"
+ },
+ "rsshub": {
+  "domains": [
+   "docs.rsshub.app"
+  ],
+  "name": "RSSHub"
+ },
+ "eefocus": {
+  "domains": [
+   "eefocus.com"
+  ],
+  "name": "与非网"
+ },
+ "kyodonews": {
+  "domains": [
+   "china.kyodonews.net"
+  ],
+  "name": "共同网"
+ },
+ "cdi": {
+  "domains": [
+   "cdi.com.cn"
+  ],
+  "name": "国家高端智库 / 综合开发研究院"
+ },
+ "ofweek": {
+  "domains": [
+   "ofweek.com"
+  ],
+  "name": "高科技行业门户"
+ },
+ "eastmoney": {
+  "domains": [
+   "data.eastmoney.com"
+  ],
+  "name": "东方财富"
+ },
+ "hacking8": {
+  "domains": [
+   "hacking8.com"
+  ],
+  "name": "Hacking8"
+ },
+ "facebook": {
+  "domains": [
+   "facebook.com"
+  ],
+  "name": "Facebook"
+ },
+ "141ppv": {
+  "domains": [
+   "141ppv.com"
+  ],
+  "name": "141PPV"
+ },
+ "ccfa": {
+  "domains": [
+   "ccfa.org.cn"
+  ],
+  "name": "中国连锁经营协会"
+ },
+ "hnrb": {
+  "domains": [
+   "voc.com.cn"
+  ],
+  "name": "湖南日报"
+ },
+ "wallpaperhub": {
+  "domains": [
+   "wallpaperhub.app"
+  ],
+  "name": "WallpaperHub"
+ },
+ "caixin": {
+  "domains": [
+   "caixin.com"
+  ],
+  "name": "财新博客"
+ },
+ "hzcu": {
+  "domains": [
+   "hzcu.edu.cn"
+  ],
+  "name": "浙大城市学院"
+ },
+ "aicaijing": {
+  "domains": [
+   "aicaijing.com"
+  ],
+  "name": "AI 财经社"
+ },
+ "zimuxia": {
+  "domains": [
+   "zimuxia.cn"
+  ],
+  "name": "FIX 字幕侠"
+ },
+ "logclub": {
+  "domains": [
+   "logclub.com"
+  ],
+  "name": "罗戈网"
+ },
+ "atcoder": {
+  "domains": [
+   "atcoder.jp"
+  ],
+  "name": "AtCoder"
+ },
+ "txrjy": {
+  "domains": [
+   "txrjy.com"
+  ],
+  "name": "通信人家园"
+ },
+ "psnine": {
+  "domains": [
+   "psnine.com"
+  ],
+  "name": "PSN 中文站"
+ },
+ "nytimes": {
+  "domains": [
+   "nytimes.com"
+  ],
+  "name": "The New York Times"
+ },
+ "hanime": {
+  "domains": [
+   "hanime.tv"
+  ],
+  "name": "Hanime.tv"
+ },
+ "sdzk": {
+  "domains": [
+   "sdzk.cn"
+  ],
+  "name": "山东省教育招生考试院"
+ },
+ "muchong": {
+  "domains": [
+   "muchong.com"
+  ],
+  "name": "小木虫论坛"
+ },
+ "2cycd": {
+  "domains": [
+   "2cycd.com"
+  ],
+  "name": "二次元虫洞"
+ },
+ "eventbrite": {
+  "domains": [
+   "eventbrite.com"
+  ],
+  "name": "Eventbrite"
+ },
+ "591": {
+  "domains": [
+   "rent.591.com.tw"
+  ],
+  "name": "591 Rental house"
+ },
+ "shmeea": {
+  "domains": [
+   "shmeea.edu.cn"
+  ],
+  "name": "上海市教育考试院"
+ },
+ "acpaa": {
+  "domains": [
+   "acpaa.cn"
+  ],
+  "name": "中华全国专利代理师协会"
+ },
+ "tongshang": {
+  "domains": [
+   "tongshang.com"
+  ],
+  "name": "通商律师事务所"
+ },
+ "bulianglin": {
+  "domains": [
+   "bulianglin.com"
+  ],
+  "name": "不良林"
+ },
+ "xueqiu": {
+  "domains": [
+   "danjuanapp.com"
+  ],
+  "name": "雪球"
+ },
+ "iapp": {
+  "domains": [
+   "iapp.org"
+  ],
+  "name": "IAPP"
+ },
+ "news": {
+  "domains": [
+   "news.cn"
+  ],
+  "name": "新华社"
+ },
+ "qttabbar": {
+  "domains": [
+   "qttabbar.wikidot.com"
+  ],
+  "name": "QTTabBar"
+ },
+ "ltn": {
+  "domains": [
+   "ltn.com.tw"
+  ],
+  "name": "自由時報"
+ },
+ "gxmzu": {
+  "domains": [
+   "gxmzu.edu.cn"
+  ],
+  "name": "广西民族大学"
+ },
+ "cherrytimes": {
+  "domains": [
+   "cherrytimes.it"
+  ],
+  "name": "Cherry Times"
+ },
+ "uisdc": {
+  "domains": [
+   "uisdc.com"
+  ],
+  "name": "优设网"
+ },
+ "qztc": {
+  "domains": [
+   "qztc.edu.cn"
+  ],
+  "name": "泉州师范学院"
+ },
+ "itsec": {
+  "domains": [
+   "itsec.gov.cn"
+  ],
+  "name": "中国信息安全测评中心"
+ },
+ "nmtv": {
+  "domains": [
+   "nmtv.cn"
+  ],
+  "name": "内蒙古广播电视台"
+ },
+ "tctmd": {
+  "domains": [
+   "tctmd.com"
+  ],
+  "name": "TCTMD"
+ },
+ "cnu": {
+  "domains": [
+   "cnu.edu.cn"
+  ],
+  "name": "首都师范大学"
+ },
+ "uw": {
+  "domains": [
+   "gixnetwork.org"
+  ],
+  "name": "University of Washington"
+ },
+ "engoo": {
+  "domains": [
+   "engoo.com"
+  ],
+  "name": "Engoo"
+ },
+ "damai": {
+  "domains": [
+   "search.damai.cn"
+  ],
+  "name": "大麦网"
+ },
+ "threads": {
+  "domains": [
+   "threads.net"
+  ],
+  "name": "Threads"
+ },
+ "qianp": {
+  "domains": [
+   "qianp.com"
+  ],
+  "name": "千篇网"
+ },
+ "qoo-app": {
+  "domains": [
+   "apps.qoo-app.com"
+  ],
+  "name": "QooApp"
+ },
+ "allbrightlaw": {
+  "domains": [
+   "allbrightlaw.com"
+  ],
+  "name": "锦天城律师事务所"
+ },
+ "tidb": {
+  "domains": [
+   "tidb.net"
+  ],
+  "name": "TiDB 社区"
+ },
+ "asml": {
+  "domains": [
+   "asml.com"
+  ],
+  "name": "ASML Holding N.V"
+ },
+ "carousell": {
+  "domains": [
+   "carousell.com"
+  ],
+  "name": "Carousell"
+ },
+ "ctfhub": {
+  "domains": [
+   "ctfhub.com"
+  ],
+  "name": "CTFHub"
+ },
+ "stbu": {
+  "domains": [
+   "stbu.edu.cn"
+  ],
+  "name": "四川工商学院"
+ },
+ "line": {
+  "domains": [
+   "today.line.me"
+  ],
+  "name": "LINE"
+ },
+ "javtrailers": {
+  "domains": [
+   "javtrailers.com"
+  ],
+  "name": "JavTrailers"
+ },
+ "dlsite": {
+  "domains": [
+   "dlsite.com"
+  ],
+  "name": "DLsite"
+ },
+ "taiwanplus": {
+  "domains": [
+   "taiwanplus.com"
+  ],
+  "name": "TaiwanPlus"
+ },
+ "maldita": {
+  "domains": [
+   "maldita.es"
+  ],
+  "name": "Maldita.es"
+ },
+ "dailypush": {
+  "domains": [
+   "dailypush.dev"
+  ],
+  "name": "DailyPush"
+ },
+ "daodu": {
+  "domains": [
+   "daodu.tech"
+  ],
+  "name": "科技島讀"
+ },
+ "zaimanhua": {
+  "domains": [
+   "manhua.zaimanhua.com"
+  ],
+  "name": "再漫画"
+ },
+ "medieval-china": {
+  "domains": [
+   "medieval-china.club"
+  ],
+  "name": "中国的中古"
+ },
+ "bwu": {
+  "domains": [
+   "news.bwu.edu.cn"
+  ],
+  "name": "北京物资学院"
+ },
+ "dcard": {
+  "domains": [
+   "dcard.tw"
+  ],
+  "name": "Dcard"
+ },
+ "newswav": {
+  "domains": [
+   "newswav.com"
+  ],
+  "name": "Newswav"
+ },
+ "nautil": {
+  "domains": [
+   "nautil.us"
+  ],
+  "name": "Nautilus"
+ },
+ "paradigm": {
+  "domains": [
+   "paradigm.xyz"
+  ],
+  "name": "Paradigm"
+ },
+ "lovelive-anime": {
+  "domains": [
+   "lovelive-anime.jp"
+  ],
+  "name": "Love Live! Official Website"
+ },
+ "locals": {
+  "domains": [
+   "locals.com"
+  ],
+  "name": "Locals"
+ },
+ "wenxuecity": {
+  "domains": [
+   "wenxuecity.com"
+  ],
+  "name": "文学城"
+ },
+ "pawchive": {
+  "domains": [
+   "pawchive.pw"
+  ],
+  "name": "Pawchive"
+ },
+ "guet": {
+  "domains": [
+   "guet.edu.cn"
+  ],
+  "name": "桂林电子科技大学"
+ },
+ "now": {
+  "domains": [
+   "news.now.com"
+  ],
+  "name": "Now 新聞"
+ },
+ "joneslanglasalle": {
+  "domains": [
+   "joneslanglasalle.com.cn"
+  ],
+  "name": "Jones Lang LaSalle"
+ },
+ "startuplatte": {
+  "domains": [
+   "startuplatte.com"
+  ],
+  "name": "創新拿鐵"
+ },
+ "worldjournal": {
+  "domains": [
+   "worldjournal.com"
+  ],
+  "name": "世界新聞網"
+ },
+ "hakkatv": {
+  "domains": [
+   "hakkatv.org.tw"
+  ],
+  "name": "客家電視台"
+ },
+ "2023game": {
+  "domains": [
+   "2023game.com"
+  ],
+  "name": "游戏星辰"
+ },
+ "patreon": {
+  "domains": [
+   "patreon.com"
+  ],
+  "name": "Patreon"
+ },
+ "dataguidance": {
+  "domains": [
+   "dataguidance.com"
+  ],
+  "name": "DataGuidance"
+ },
+ "hottoys": {
+  "domains": [
+   "hottoys.com.hk"
+  ],
+  "name": "Hot Toys"
+ },
+ "liyuans": {
+  "domains": [
+   "forums.liyuans.com"
+  ],
+  "name": "梨园"
+ },
+ "techpowerup": {
+  "domains": [
+   "techpowerup.com"
+  ],
+  "name": "TechPowerUp"
+ },
+ "cuilingmag": {
+  "domains": [
+   "cuilingmag.com"
+  ],
+  "name": "萃嶺网"
+ },
+ "kiro": {
+  "domains": [
+   "kiro.dev"
+  ],
+  "name": "Kiro"
+ },
+ "pacilution": {
+  "domains": [
+   "pacilution.com"
+  ],
+  "name": "普世社会科学研究所"
+ },
+ "socialbeta": {
+  "domains": [
+   "socialbeta.com"
+  ],
+  "name": "SocialBeta"
+ },
+ "bdys": {
+  "domains": [
+   "52bdys.com"
+  ],
+  "name": "哔嘀影视"
+ },
+ "earthquake": {
+  "domains": [
+   "ceic.ac.cn"
+  ],
+  "name": "地震速报"
+ },
+ "espn": {
+  "domains": [
+   "espn.com"
+  ],
+  "name": "ESPN"
+ },
+ "miyuki": {
+  "domains": [
+   "miyuki.jp"
+  ],
+  "name": "中島みゆき Official"
+ },
+ "quicker": {
+  "domains": [
+   "getquicker.net"
+  ],
+  "name": "Quicker"
+ },
+ "tianyancha": {
+  "domains": [
+   "tianyancha.com"
+  ],
+  "name": "天眼查"
+ },
+ "jfnet": {
+  "domains": [
+   "jfnet.or.jp"
+  ],
+  "name": "Japan Foodservice Association"
+ },
+ "bjx": {
+  "domains": [
+   "bjx.com.cn"
+  ],
+  "name": "北极星电力网"
+ },
+ "dapenti": {
+  "domains": [
+   "dapenti.com"
+  ],
+  "name": "喷嚏"
+ },
+ "centbrowser": {
+  "domains": [
+   "centbrowser.cn"
+  ],
+  "name": "Cent Browser"
+ },
+ "blur": {
+  "domains": [
+   "blur.com"
+  ],
+  "name": "Blur Studio"
+ },
+ "worldhappiness": {
+  "domains": [
+   "worldhappiness.report"
+  ],
+  "name": "World Happiness"
+ },
+ "pianyivps": {
+  "domains": [
+   "pianyivps.com"
+  ],
+  "name": "便宜VPS网"
+ },
+ "bioone": {
+  "domains": [
+   "bioone.org"
+  ],
+  "name": "BioOne"
+ },
+ "manus": {
+  "domains": [
+   "manus.im"
+  ],
+  "name": "Manus"
+ },
+ "smartlink": {
+  "domains": [
+   "smartlink.bio"
+  ],
+  "name": "SmartLink"
+ },
+ "hunau": {
+  "domains": [
+   "gfxy.hunau.edu.cn"
+  ],
+  "name": "湖南农业大学"
+ },
+ "huijin-inv": {
+  "domains": [
+   "huijin-inv.cn"
+  ],
+  "name": "中央汇金投资有限责任公司"
+ },
+ "xuangubao": {
+  "domains": [
+   "xuangubao.cn"
+  ],
+  "name": "选股宝"
+ },
+ "lfsyd": {
+  "domains": [
+   "iyingdi.com"
+  ],
+  "name": "旅法师营地"
+ },
+ "8264": {
+  "domains": [
+   "8264.com"
+  ],
+  "name": "8264"
+ },
+ "booru": {
+  "domains": [
+   "mmda.booru.org"
+  ],
+  "name": "Booru"
+ },
+ "techflowpost": {
+  "domains": [
+   "techflowpost.com"
+  ],
+  "name": "深潮 TechFlow"
+ },
+ "snnu": {
+  "domains": [
+   "snnu.edu.cn"
+  ],
+  "name": "Shaanxi Normal University"
+ },
+ "foresightnews": {
+  "domains": [
+   "foresightnews.pro"
+  ],
+  "name": "Foresight News"
+ },
+ "xiaoyuzhou": {
+  "domains": [
+   "xiaoyuzhoufm.com"
+  ],
+  "name": "小宇宙"
+ },
+ "tynu": {
+  "domains": [
+   "tynu.edu.cn"
+  ],
+  "name": "太原师范学院"
+ },
+ "newzmz": {
+  "domains": [
+   "newzmz.com"
+  ],
+  "name": "NEW 字幕组"
+ },
+ "petapixel": {
+  "domains": [
+   "petapixel.com"
+  ],
+  "name": "PetaPixel"
+ },
+ "ntdm": {
+  "domains": [
+   "ntdm9.com"
+  ],
+  "name": "NT动漫"
+ },
+ "fastbull": {
+  "domains": [
+   "fastbull.com"
+  ],
+  "name": "FastBull"
+ },
+ "mohw": {
+  "domains": [
+   "mohw.gov.tw"
+  ],
+  "name": "台灣衛生福利部"
+ },
+ "blogread": {
+  "domains": [
+   "blogread.cn"
+  ],
+  "name": "技术头条"
+ },
+ "ebrun": {
+  "domains": [
+   "ebrun.com"
+  ],
+  "name": "亿邦动力"
+ },
+ "otobanana": {
+  "domains": [
+   "otobanana.com"
+  ],
+  "name": "OTOBANANA"
+ },
+ "stdaily": {
+  "domains": [
+   "epaper.stdaily.com"
+  ],
+  "name": "中国科技网"
+ },
+ "ncu": {
+  "domains": [
+   "jwc.ncu.edu.cn"
+  ],
+  "name": "南昌大学"
+ },
+ "csc": {
+  "domains": [
+   "csc.edu.cn"
+  ],
+  "name": "国家留学网"
+ },
+ "njtech": {
+  "domains": [
+   "njtech.edu.cn"
+  ],
+  "name": "南京工业大学"
+ },
+ "raycast": {
+  "domains": [
+   "raycast.com"
+  ],
+  "name": "Raycast"
+ },
+ "ucas": {
+  "domains": [
+   "ai.ucas.ac.cn"
+  ],
+  "name": "中国科学院大学"
+ },
+ "android": {
+  "domains": [
+   "developer.android.com"
+  ],
+  "name": "Android"
+ },
+ "mysql": {
+  "domains": [
+   "dev.mysql.com"
+  ],
+  "name": "MySQL"
+ },
+ "dgjyw": {
+  "domains": [
+   "dgjyw.com"
+  ],
+  "name": "东莞教研网"
+ },
+ "nlc": {
+  "domains": [
+   "read.nlc.cn"
+  ],
+  "name": "中国国家图书馆"
+ },
+ "manictime": {
+  "domains": [
+   "manictime.com"
+  ],
+  "name": "ManicTime"
+ },
+ "xmut": {
+  "domains": [
+   "jwc.xmut.edu.cn"
+  ],
+  "name": "厦门理工大学"
+ },
+ "telegram": {
+  "domains": [
+   "t.me"
+  ],
+  "name": "Telegram"
+ },
+ "cntheory": {
+  "domains": [
+   "paper.cntheory.com"
+  ],
+  "name": "理论网"
+ },
+ "comicskingdom": {
+  "domains": [
+   "comicskingdom.com"
+  ],
+  "name": "Comics Kingdom"
+ },
+ "snowpeak": {
+  "domains": [
+   "snowpeak.com"
+  ],
+  "name": "Snow Peak"
+ },
+ "sctv": {
+  "domains": [
+   "sctv.com"
+  ],
+  "name": "四川广播电视台"
+ },
+ "taiwanmobile": {
+  "domains": [
+   "taiwanmobile.com"
+  ],
+  "name": "台灣大哥大"
+ },
+ "sycl": {
+  "domains": [
+   "sycl.tech"
+  ],
+  "name": "SYCL"
+ },
+ "dmzj": {
+  "domains": [
+   "news.dmzj.com"
+  ],
+  "name": "动漫之家"
+ },
+ "surfshark": {
+  "domains": [
+   "surfshark.com"
+  ],
+  "name": "Surfshark"
+ },
+ "onejav": {
+  "domains": [
+   "onejav.com"
+  ],
+  "name": "OneJAV"
+ },
+ "stream-capital": {
+  "domains": [
+   "stream-capital.com"
+  ],
+  "name": "远川研究所"
+ },
+ "ouc": {
+  "domains": [
+   "it.ouc.edu.cn"
+  ],
+  "name": "中国海洋大学"
+ },
+ "openrice": {
+  "domains": [
+   "openrice.com"
+  ],
+  "name": "Openrice開飯喇"
+ },
+ "weibo": {
+  "domains": [
+   "weibo.com"
+  ],
+  "name": "微博"
+ },
+ "shanghaitech": {
+  "domains": [
+   "shanghaitech.edu.cn"
+  ],
+  "name": "上海科技大学"
+ },
+ "acg17": {
+  "domains": [
+   "acg17.com"
+  ],
+  "name": "ACG17"
+ },
+ "cgtn": {
+  "domains": [
+   "cgtn.com"
+  ],
+  "name": "中国环球电视网"
+ },
+ "amz123": {
+  "domains": [
+   "amz123.com"
+  ],
+  "name": "Amz123"
+ },
+ "thebrain": {
+  "domains": [
+   "thebrain.com"
+  ],
+  "name": "TheBrain"
+ },
+ "sec-in": {
+  "domains": [
+   "sec-in.com"
+  ],
+  "name": "SecIN 信息安全技术社区"
+ },
+ "ecnu": {
+  "domains": [
+   "ecnu.edu.cn"
+  ],
+  "name": "East China Normal University 华东师范大学"
+ },
+ "sttcq": {
+  "domains": [
+   "sttcq.com"
+  ],
+  "name": "掌上查询助手"
+ },
+ "maoyan": {
+  "domains": [
+   "maoyan.com"
+  ],
+  "name": "猫眼电影"
+ },
+ "iciba": {
+  "domains": [
+   "news.iciba.com"
+  ],
+  "name": "iciba"
+ },
+ "who": {
+  "domains": [
+   "who.int"
+  ],
+  "name": "World Health Organization | WHO"
+ },
+ "jpxgmn": {
+  "domains": [
+   "jpxgmn.com"
+  ],
+  "name": "极品性感美女"
+ },
+ "people": {
+  "domains": [
+   "people.com.cn"
+  ],
+  "name": "人民网"
+ },
+ "imdb": {
+  "domains": [
+   "imdb.com"
+  ],
+  "name": "IMDb"
+ },
+ "dol": {
+  "domains": [
+   "announce.dol.go.th"
+  ],
+  "name": "Thailand Department of Lands"
+ },
+ "wdc": {
+  "domains": [
+   "support.wdc.com"
+  ],
+  "name": "Western Digital"
+ },
+ "jiaoliudao": {
+  "domains": [
+   "jiaoliudao.com"
+  ],
+  "name": "交流岛资源网"
+ },
+ "englishhome": {
+  "domains": [
+   "englishhome.org"
+  ],
+  "name": "英語之家"
+ },
+ "dbaplus": {
+  "domains": [
+   "dbaplus.cn"
+  ],
+  "name": "dbaplus社群"
+ },
+ "neea": {
+  "domains": [
+   "neea.cn"
+  ],
+  "name": "中国教育考试网"
+ },
+ "joshwcomeau": {
+  "domains": [
+   "joshwcomeau.com"
+  ],
+  "name": "Josh W Comeau"
+ },
+ "qutoutiao": {
+  "domains": [
+   "home.qutoutiao.net"
+  ],
+  "name": "趣头条"
+ },
+ "hexun": {
+  "domains": [
+   "hexun.com"
+  ],
+  "name": "和讯网"
+ },
+ "nextapple": {
+  "domains": [
+   "tw.nextapple.com"
+  ],
+  "name": "壹蘋新聞網"
+ },
+ "udn": {
+  "domains": [
+   "udn.com"
+  ],
+  "name": "聯合新聞網"
+ },
+ "lsnu": {
+  "domains": [
+   "lsnu.edu.cn"
+  ],
+  "name": "乐山师范学院"
+ },
+ "joins": {
+  "domains": [
+   "joins.com"
+  ],
+  "name": "中央日报"
+ },
+ "thoughtworks": {
+  "domains": [
+   "thoughtworks.com/zh-cn/insights/blog"
+  ],
+  "name": "ThoughtWorks"
+ },
+ "itch": {
+  "domains": [
+   "itch.io"
+  ],
+  "name": "itch.io"
+ },
+ "shu": {
+  "domains": [
+   "shu.edu.cn"
+  ],
+  "name": "上海大学"
+ },
+ "pts": {
+  "domains": [
+   "news.pts.org.tw"
+  ],
+  "name": "公視新聞網"
+ },
+ "sexinsex": {
+  "domains": [
+   "sexinsex.net"
+  ],
+  "name": "sexinsex"
+ },
+ "appstorrent": {
+  "domains": [
+   "appstorrent.ru"
+  ],
+  "name": "AppsTorrent"
+ },
+ "hizu": {
+  "domains": [
+   "hizh.cn"
+  ],
+  "name": "珠海网"
+ },
+ "epicgames": {
+  "domains": [
+   "store.epicgames.com"
+  ],
+  "name": "Epic Games Store"
+ },
+ "zaker": {
+  "domains": [
+   "myzaker.com"
+  ],
+  "name": "ZAKER"
+ },
+ "dgut": {
+  "domains": [
+   "dgut.edu.cn"
+  ],
+  "name": "东莞理工学院"
+ },
+ "nanhua": {
+  "domains": [
+   "mall.nanhua.net"
+  ],
+  "name": "南华期货"
+ },
+ "jreast": {
+  "domains": [
+   "jreast.co.jp"
+  ],
+  "name": "JR East"
+ },
+ "elsevier": {
+  "domains": [
+   "sciencedirect.com"
+  ],
+  "name": "ELSEVIER"
+ },
+ "chinaratings": {
+  "domains": [
+   "chinaratings.com.cn"
+  ],
+  "name": "中债资信评估有限责任公司"
+ },
+ "bjp": {
+  "domains": [
+   "bjp.org.cn"
+  ],
+  "name": "北京天文馆"
+ },
+ "openwrt": {
+  "domains": [
+   "openwrt.org"
+  ],
+  "name": "OpenWrt"
+ },
+ "whu": {
+  "domains": [
+   "cs.whu.edu.cn"
+  ],
+  "name": "武汉大学"
+ },
+ "cnki": {
+  "domains": [
+   "navi.cnki.net"
+  ],
+  "name": "中国知网"
+ },
+ "gq": {
+  "domains": [
+   "gq.com"
+  ],
+  "name": "GQ"
+ },
+ "woshipm": {
+  "domains": [
+   "woshipm.com"
+  ],
+  "name": "人人都是产品经理"
+ },
+ "oup": {
+  "domains": [
+   "academic.oup.com"
+  ],
+  "name": "Oxford University Press"
+ },
+ "bugzilla": {
+  "domains": [
+   "bugzilla.org"
+  ],
+  "name": "Bugzilla"
+ },
+ "storyfm": {
+  "domains": [
+   "storyfm.cn"
+  ],
+  "name": "故事 FM"
+ },
+ "dlnews": {
+  "domains": [
+   "dlnews.com"
+  ],
+  "name": "DL NEWS"
+ },
+ "sankei": {
+  "domains": [
+   "sankei.com"
+  ],
+  "name": "Sankei Shimbun 産経新聞"
+ },
+ "cnblogs": {
+  "domains": [
+   "cnblogs.com"
+  ],
+  "name": "博客园"
+ },
+ "hlju": {
+  "domains": [
+   "hlju.edu.cn"
+  ],
+  "name": "黑龙江大学"
+ },
+ "outagereport": {
+  "domains": [
+   "outage.report"
+  ],
+  "name": "Outage.Report"
+ },
+ "deepl": {
+  "domains": [
+   "deepl.com"
+  ],
+  "name": "DeepL"
+ },
+ "hubu": {
+  "domains": [
+   "hubu.edu.cn"
+  ],
+  "name": "湖北大学"
+ },
+ "nifd": {
+  "domains": [
+   "nifd.cn"
+  ],
+  "name": "国家金融与发展实验室"
+ },
+ "windsurf": {
+  "domains": [
+   "windsurf.com"
+  ],
+  "name": "Windsurf"
+ },
+ "dw": {
+  "domains": [
+   "dw.com"
+  ],
+  "name": "DW Deutsche Welle"
+ },
+ "4chan": {
+  "domains": [
+   "4chan.org"
+  ],
+  "name": "4chan"
+ },
+ "hackmd": {
+  "domains": [
+   "hackmd.io"
+  ],
+  "name": "HackMD"
+ },
+ "home-assistant": {
+  "domains": [
+   "home-assistant.io"
+  ],
+  "name": "Home Assistant"
+ },
+ "slowmist": {
+  "domains": [
+   "slowmist.com"
+  ],
+  "name": "慢雾科技"
+ },
+ "cug": {
+  "domains": [
+   "cug.edu.cn"
+  ],
+  "name": "中国地质大学（武汉）"
+ },
+ "augmentcode": {
+  "domains": [
+   "augmentcode.com"
+  ],
+  "name": "Augment Code"
+ },
+ "sdust": {
+  "domains": [
+   "sdust.edu.cn"
+  ],
+  "name": "山东科技大学"
+ },
+ "zjuvag": {
+  "domains": [
+   "zjuvag.org"
+  ],
+  "name": "浙江大学可视分析小组"
+ },
+ "hongkong": {
+  "domains": [
+   "dh.gov.hk"
+  ],
+  "name": "Hong Kong Department of Health 香港卫生署"
+ },
+ "rumble": {
+  "domains": [
+   "rumble.com"
+  ],
+  "name": "Rumble"
+ },
+ "hedwig": {
+  "domains": [
+   "hedwig.pub"
+  ],
+  "name": "Hedwig"
+ },
+ "sciencedirect": {
+  "domains": [
+   "sciencedirect.com"
+  ],
+  "name": "ScienceDirect"
+ },
+ "wnacg": {
+  "domains": [
+   "wnacg.org"
+  ],
+  "name": "紳士漫畫"
+ },
+ "moodysmismicrosite": {
+  "domains": [
+   "moodysmismicrosite.com"
+  ],
+  "name": "穆迪评级"
+ },
+ "lorientlejour": {
+  "domains": [
+   "lorientlejour.com"
+  ],
+  "name": "lorientlejour"
+ },
+ "eleduck": {
+  "domains": [
+   "eleduck.com"
+  ],
+  "name": "电鸭社区"
+ },
+ "bandbbs": {
+  "domains": [
+   "bandbbs.cn"
+  ],
+  "name": "米坛社区"
+ },
+ "pumc": {
+  "domains": [
+   "mdadmission.pumc.edu.cn"
+  ],
+  "name": "北京协和医学院"
+ },
+ "hrbeu": {
+  "domains": [
+   "yjsy.hrbeu.edu.cn"
+  ],
+  "name": "哈尔滨工程大学"
+ },
+ "pkmer": {
+  "domains": [
+   "pkmer.cn"
+  ],
+  "name": "PKMer"
+ },
+ "chaturbate": {
+  "domains": [
+   "chaturbate.com"
+  ],
+  "name": "Chaturbate"
+ },
+ "warp": {
+  "domains": [
+   "warp.dev"
+  ],
+  "name": "Warp"
+ },
+ "melonbooks": {
+  "domains": [
+   "melonbooks.co.jp"
+  ],
+  "name": "メロンブックス"
+ },
+ "grandwaylaw": {
+  "domains": [
+   "grandwaylaw.com"
+  ],
+  "name": "国枫律师事务所"
+ },
+ "qust": {
+  "domains": [
+   "jw.qust.edu.cn"
+  ],
+  "name": "青岛科技大学"
+ },
+ "tvtropes": {
+  "domains": [
+   "tvtropes.org"
+  ],
+  "name": "TV Tropes"
+ },
+ "wired": {
+  "domains": [
+   "wired.com"
+  ],
+  "name": "WIRED"
+ },
+ "piyao": {
+  "domains": [
+   "piyao.org.cn"
+  ],
+  "name": "中国互联网联合辟谣平台"
+ },
+ "nio": {
+  "domains": [
+   "nio.com"
+  ],
+  "name": "NIO"
+ },
+ "xoyo": {
+  "domains": [
+   "xoyo.com"
+  ],
+  "name": "逍遥网"
+ },
+ "tongli": {
+  "domains": [
+   "tongli.com.tw"
+  ],
+  "name": "東立出版社"
+ },
+ "sustech": {
+  "domains": [
+   "biddingoffice.sustech.edu.cn"
+  ],
+  "name": "南方科技大学"
+ },
+ "asmr-200": {
+  "domains": [
+   "asmr-200.com"
+  ],
+  "name": "ASMR Online"
+ },
+ "kemono": {
+  "domains": [
+   "kemono.cr"
+  ],
+  "name": "Kemono"
+ },
+ "onehu": {
+  "domains": [
+   "onehu.xyz"
+  ],
+  "name": "我不是盐神"
+ },
+ "caixinglobal": {
+  "domains": [
+   "caixinglobal.com"
+  ],
+  "name": "Caixin Global"
+ },
+ "osu": {
+  "domains": [
+   "osu.ppy.sh"
+  ],
+  "name": "osu!"
+ },
+ "chaoli": {
+  "domains": [
+   "chaoli.club"
+  ],
+  "name": "超理论坛"
+ },
+ "cara": {
+  "domains": [
+   "cara.app"
+  ],
+  "name": "Cara"
+ },
+ "4gamers": {
+  "domains": [
+   "4gamers.com.tw"
+  ],
+  "name": "4Gamers"
+ },
+ "tisi": {
+  "domains": [
+   "tisi.org"
+  ],
+  "name": "腾讯研究院"
+ },
+ "linovelib": {
+  "domains": [
+   "linovelib.com"
+  ],
+  "name": "哔哩轻小说"
+ },
+ "namoc": {
+  "domains": [
+   "namoc.cn"
+  ],
+  "name": "National Art Museum of China"
+ },
+ "bitget": {
+  "domains": [
+   "bitget.com"
+  ],
+  "name": "Bitget"
+ },
+ "nju": {
+  "domains": [
+   "admission.nju.edu.cn"
+  ],
+  "name": "南京大学"
+ },
+ "m4": {
+  "domains": [
+   "news.m4.cn"
+  ],
+  "name": "四月网"
+ },
+ "setn": {
+  "domains": [
+   "setn.com"
+  ],
+  "name": "三立新聞網"
+ },
+ "nextjs": {
+  "domains": [
+   "nextjs.org"
+  ],
+  "name": "Next.js"
+ },
+ "hinatazaka46": {
+  "domains": [
+   "hinatazaka46.com"
+  ],
+  "name": "Sakamichi Series 坂道系列官网资讯"
+ },
+ "qdu": {
+  "domains": [
+   "jwc.qdu.edu.cn"
+  ],
+  "name": "青岛大学"
+ },
+ "a9vg": {
+  "domains": [
+   "a9vg.com"
+  ],
+  "name": "A9VG 电玩部落"
+ },
+ "xiaohongshu": {
+  "domains": [
+   "xiaohongshu.com"
+  ],
+  "name": "小红书"
+ },
+ "18comic": {
+  "domains": [
+   "18comic.org"
+  ],
+  "name": "禁漫天堂"
+ },
+ "tingshuitz": {
+  "domains": [
+   "swj.dl.gov.cn"
+  ],
+  "name": "停水通知"
+ },
+ "inceptionlabs": {
+  "domains": [
+   "inceptionlabs.ai"
+  ],
+  "name": "Inception Labs"
+ },
+ "xjtlu": {
+  "domains": [
+   "xjtlu.edu.cn"
+  ],
+  "name": "Xi"
+ },
+ "rattibha": {
+  "domains": [
+   "rattibha.com"
+  ],
+  "name": "Rattibha"
+ },
+ "duckdb": {
+  "domains": [
+   "duckdb.org"
+  ],
+  "name": "DuckDB Foundation"
+ },
+ "fffdm": {
+  "domains": [
+   "manhua.fffdm.com"
+  ],
+  "name": "风之动漫"
+ },
+ "xidian": {
+  "domains": [
+   "xidian.edu.cn"
+  ],
+  "name": "西安电子科技大学"
+ },
+ "sogou": {
+  "domains": [
+   "sogou.com"
+  ],
+  "name": "搜狗"
+ },
+ "researchgate": {
+  "domains": [
+   "researchgate.net"
+  ],
+  "name": "ResearchGate"
+ },
+ "urbandictionary": {
+  "domains": [
+   "urbandictionary.com"
+  ],
+  "name": "Urban Dictionary"
+ },
+ "bestofjs": {
+  "domains": [
+   "bestofjs.org"
+  ],
+  "name": "Best of JS"
+ },
+ "dushu": {
+  "domains": [
+   "card.dushu.io"
+  ],
+  "name": "樊登读书"
+ },
+ "0818tuan": {
+  "domains": [
+   "0818tuan.com"
+  ],
+  "name": "0818 团"
+ },
+ "kadokawa": {
+  "domains": [
+   "kadokawa.com.tw"
+  ],
+  "name": "台灣角川"
+ },
+ "500px": {
+  "domains": [
+   "500px.com.cn"
+  ],
+  "name": "500px 摄影社区"
+ },
+ "app-sales": {
+  "domains": [
+   "app-sales.net"
+  ],
+  "name": "AppSales"
+ },
+ "simonsfoundation": {
+  "domains": [
+   "simonsfoundation.org"
+  ],
+  "name": "Simons Foundation"
+ },
+ "tencent": {
+  "domains": [
+   "tencent.com"
+  ],
+  "name": "腾讯"
+ },
+ "cryptoslate": {
+  "domains": [
+   "cryptoslate.com"
+  ],
+  "name": "CryptoSlate"
+ },
+ "hellogithub": {
+  "domains": [
+   "hellogithub.com"
+  ],
+  "name": "HelloGitHub"
+ },
+ "koyso": {
+  "domains": [
+   "koyso.to"
+  ],
+  "name": "Koyso"
+ },
+ "app-center": {
+  "domains": [
+   "install.appcenter.ms"
+  ],
+  "name": "App Center"
+ },
+ "bigquant": {
+  "domains": [
+   "bigquant.com"
+  ],
+  "name": "BigQuant"
+ },
+ "chuhaibiji": {
+  "domains": [
+   "chuhaibiji.com"
+  ],
+  "name": "出海笔记"
+ },
+ "rodong": {
+  "domains": [
+   "rodong.rep.kp"
+  ],
+  "name": "Rodong Sinmun 劳动新闻"
+ },
+ "dorohedoro": {
+  "domains": [
+   "dorohedoro.net"
+  ],
+  "name": "Dorohedoro"
+ },
+ "cjlu": {
+  "domains": [
+   "cjlu.edu.cn"
+  ],
+  "name": "China Jiliang University"
+ },
+ "voronoiapp": {
+  "domains": [
+   "voronoiapp.com"
+  ],
+  "name": "Voronoi"
+ },
+ "bestblogs": {
+  "domains": [
+   "bestblogs.dev"
+  ],
+  "name": "bestblogs.dev"
+ },
+ "supremecourt": {
+  "domains": [
+   "supremecourt.gov"
+  ],
+  "name": "Supreme Court of the United States"
+ },
+ "priconne-redive": {
+  "domains": [
+   "priconne-redive.jp"
+  ],
+  "name": "PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive"
+ },
+ "tw-nongmu": {
+  "domains": [
+   "tw-nongmu.com"
+  ],
+  "name": "通威农业发展"
+ },
+ "xyplorer": {
+  "domains": [
+   "xyplorer.com"
+  ],
+  "name": "XYplorer"
+ },
+ "liquipedia": {
+  "domains": [
+   "liquipedia.net"
+  ],
+  "name": "Liquipedia"
+ },
+ "wallhaven": {
+  "domains": [
+   "wallhaven.cc"
+  ],
+  "name": "wallhaven"
+ },
+ "wise": {
+  "domains": [
+   "wise.com"
+  ],
+  "name": "Wise"
+ },
+ "embassy": {
+  "domains": [
+   "ca.china-embassy.org"
+  ],
+  "name": "中国驻外使领馆"
+ },
+ "hainanu": {
+  "domains": [
+   "hainanu.edu.cn"
+  ],
+  "name": "海南大学"
+ },
+ "cczu": {
+  "domains": [
+   "cczu.edu.cn"
+  ],
+  "name": "常州大学"
+ },
+ "iresearch": {
+  "domains": [
+   "iresearch.com.cn"
+  ],
+  "name": "艾瑞咨询"
+ },
+ "yicai": {
+  "domains": [
+   "yicai.com"
+  ],
+  "name": "第一财经"
+ },
+ "yuque": {
+  "domains": [
+   "yuque.com"
+  ],
+  "name": "语雀"
+ },
+ "onenotegem": {
+  "domains": [
+   "onenotegem.com"
+  ],
+  "name": "OneNote Gem Add-Ins"
+ },
+ "anthropic": {
+  "domains": [
+   "anthropic.com"
+  ],
+  "name": "Anthropic"
+ },
+ "sensortower": {
+  "domains": [
+   "sensortower.com"
+  ],
+  "name": "Sensor Tower"
+ },
+ "ustc": {
+  "domains": [
+   "ustc.edu.cn"
+  ],
+  "name": "中国科学技术大学"
+ },
+ "lxixsxa": {
+  "domains": [
+   "sonymusic.co.jp"
+  ],
+  "name": "LiSA"
+ },
+ "uestc": {
+  "domains": [
+   "uestc.edu.cn"
+  ],
+  "name": "电子科技大学"
+ },
+ "musikguru": {
+  "domains": [
+   "musikguru.de"
+  ],
+  "name": "MusikGuru"
+ },
+ "ai-bot": {
+  "domains": [
+   "ai-bot.cn"
+  ],
+  "name": "AI工具集"
+ },
+ "taobao": {
+  "domains": [
+   "taobao.com"
+  ],
+  "name": "淘宝网"
+ },
+ "indiansinkuwait": {
+  "domains": [
+   "indiansinkuwait.com"
+  ],
+  "name": "Indians in Kuwait"
+ },
+ "rule34video": {
+  "domains": [
+   "rule34video.com"
+  ],
+  "name": "Rule34Video"
+ },
+ "douyin": {
+  "domains": [
+   "douyin.com"
+  ],
+  "name": "抖音直播"
+ },
+ "darwinawards": {
+  "domains": [
+   "darwinawards.com"
+  ],
+  "name": "Darwin Awards"
+ },
+ "mwm": {
+  "domains": [
+   "mwm.net.cn"
+  ],
+  "name": "管理世界"
+ },
+ "bjnews": {
+  "domains": [
+   "bjnews.com.cn"
+  ],
+  "name": "新京报"
+ },
+ "ea": {
+  "domains": [
+   "ea.com"
+  ],
+  "name": "EA Games"
+ },
+ "seu": {
+  "domains": [
+   "cse.seu.edu.cn"
+  ],
+  "name": "东南大学"
+ },
+ "missevan": {
+  "domains": [
+   "missevan.com"
+  ],
+  "name": "猫耳 FM"
+ },
+ "pikabu": {
+  "domains": [
+   "pikabu.ru"
+  ],
+  "name": "Pikabu"
+ },
+ "bjtu": {
+  "domains": [
+   "bjtu.edu.cn"
+  ],
+  "name": "Beijing Jiaotong University"
+ },
+ "rawkuma": {
+  "domains": [
+   "rawkuma.com"
+  ],
+  "name": "Rawkuma"
+ },
+ "cloudflarestatus": {
+  "domains": [
+   "cloudflarestatus.com"
+  ],
+  "name": "Cloudflare Status"
+ },
+ "shou": {
+  "domains": [
+   "shou.edu.cn"
+  ],
+  "name": "上海海洋大学"
+ },
+ "ngocn2": {
+  "domains": [
+   "ngocn2.org"
+  ],
+  "name": "NGOCN"
+ },
+ "j-test": {
+  "domains": [
+   "j-test.com"
+  ],
+  "name": "实用日本语鉴定考试（J.TEST）"
+ },
+ "arxiv": {
+  "domains": [
+   "arxiv.org"
+  ],
+  "name": "arXiv"
+ },
+ "coze": {
+  "domains": [
+   "coze.cn"
+  ],
+  "name": "扣子"
+ },
+ "yuanliao": {
+  "domains": [
+   "yuanliao.info"
+  ],
+  "name": "猿料"
+ },
+ "aliresearch": {
+  "domains": [
+   "aliresearch.com"
+  ],
+  "name": "阿里研究院"
+ },
+ "meteoblue": {
+  "domains": [
+   "meteoblue.com"
+  ],
+  "name": "meteoblue"
+ },
+ "casssp": {
+  "domains": [
+   "casssp.org.cn"
+  ],
+  "name": "中国科学学与科技政策研究会"
+ },
+ "jumeili": {
+  "domains": [
+   "jumeili.cn"
+  ],
+  "name": "聚美丽"
+ },
+ "mygopen": {
+  "domains": [
+   "mygopen.com"
+  ],
+  "name": "MyGoPen"
+ },
+ "makerworld": {
+  "domains": [
+   "makerworld.com"
+  ],
+  "name": "MakerWorld"
+ },
+ "hatelabo": {
+  "domains": [
+   "anond.hatelabo.jp"
+  ],
+  "name": "はてラボ"
+ },
+ "swjtu": {
+  "domains": [
+   "swjtu.edu.cn"
+  ],
+  "name": "西南交通大学"
+ },
+ "hotukdeals": {
+  "domains": [
+   "hotukdeals.com"
+  ],
+  "name": "hotukdeals"
+ },
+ "arena": {
+  "domains": [
+   "arena.ai"
+  ],
+  "name": "Arena (formerly LMSYS Chatbot Arena)"
+ },
+ "cloudnative": {
+  "domains": [
+   "cloudnative.to"
+  ],
+  "name": "云原生社区"
+ },
+ "mdpi": {
+  "domains": [
+   "mdpi.com"
+  ],
+  "name": "MDPI"
+ },
+ "hbr": {
+  "domains": [
+   "hbr.org"
+  ],
+  "name": "Harvard Business Review"
+ },
+ "shiep": {
+  "domains": [
+   "bwc.shiep.edu.cn"
+  ],
+  "name": "上海电力大学"
+ },
+ "parliament": {
+  "domains": [
+   "parliament.go.th"
+  ],
+  "name": "Thailand Parliament"
+ },
+ "worldofwarships": {
+  "domains": [
+   "worldofwarships.com"
+  ],
+  "name": "World of Warships"
+ },
+ "chaoxing": {
+  "domains": [
+   "chaoxing.com"
+  ],
+  "name": "超星"
+ },
+ "deepin": {
+  "domains": [
+   "bbs.deepin.org"
+  ],
+  "name": "Deepin"
+ },
+ "huggingface": {
+  "domains": [
+   "huggingface.co"
+  ],
+  "name": "Huggingface"
+ },
+ "scut": {
+  "domains": [
+   "jw.scut.edu.cn"
+  ],
+  "name": "华南理工大学"
+ },
+ "alwayscontrol": {
+  "domains": [
+   "alwayscontrol.com.cn"
+  ],
+  "name": "Always Control"
+ },
+ "hko": {
+  "domains": [
+   "hko.gov.hk"
+  ],
+  "name": "Hong Kong Observatory"
+ },
+ "fx-markets": {
+  "domains": [
+   "fx-markets.com"
+  ],
+  "name": "FX Markets"
+ },
+ "trendforce": {
+  "domains": [
+   "trendforce.com"
+  ],
+  "name": "TrendForce"
+ },
+ "xiaote": {
+  "domains": [
+   "xiaote.com"
+  ],
+  "name": "小特社区"
+ },
+ "rsc": {
+  "domains": [
+   "pubs.rsc.org"
+  ],
+  "name": "Royal Society of Chemistry"
+ },
+ "luogu": {
+  "domains": [
+   "luogu.com.cn"
+  ],
+  "name": "洛谷"
+ },
+ "mixi2": {
+  "domains": [
+   "mixi.social"
+  ],
+  "name": "mixi2"
+ },
+ "wegene": {
+  "domains": [
+   "wegene.com"
+  ],
+  "name": "WeGene"
+ },
+ "followin": {
+  "domains": [
+   "followin.io"
+  ],
+  "name": "Followin"
+ },
+ "kepu": {
+  "domains": [
+   "live.kepu.net.cn"
+  ],
+  "name": "中国科普博览"
+ },
+ "jlbtc": {
+  "domains": [
+   "jlbtc.edu.cn"
+  ],
+  "name": "吉林工商学院"
+ },
+ "codefather": {
+  "domains": [
+   "codefather.cn"
+  ],
+  "name": "编程导航"
+ },
+ "obsidian": {
+  "domains": [
+   "obsidian.md"
+  ],
+  "name": "Obsidian"
+ },
+ "pubmed": {
+  "domains": [
+   "pubmed.ncbi.nlm.nih.gov"
+  ],
+  "name": "PubMed"
+ },
+ "xbookcn": {
+  "domains": [
+   "xbookcn.net"
+  ],
+  "name": "中文成人文學網"
+ },
+ "whitehouse": {
+  "domains": [
+   "whitehouse.gov"
+  ],
+  "name": "The White House"
+ },
+ "techcrunch": {
+  "domains": [
+   "techcrunch.com"
+  ],
+  "name": "TechCrunch"
+ },
+ "qqorw": {
+  "domains": [
+   "qqorw.cn"
+  ],
+  "name": "早报网"
+ },
+ "aqicn": {
+  "domains": [
+   "aqicn.org"
+  ],
+  "name": "空气质量"
+ },
+ "itc": {
+  "domains": [
+   "open.itc.cn"
+  ],
+  "name": "Open Github社区"
+ },
+ "mirrormedia": {
+  "domains": [
+   "mirrormedia.mg"
+  ],
+  "name": "鏡週刊 Mirror Media"
+ },
+ "hhu": {
+  "domains": [
+   "lib.hhu.edu.cn"
+  ],
+  "name": "河海大学"
+ },
+ "behance": {
+  "domains": [
+   "behance.net"
+  ],
+  "name": "Behance"
+ },
+ "lg": {
+  "domains": [
+   "lg.jp"
+  ],
+  "name": "Japan Local Government"
+ },
+ "6park": {
+  "domains": [
+   "club.6parkbbs.com"
+  ],
+  "name": "留园网"
+ },
+ "manyvids": {
+  "domains": [
+   "manyvids.com"
+  ],
+  "name": "ManyVids"
+ },
+ "tvb": {
+  "domains": [
+   "tvb.com"
+  ],
+  "name": "无线新闻"
+ },
+ "dewu": {
+  "domains": [
+   "dewu.com"
+  ],
+  "name": "得物"
+ },
+ "crush": {
+  "domains": [
+   "crush.ninja"
+  ],
+  "name": "CrushNinja"
+ },
+ "dianping": {
+  "domains": [
+   "dianping.com"
+  ],
+  "name": "大众点评"
+ },
+ "canalmuseum": {
+  "domains": [
+   "canalmuseum.org.cn"
+  ],
+  "name": "The Grand Canal Museum of Beijing"
+ },
+ "chinanews": {
+  "domains": [
+   "chinanews.com.cn"
+  ],
+  "name": "中国新闻网"
+ },
+ "air-level": {
+  "domains": [
+   "air-level.com"
+  ],
+  "name": "Air-Level"
+ },
+ "minhangmuseum": {
+  "domains": [
+   "minhangmuseum.shmh.gov.cn"
+  ],
+  "name": "Minhang Museum"
+ },
+ "wfu": {
+  "domains": [
+   "jwc.wfu.edu.cn"
+  ],
+  "name": "潍坊学院"
+ },
+ "sakurazaka46": {
+  "domains": [
+   "sakurazaka46.com"
+  ],
+  "name": "Sakamichi Series 坂道系列官网资讯"
+ },
+ "proletar": {
+  "domains": [
+   "review.proletar.ink"
+  ],
+  "name": "无产者评论"
+ },
+ "nga": {
+  "domains": [
+   "bbs.nga.cn"
+  ],
+  "name": "NGA"
+ },
+ "learnblockchain": {
+  "domains": [
+   "learnblockchain.cn"
+  ],
+  "name": "登链社区"
+ },
+ "technologyreview": {
+  "domains": [
+   "technologyreview.com"
+  ],
+  "name": "MIT Technology Review"
+ },
+ "apnews": {
+  "domains": [
+   "apnews.com"
+  ],
+  "name": "AP News"
+ },
+ "producereport": {
+  "domains": [
+   "producereport.com"
+  ],
+  "name": "Produce Report"
+ },
+ "zuiyou": {
+  "domains": [
+   "izuiyou.com"
+  ],
+  "name": "最右"
+ },
+ "alipan": {
+  "domains": [
+   "alipan.com"
+  ],
+  "name": "阿里云盘"
+ },
+ "cqu": {
+  "domains": [
+   "cqu.edu.cn"
+  ],
+  "name": "重庆大学"
+ },
+ "deepmind": {
+  "domains": [
+   "deepmind.com"
+  ],
+  "name": "DeepMind"
+ },
+ "laimanhua": {
+  "domains": [
+   "laimanhua8.com"
+  ],
+  "name": "来漫画"
+ },
+ "lrepacks": {
+  "domains": [
+   "lrepacks.net"
+  ],
+  "name": "REPACK скачать"
+ },
+ "btbtla": {
+  "domains": [
+   "btbtla.com"
+  ],
+  "name": "BT影视"
+ },
+ "abc-tenpo": {
+  "domains": [
+   "abc-tenpo.com"
+  ],
+  "name": "ABC Tenpo"
+ },
+ "gzdaily": {
+  "domains": [
+   "gzdaily.cn"
+  ],
+  "name": "广州日报"
+ },
+ "csdn": {
+  "domains": [
+   "blog.csdn.net"
+  ],
+  "name": "CSDN"
+ },
+ "hebeimuseum": {
+  "domains": [
+   "hebeimuseum.org.cn"
+  ],
+  "name": "Hebei Museum"
+ },
+ "hex-rays": {
+  "domains": [
+   "hex-rays.com"
+  ],
+  "name": "Hex-Rays"
+ },
+ "zagg": {
+  "domains": [
+   "zagg.com"
+  ],
+  "name": "Zagg"
+ },
+ "carnegieendowment": {
+  "domains": [
+   "carnegieendowment.org"
+  ],
+  "name": "Carnegie Endowment for International Peace"
+ },
+ "samrdprc": {
+  "domains": [
+   "samrdprc.org.cn"
+  ],
+  "name": "国家市场监督管理总局缺陷产品管理中心"
+ },
+ "xunhupay": {
+  "domains": [
+   "xunhupay.com"
+  ],
+  "name": "虎皮椒"
+ },
+ "bmkg": {
+  "domains": [
+   "bmkg.go.id"
+  ],
+  "name": "BADAN METEOROLOGI, KLIMATOLOGI, DAN GEOFISIKA(Indonesian)"
+ },
+ "njglyy": {
+  "domains": [
+   "njglyy.com"
+  ],
+  "name": "南京鼓楼医院"
+ },
+ "nhk": {
+  "domains": [
+   "www3.nhk.or.jp"
+  ],
+  "name": "NHK"
+ },
+ "ciidbnu": {
+  "domains": [
+   "ciidbnu.org"
+  ],
+  "name": "中国收入分配研究院"
+ },
+ "grist": {
+  "domains": [
+   "grist.org"
+  ],
+  "name": "Grist"
+ },
+ "omegascans": {
+  "domains": [
+   "omegascans.org"
+  ],
+  "name": "Omega Scans"
+ },
+ "modrinth": {
+  "domains": [
+   "modrinth.com"
+  ],
+  "name": "Modrinth"
+ },
+ "magnumphotos": {
+  "domains": [
+   "magnumphotos.com"
+  ],
+  "name": "Magnum Photos"
+ },
+ "rockstargames": {
+  "domains": [
+   "rockstargames.com"
+  ],
+  "name": "Rockstar Games"
+ },
+ "amazfitwatchfaces": {
+  "domains": [
+   "amazfitwatchfaces.com"
+  ],
+  "name": "Amazfitwatchfaces"
+ },
+ "cninfo": {
+  "domains": [
+   "cninfo.com.cn"
+  ],
+  "name": "巨潮资讯"
+ },
+ "consumer": {
+  "domains": [
+   "consumer.org.hk"
+  ],
+  "name": "消费者委员会"
+ },
+ "feng": {
+  "domains": [
+   "feng.com"
+  ],
+  "name": "威锋"
+ },
+ "cw": {
+  "domains": [
+   "cw.com.tw"
+  ],
+  "name": "天下雜誌"
+ },
+ "xiaoheihe": {
+  "domains": [
+   "xiaoheihe.cn"
+  ],
+  "name": "小黑盒"
+ },
+ "investor": {
+  "domains": [
+   "investor.org.cn"
+  ],
+  "name": "中国投资者网"
+ },
+ "xianbao": {
+  "domains": [
+   "new.xianbao.fun"
+  ],
+  "name": "线报酷"
+ },
+ "jnu": {
+  "domains": [
+   "news.jnu.edu.cn"
+  ],
+  "name": "暨南大学"
+ },
+ "winstall": {
+  "domains": [
+   "winstall.app"
+  ],
+  "name": "winstall"
+ },
+ "kaopu": {
+  "domains": [
+   "kaopu.news"
+  ],
+  "name": "靠谱新闻"
+ },
+ "hiring.cafe": {
+  "domains": [
+   "hiring.cafe"
+  ],
+  "name": "HiringCafe"
+ },
+ "macmenubar": {
+  "domains": [
+   "macmenubar.com"
+  ],
+  "name": "MacMenuBar"
+ },
+ "bitbucket": {
+  "domains": [
+   "bitbucket.com"
+  ],
+  "name": "Bitbucket"
+ },
+ "ieee-security": {
+  "domains": [
+   "ieee-security.org"
+  ],
+  "name": "IEEE Computer Society"
+ },
+ "aisixiang": {
+  "domains": [
+   "aisixiang.com"
+  ],
+  "name": "爱思想"
+ },
+ "sesame": {
+  "domains": [
+   "sesame.ninja"
+  ],
+  "name": "Sesame"
+ },
+ "rustcc": {
+  "domains": [
+   "rustcc.cn"
+  ],
+  "name": "Rust 语言中文社区"
+ },
+ "nbd": {
+  "domains": [
+   "nbd.com.cn"
+  ],
+  "name": "每经网"
+ },
+ "moxingfans": {
+  "domains": [
+   "moxingfans.com"
+  ],
+  "name": "静态模型爱好者"
+ },
+ "alicesoft": {
+  "domains": [
+   "alicesoft.com"
+  ],
+  "name": "ALICESOFT"
+ },
+ "oevw": {
+  "domains": [
+   "oevw.at"
+  ],
+  "name": "ÖVW"
+ },
+ "miniflux": {
+  "domains": [
+   "miniflux.app"
+  ],
+  "name": "MiniFlux"
+ },
+ "readsomethingwonderful": {
+  "domains": [
+   "readsomethingwonderful.com"
+  ],
+  "name": "Read Something Wonderful"
+ },
+ "diandong": {
+  "domains": [
+   "diandong.com"
+  ],
+  "name": "电动邦"
+ },
+ "caus": {
+  "domains": [
+   "caus.com"
+  ],
+  "name": "加美财经"
+ },
+ "indienova": {
+  "domains": [
+   "indienova.com"
+  ],
+  "name": "indienova 独立游戏"
+ },
+ "checkee": {
+  "domains": [
+   "checkee.info"
+  ],
+  "name": "checkee.info"
+ },
+ "iqiyi": {
+  "domains": [
+   "iq.com"
+  ],
+  "name": "爱奇艺"
+ },
+ "0xxx": {
+  "domains": [
+   "0xxx.ws"
+  ],
+  "name": "0xxx.ws"
+ },
+ "adquan": {
+  "domains": [
+   "adquan.com"
+  ],
+  "name": "广告门"
+ },
+ "ustb": {
+  "domains": [
+   "gs.ustb.edu.cn"
+  ],
+  "name": "北京科技大学"
+ },
+ "cngold": {
+  "domains": [
+   "cngold.org.cn"
+  ],
+  "name": "中国黄金协会"
+ },
+ "fosshub": {
+  "domains": [
+   "fosshub.com"
+  ],
+  "name": "FossHub"
+ },
+ "treasury": {
+  "domains": [
+   "home.treasury.gov"
+  ],
+  "name": "U.S. Department of the Treasury"
+ },
+ "biquge": {
+  "domains": [
+   "xbiquwx.la"
+  ],
+  "name": "笔趣阁"
+ },
+ "meituan": {
+  "domains": [
+   "meituan.com"
+  ],
+  "name": "美团"
+ },
+ "aeon": {
+  "domains": [
+   "aeon.co"
+  ],
+  "name": "AEON"
+ },
+ "ieee": {
+  "domains": [
+   "ieee.org"
+  ],
+  "name": "IEEE Xplore"
+ },
+ "jd": {
+  "domains": [
+   "item.jd.com"
+  ],
+  "name": "京东"
+ },
+ "005": {
+  "domains": [
+   "005.tv"
+  ],
+  "name": "幻之羁绊动漫网"
+ },
+ "tkww": {
+  "domains": [
+   "tkww.hk"
+  ],
+  "name": "大公文匯網"
+ },
+ "chinatimes": {
+  "domains": [
+   "chinatimes.com"
+  ],
+  "name": "中時新聞網"
+ },
+ "shanghaimuseum": {
+  "domains": [
+   "shanghaimuseum.cn"
+  ],
+  "name": "Shanghai Museum"
+ },
+ "chinawriter": {
+  "domains": [
+   "chinawriter.com.cn"
+  ],
+  "name": "中国作家网"
+ },
+ "wenku8": {
+  "domains": [
+   "wenku8.net"
+  ],
+  "name": "轻小说文库"
+ },
+ "cugb": {
+  "domains": [
+   "cugb.edu.cn"
+  ],
+  "name": "China University of Geosciences (Beijing)"
+ },
+ "guat": {
+  "domains": [
+   "guat.edu.cn"
+  ],
+  "name": "桂林航天工业学院"
+ },
+ "dedao": {
+  "domains": [
+   "dedao.cn"
+  ],
+  "name": "得到"
+ },
+ "p-articles": {
+  "domains": [
+   "p-articles.com"
+  ],
+  "name": "虚词"
+ },
+ "jseea": {
+  "domains": [
+   "jseea.cn"
+  ],
+  "name": "江苏省教育考试院"
+ },
+ "thwiki": {
+  "domains": [
+   "thwiki.cc"
+  ],
+  "name": "THBWiki"
+ },
+ "aiblog-2xv": {
+  "domains": [
+   "aiblog-2xv.pages.dev"
+  ],
+  "name": "AI 博客"
+ },
+ "jisilu": {
+  "domains": [
+   "jisilu.cn"
+  ],
+  "name": "集思录"
+ },
+ "imhcg": {
+  "domains": [
+   "infos.imhcg.cn"
+  ],
+  "name": "imhcg的信息站"
+ },
+ "zzu": {
+  "domains": [
+   "zzu.edu.cn"
+  ],
+  "name": "郑州大学"
+ },
+ "houxu": {
+  "domains": [
+   "houxu.app"
+  ],
+  "name": "后续"
+ },
+ "nielsberglund": {
+  "domains": [
+   "nielsberglund.com"
+  ],
+  "name": "Niels Berglund Blog"
+ },
+ "wzbwg": {
+  "domains": [
+   "wzbwg.com"
+  ],
+  "name": "National Museum of Chinese Writing"
+ },
+ "mrdx": {
+  "domains": [
+   "mrdx.cn"
+  ],
+  "name": "新华每日电讯"
+ },
+ "flashcat": {
+  "domains": [
+   "flashcat.cloud"
+  ],
+  "name": "Flashcat"
+ },
+ "hbooker": {
+  "domains": [
+   "hbooker.com"
+  ],
+  "name": "欢乐书客"
+ },
+ "gdou": {
+  "domains": [
+   "www3.gdou.edu.cn"
+  ],
+  "name": "广东海洋大学"
+ },
+ "yamap": {
+  "domains": [
+   "yamap.com"
+  ],
+  "name": "YAMAP"
+ },
+ "nogizaka46": {
+  "domains": [
+   "news.nogizaka46.com"
+  ],
+  "name": "Sakamichi Series 坂道系列官网资讯"
+ },
+ "skebetter": {
+  "domains": [
+   "skebetter.com"
+  ],
+  "name": "Skebetter"
+ },
+ "ollama": {
+  "domains": [
+   "ollama.com"
+  ],
+  "name": "Ollama"
+ },
+ "chongbuluo": {
+  "domains": [
+   "chongbuluo.com"
+  ],
+  "name": "虫部落"
+ },
+ "instructables": {
+  "domains": [
+   "instructables.com"
+  ],
+  "name": "Instructables"
+ },
+ "phoronix": {
+  "domains": [
+   "phoronix.com"
+  ],
+  "name": "Phoronix"
+ },
+ "iehou": {
+  "domains": [
+   "iehou.com"
+  ],
+  "name": "网猴线报"
+ },
+ "focustaiwan": {
+  "domains": [
+   "focustaiwan.tw"
+  ],
+  "name": "Focus Taiwan"
+ },
+ "peterwunder": {
+  "domains": [
+   "projects.peterwunder.de"
+  ],
+  "name": "Peter Wunder"
+ },
+ "cztv": {
+  "domains": [
+   "cztv.com"
+  ],
+  "name": "新蓝网（浙江广播电视集团）"
+ },
+ "jma": {
+  "domains": [
+   "jma.go.jp"
+  ],
+  "name": "気象庁 Japan Meteorological Agency"
+ },
+ "shanximuseum": {
+  "domains": [
+   "shanximuseum.com.cn"
+  ],
+  "name": "Shanxi Museum"
+ },
+ "douyu": {
+  "domains": [
+   "douyu.com"
+  ],
+  "name": "斗鱼直播"
+ },
+ "huodongxing": {
+  "domains": [
+   "huodongxing.com"
+  ],
+  "name": "活动行"
+ },
+ "costar": {
+  "domains": [
+   "costar.com"
+  ],
+  "name": "CoStar"
+ },
+ "xsijishe": {
+  "domains": [
+   "xsijishe.com"
+  ],
+  "name": "司机社"
+ },
+ "xuetangx": {
+  "domains": [
+   "xuetangx.com"
+  ],
+  "name": "学堂在线"
+ },
+ "i-cable": {
+  "domains": [
+   "i-cable.com"
+  ],
+  "name": "有線新聞"
+ },
+ "chaincatcher": {
+  "domains": [
+   "chaincatcher.com"
+  ],
+  "name": "链捕手 ChainCatcher"
+ },
+ "discuz": {
+  "domains": [
+   "https://discuz.vip/"
+  ],
+  "name": "Discuz"
+ },
+ "tiktok": {
+  "domains": [
+   "tiktok.com"
+  ],
+  "name": "TikTok"
+ },
+ "usepanda": {
+  "domains": [
+   "usepanda.com"
+  ],
+  "name": "Panda"
+ },
+ "web3caff": {
+  "domains": [
+   "web3caff.com"
+  ],
+  "name": "Web3Caff"
+ },
+ "itslaw": {
+  "domains": [
+   "itslaw.com"
+  ],
+  "name": "无讼案例"
+ },
+ "xyzrank": {
+  "domains": [
+   "xyzrank.com"
+  ],
+  "name": "中文播客榜"
+ },
+ "cbnweek": {
+  "domains": [
+   "cbnweek.com"
+  ],
+  "name": "第一财经杂志"
+ },
+ "caijing": {
+  "domains": [
+   "roll.caijing.com.cn"
+  ],
+  "name": "财经网"
+ },
+ "uptimerobot": {
+  "domains": [
+   "rss.uptimerobot.com"
+  ],
+  "name": "Uptime Robot"
+ },
+ "lvv2": {
+  "domains": [
+   "lvv2.com"
+  ],
+  "name": "LVV2"
+ },
+ "rockthejvm": {
+  "domains": [
+   "rockthejvm.com"
+  ],
+  "name": "Rock the JVM"
+ },
+ "mikiki": {
+  "domains": [
+   "mikiki.tokyo.jp"
+  ],
+  "name": "Mikiki"
+ },
+ "theverge": {
+  "domains": [
+   "theverge.com"
+  ],
+  "name": "The Verge"
+ },
+ "dora-world": {
+  "domains": [
+   "dora-world.com"
+  ],
+  "name": "Doraemon Channel"
+ },
+ "kamen-rider-official": {
+  "domains": [
+   "kamen-rider-official.com"
+  ],
+  "name": "仮面ライダ"
+ },
+ "pianyuan": {
+  "domains": [
+   "pianyuan.org"
+  ],
+  "name": "片源网"
+ },
+ "hexo": {
+  "domains": [
+   "hexo.io"
+  ],
+  "name": "Hexo"
+ },
+ "iiilab": {
+  "domains": [
+   "iiilab.com"
+  ],
+  "name": "人人都是自媒体"
+ },
+ "pnas": {
+  "domains": [
+   "pnas.org"
+  ],
+  "name": "Proceedings of The National Academy of Sciences"
+ },
+ "twitch": {
+  "domains": [
+   "twitch.tv"
+  ],
+  "name": "Twitch"
+ },
+ "baby-kingdom": {
+  "domains": [
+   "baby-kingdom.com"
+  ],
+  "name": "親子王國"
+ },
+ "yangtzeu": {
+  "domains": [
+   "yangtzeu.edu.cn"
+  ],
+  "name": "长江大学"
+ },
+ "jike": {
+  "domains": [
+   "m.okjike.com"
+  ],
+  "name": "即刻"
+ },
+ "ben-evans": {
+  "domains": [
+   "ben-evans.com"
+  ],
+  "name": "Benedict Evans"
+ },
+ "checkra.in": {
+  "domains": [
+   "checkra.in"
+  ],
+  "name": "Checkra1n"
+ },
+ "bupt": {
+  "domains": [
+   "bupt.edu.cn"
+  ],
+  "name": "北京邮电大学"
+ },
+ "nikkei": {
+  "domains": [
+   "nikkei.com"
+  ],
+  "name": "The Nikkei 日本経済新聞"
+ },
+ "oct0pu5": {
+  "domains": [
+   "oct0pu5.cn"
+  ],
+  "name": "Oct0pu5 blog"
+ },
+ "malaysiakini": {
+  "domains": [
+   "malaysiakini.com"
+  ],
+  "name": "Malaysiakini"
+ },
+ "ft": {
+  "domains": [
+   "ft.com"
+  ],
+  "name": "Financial Times"
+ },
+ "kurogames": {
+  "domains": [
+   "kurogames.com"
+  ],
+  "name": "库洛游戏 | Kuro Games"
+ },
+ "lephoceen": {
+  "domains": [
+   "lephoceen.fr"
+  ],
+  "name": "Le Phocéen"
+ },
+ "czechstepbystep": {
+  "domains": [
+   "czechstepbystep.cz"
+  ],
+  "name": "CzechStepByStep"
+ },
+ "parliament.uk": {
+  "domains": [
+   "parliament.uk"
+  ],
+  "name": "UK Parliament"
+ },
+ "chinaisa": {
+  "domains": [
+   "chinaisa.org.cn"
+  ],
+  "name": "中国钢铁工业协会"
+ },
+ "sass": {
+  "domains": [
+   "gs.sass.org.cn"
+  ],
+  "name": "上海社会科学院"
+ },
+ "reactnewsletter": {
+  "domains": [
+   "bytes.dev"
+  ],
+  "name": "ui.dev"
+ },
+ "devolverdigital": {
+  "domains": [
+   "devolverdigital.com"
+  ],
+  "name": "DevolverDigital"
+ },
+ "sputniknews": {
+  "domains": [
+   "sputniknews.cn"
+  ],
+  "name": "Sputnik News 俄罗斯卫星通讯社"
+ },
+ "xmind": {
+  "domains": [
+   "xmind.net"
+  ],
+  "name": "XMind"
+ },
+ "gocomics": {
+  "domains": [
+   "gocomics.com"
+  ],
+  "name": "GoComics"
+ },
+ "ce": {
+  "domains": [
+   "ce.cn"
+  ],
+  "name": "中国经济网"
+ },
+ "foreverblog": {
+  "domains": [
+   "foreverblog.cn"
+  ],
+  "name": "十年之约"
+ },
+ "bbcnewslabs": {
+  "domains": [
+   "bbcnewslabs.co.uk"
+  ],
+  "name": "BBC News Labs"
+ },
+ "diskanalyzer": {
+  "domains": [
+   "diskanalyzer.com"
+  ],
+  "name": "WizTree"
+ },
+ "emi-nitta": {
+  "domains": [
+   "emi-nitta.net"
+  ],
+  "name": "Emi Nitta"
+ },
+ "4ksj": {
+  "domains": [
+   "4ksj.com"
+  ],
+  "name": "4k 世界"
+ },
+ "qstheory": {
+  "domains": [
+   "qstheory.cn"
+  ],
+  "name": "求是网"
+ },
+ "tailwindcss": {
+  "domains": [
+   "tailwindcss.com"
+  ],
+  "name": "TailwindCSS"
+ },
+ "ifun": {
+  "domains": [
+   "ifun.cool"
+  ],
+  "name": "趣集"
+ },
+ "newyorker": {
+  "domains": [
+   "newyorker.com"
+  ],
+  "name": "New Yorker"
+ },
+ "12371": {
+  "domains": [
+   "12371.cn"
+  ],
+  "name": "共产党员网"
+ },
+ "xmanhua": {
+  "domains": [
+   "xmanhua.com"
+  ],
+  "name": "X 漫画"
+ },
+ "chinadaily": {
+  "domains": [
+   "chinadaily.com.cn"
+  ],
+  "name": "中国日报网"
+ },
+ "njmuseum": {
+  "domains": [
+   "njmuseum.com/zh"
+  ],
+  "name": "Nanjing Museum"
+ },
+ "kcna": {
+  "domains": [
+   "kcna.kp"
+  ],
+  "name": "Korean Central News Agency (KCNA) 朝鲜中央通讯社"
+ },
+ "soundon": {
+  "domains": [
+   "player.soundon.fm"
+  ],
+  "name": "SoundOn"
+ },
+ "academia": {
+  "domains": [
+   "academia.edu"
+  ],
+  "name": "Academia"
+ },
+ "minecraft": {
+  "domains": [
+   "minecraft.net"
+  ],
+  "name": "Minecraft"
+ },
+ "zimuku": {
+  "domains": [
+   "zimuku.org"
+  ],
+  "name": "字幕库"
+ },
+ "icourse163": {
+  "domains": [
+   "icourse163.org"
+  ],
+  "name": "中国大学 MOOC (慕课)"
+ },
+ "lancedb": {
+  "domains": [
+   "lancedb.com"
+  ],
+  "name": "LanceDB"
+ },
+ "pixelstech": {
+  "domains": [
+   "pixelstech.net"
+  ],
+  "name": "PixelsTech"
+ },
+ "kleinanzeigen": {
+  "domains": [
+   "kleinanzeigen.de"
+  ],
+  "name": "Kleinanzeigen"
+ },
+ "geocaching": {
+  "domains": [
+   "geocaching.com"
+  ],
+  "name": "Geocaching"
+ },
+ "ahstu": {
+  "domains": [
+   "ahstu.edu.cn"
+  ],
+  "name": "安徽科技工程大学"
+ },
+ "nber": {
+  "domains": [
+   "nber.org"
+  ],
+  "name": "National Bureau of Economic Research"
+ },
+ "haiwen-law": {
+  "domains": [
+   "haiwen-law.com"
+  ],
+  "name": "海问律师事务所"
+ },
+ "bullionvault": {
+  "domains": [
+   "bullionvault.com"
+  ],
+  "name": "BullionVault"
+ },
+ "toodaylab": {
+  "domains": [
+   "toodaylab.com"
+  ],
+  "name": "理想生活实验室"
+ },
+ "brookings": {
+  "domains": [
+   "brookings.edu"
+  ],
+  "name": "Brookings Institution"
+ },
+ "dlpu": {
+  "domains": [
+   "dlpu.edu.cn"
+  ],
+  "name": "大连工业大学"
+ },
+ "kongfz": {
+  "domains": [
+   "kongfz.com"
+  ],
+  "name": "孔夫子旧书网"
+ },
+ "solidot": {
+  "domains": [
+   "solidot.org"
+  ],
+  "name": "Solidot"
+ },
+ "lightnovel": {
+  "domains": [
+   "lightnovel.us"
+  ],
+  "name": "轻之国度"
+ },
+ "gihyo": {
+  "domains": [
+   "gihyo.jp"
+  ],
+  "name": "gihyo.jp"
+ },
+ "ynnu": {
+  "domains": [
+   "ynnu.edu.cn"
+  ],
+  "name": "云南师范大学"
+ },
+ "cia": {
+  "domains": [
+   "cia.gov"
+  ],
+  "name": "Central Intelligence Agency CIA"
+ },
+ "farmatters": {
+  "domains": [
+   "farmatters.com"
+  ],
+  "name": "Farmatters"
+ },
+ "4399": {
+  "domains": [
+   "4399.com"
+  ],
+  "name": "4399"
+ },
+ "elamigos": {
+  "domains": [
+   "elamigos.site"
+  ],
+  "name": "ElAmigos"
+ },
+ "bellroy": {
+  "domains": [
+   "bellroy.com"
+  ],
+  "name": "Bellroy"
+ },
+ "foodtalks": {
+  "domains": [
+   "foodtalks.cn"
+  ],
+  "name": "FoodTalks全球食品资讯网"
+ },
+ "dongmanmanhua": {
+  "domains": [
+   "dongmanmanhua.cn"
+  ],
+  "name": "咚漫"
+ },
+ "rebase": {
+  "domains": [
+   "rebase.network"
+  ],
+  "name": "Rebase Network"
+ },
+ "pixivision": {
+  "domains": [
+   "pixivision.net"
+  ],
+  "name": "pixivision"
+ },
+ "imagemagick": {
+  "domains": [
+   "imagemagick.org"
+  ],
+  "name": "ImageMagick"
+ },
+ "shanbay": {
+  "domains": [
+   "shanbay.com"
+  ],
+  "name": "扇贝"
+ },
+ "youzan": {
+  "domains": [
+   "h5.youzan.com"
+  ],
+  "name": "有赞"
+ },
+ "duozhuayu": {
+  "domains": [
+   "duozhuayu.com"
+  ],
+  "name": "多抓鱼"
+ },
+ "kuaishou": {
+  "domains": [
+   "kuaishou.com"
+  ],
+  "name": "快手"
+ },
+ "asiafruitchina": {
+  "domains": [
+   "asiafruitchina.net"
+  ],
+  "name": "亚洲水果"
+ },
+ "engadget": {
+  "domains": [
+   "engadget.com"
+  ],
+  "name": "Engadget"
+ },
+ "zcool": {
+  "domains": [
+   "zcool.com.cn"
+  ],
+  "name": "站酷"
+ },
+ "zrblog": {
+  "domains": [
+   "zrblog.net"
+  ],
+  "name": "赵容部落"
+ },
+ "cpcey": {
+  "domains": [
+   "cpc.ey.gov.tw"
+  ],
+  "name": "台湾行政院消费者保护会"
+ },
+ "bsky": {
+  "domains": [
+   "bsky.app"
+  ],
+  "name": "Bluesky (bsky)"
+ },
+ "bntnews": {
+  "domains": [
+   "bntnews.co.kr"
+  ],
+  "name": "bntnews"
+ },
+ "sysu": {
+  "domains": [
+   "cse.sysu.edu.cn"
+  ],
+  "name": "中山大学"
+ },
+ "instagram": {
+  "domains": [
+   "instagram.com"
+  ],
+  "name": "Instagram"
+ },
+ "azul": {
+  "domains": [
+   "azul.com"
+  ],
+  "name": "Azul"
+ },
+ "freexcomic": {
+  "domains": [
+   "freexcomic.com"
+  ],
+  "name": "漫小肆韓漫"
+ },
+ "njit": {
+  "domains": [
+   "jwc.njit.edu.cn"
+  ],
+  "name": "南京工程学院"
+ },
+ "jornada": {
+  "domains": [
+   "jornada.com.mx"
+  ],
+  "name": "La Jornada"
+ },
+ "ftchinese": {
+  "domains": [
+   "ftchinese.com"
+  ],
+  "name": "FT 中文网"
+ },
+ "smzdm": {
+  "domains": [
+   "post.smzdm.com"
+  ],
+  "name": "什么值得买"
+ },
+ "discuss": {
+  "domains": [
+   "discuss.com.hk"
+  ],
+  "name": "香港討論區"
+ },
+ "ycwb": {
+  "domains": [
+   "xwlb.com.cn"
+  ],
+  "name": "羊城晚报金羊网"
+ },
+ "idownloadblog": {
+  "domains": [
+   "idownloadblog.com"
+  ],
+  "name": "iDownloadBlog"
+ },
+ "ccagm": {
+  "domains": [
+   "ccagm.org.cn"
+  ],
+  "name": "中国百货商业协会"
+ },
+ "u3c3": {
+  "domains": [
+   "u3c3.com"
+  ],
+  "name": "U3C3"
+ },
+ "react": {
+  "domains": [
+   "react.dev"
+  ],
+  "name": "React"
+ },
+ "grainoil": {
+  "domains": [
+   "load.grainoil.com.cn"
+  ],
+  "name": "国家粮油信息中心"
+ },
+ "cags": {
+  "domains": [
+   "cags.cgs.gov.cn"
+  ],
+  "name": "Chinese Academy of Geological Sciences"
+ },
+ "95mm": {
+  "domains": [
+   "95mm.org"
+  ],
+  "name": "MM 范"
+ },
+ "sina": {
+  "domains": [
+   "finance.sina.com.cn"
+  ],
+  "name": "新浪"
+ },
+ "nyaa": {
+  "domains": [
+   "nyaa.si"
+  ],
+  "name": "Nyaa"
+ },
+ "tsinghua": {
+  "domains": [
+   "tsinghua.edu.cn"
+  ],
+  "name": "清华大学"
+ },
+ "fzu": {
+  "domains": [
+   "jwch.fzu.edu.cn"
+  ],
+  "name": "福州大学"
+ },
+ "wikinews": {
+  "domains": [
+   "zh.wikinews.org"
+  ],
+  "name": "维基新闻"
+ },
+ "aip": {
+  "domains": [
+   "pubs.aip.org"
+  ],
+  "name": "American Institute of Physics"
+ },
+ "iplaysoft": {
+  "domains": [
+   "iplaysoft.com"
+  ],
+  "name": "异次元软件世界"
+ },
+ "naturalism": {
+  "domains": [
+   "naturalism.org"
+  ],
+  "name": "Naturalism.org"
+ },
+ "caareviews": {
+  "domains": [
+   "caareviews.org"
+  ],
+  "name": "caa.reviews"
+ },
+ "cmde": {
+  "domains": [
+   "cmde.org.cn"
+  ],
+  "name": "国家药品监督管理局医疗器械技术审评中心"
+ },
+ "agirls": {
+  "domains": [
+   "agirls.aotter.net"
+  ],
+  "name": "电獭少女"
+ },
+ "bossdesign": {
+  "domains": [
+   "bossdesign.cn"
+  ],
+  "name": "Boss 设计"
+ },
+ "caam": {
+  "domains": [
+   "caam.org.cn"
+  ],
+  "name": "中国汽车工业协会"
+ },
+ "ithome": {
+  "domains": [
+   "ithome.com"
+  ],
+  "name": "iThome 台灣"
+ },
+ "towardsdatascience": {
+  "domains": [
+   "towardsdatascience.com"
+  ],
+  "name": "Towards Data Science"
+ },
+ "zjmuseum": {
+  "domains": [
+   "zjmuseum.com.cn/cn/"
+  ],
+  "name": "Zhejiang Provincial Museum"
+ },
+ "nsmc": {
+  "domains": [
+   "nsmc.org.cn"
+  ],
+  "name": "国家卫星气象中心"
+ },
+ "xmu": {
+  "domains": [
+   "soe.xmu.edu.cn"
+  ],
+  "name": "Xiamen University"
+ },
+ "theblock": {
+  "domains": [
+   "theblock.co"
+  ],
+  "name": "TheBlock"
+ },
+ "matters": {
+  "domains": [
+   "matters.town"
+  ],
+  "name": "Matters"
+ },
+ "agri": {
+  "domains": [
+   "agri.cn"
+  ],
+  "name": "中国农业农村信息网"
+ },
+ "withgoogle": {
+  "domains": [
+   "pair.withgoogle.com"
+  ],
+  "name": "People + AI Research (PAIR)"
+ },
+ "fanfou": {
+  "domains": [
+   "fanfou.com"
+  ],
+  "name": "饭否"
+ },
+ "segmentfault": {
+  "domains": [
+   "segmentfault.com"
+  ],
+  "name": "SegmentFault"
+ },
+ "storm": {
+  "domains": [
+   "storm.mg"
+  ],
+  "name": "風傳媒"
+ },
+ "scitechvista": {
+  "domains": [
+   "scitechvista.nat.gov.tw"
+  ],
+  "name": "科技大觀園"
+ },
+ "dpm": {
+  "domains": [
+   "dpm.org.cn"
+  ],
+  "name": "The Palace Museum"
+ },
+ "ipsw": {
+  "domains": [
+   "ipsw.me"
+  ],
+  "name": "IPSW.me"
+ },
+ "secretsanfrancisco": {
+  "domains": [
+   "secretsanfrancisco.com"
+  ],
+  "name": "Secret San francisco"
+ },
+ "engineering": {
+  "domains": [
+   "engineering.fyi"
+  ],
+  "name": "Engineering.fyi"
+ },
+ "luxiangdong": {
+  "domains": [
+   "luxiangdong.com"
+  ],
+  "name": "土猛的员外"
+ },
+ "sketis": {
+  "domains": [
+   "sketis.net"
+  ],
+  "name": "Sketis | Website of Dr. Makarius Wenzel"
+ },
+ "chinafactcheck": {
+  "domains": [
+   "chinafactcheck.com"
+  ],
+  "name": "有据"
+ },
+ "chocolatey": {
+  "domains": [
+   "chocolatey.org"
+  ],
+  "name": "Chocolatey"
+ },
+ "learnku": {
+  "domains": [
+   "learnku.com"
+  ],
+  "name": "LearnKu"
+ },
+ "sis001": {
+  "domains": [
+   "sis001.com"
+  ],
+  "name": "第一会所"
+ },
+ "lnmuseum": {
+  "domains": [
+   "lnmuseum.com.cn"
+  ],
+  "name": "Liaoning Provincial Museum"
+ },
+ "dcinside": {
+  "domains": [
+   "m.dcinside.com"
+  ],
+  "name": "dcinside"
+ },
+ "in-en": {
+  "domains": [
+   "in-en.com"
+  ],
+  "name": "国际能源网"
+ },
+ "swpu": {
+  "domains": [
+   "swpu.edu.cn"
+  ],
+  "name": "西南石油大学"
+ },
+ "yamibo": {
+  "domains": [
+   "yamibo.com"
+  ],
+  "name": "百合会"
+ },
+ "sketch": {
+  "domains": [
+   "sketch.com"
+  ],
+  "name": "sketch.com"
+ },
+ "jjwxc": {
+  "domains": [
+   "jjwxc.net"
+  ],
+  "name": "晋江文学城"
+ },
+ "wufazhuce": {
+  "domains": [
+   "wufazhuce.com"
+  ],
+  "name": "「ONE · 一个」"
+ },
+ "hbut": {
+  "domains": [
+   "hbut.edu.cn"
+  ],
+  "name": "湖北工业大学"
+ },
+ "mydrivers": {
+  "domains": [
+   "m.mydrivers.com"
+  ],
+  "name": "快科技"
+ },
+ "arcteryx": {
+  "domains": [
+   "arcteryx.com"
+  ],
+  "name": "Arcteryx"
+ },
+ "ajcass": {
+  "domains": [
+   "ajcass.com"
+  ],
+  "name": "社科期刊网"
+ },
+ "nowcoder": {
+  "domains": [
+   "nowcoder.com"
+  ],
+  "name": "牛客网"
+ },
+ "njxzc": {
+  "domains": [
+   "njxzc.edu.cn"
+  ],
+  "name": "南京晓庄学院"
+ },
+ "ccf": {
+  "domains": [
+   "ccf.org.cn"
+  ],
+  "name": "中国计算机学会"
+ },
+ "hkej": {
+  "domains": [
+   "hkej.com"
+  ],
+  "name": "信报财经新闻"
+ },
+ "npm": {
+  "domains": [
+   "npmjs.com"
+  ],
+  "name": "NPM"
+ },
+ "apache": {
+  "domains": [
+   "apisix.apache.org"
+  ],
+  "name": "Apache"
+ },
+ "touhougarakuta": {
+  "domains": [
+   "touhougarakuta.com"
+  ],
+  "name": "Touhougarakuta 东方我乐多丛志"
+ },
+ "nwafu": {
+  "domains": [
+   "nwafu.edu.cn"
+  ],
+  "name": "西北农林科技大学"
+ },
+ "xkb": {
+  "domains": [
+   "xkb.com.cn"
+  ],
+  "name": "新快报"
+ },
+ "51read": {
+  "domains": [
+   "m.51read.org"
+  ],
+  "name": "51Read"
+ },
+ "wto": {
+  "domains": [
+   "wto.org"
+  ],
+  "name": "World Trade Organization"
+ },
+ "webnovel": {
+  "domains": [
+   "webnovel.com"
+  ],
+  "name": "WebNovel"
+ },
+ "kosmofoto": {
+  "domains": [
+   "kosmofoto.com"
+  ],
+  "name": "Kosmo Foto"
+ },
+ "tenant-shop": {
+  "domains": [
+   "tenant-shop.com"
+  ],
+  "name": "Tenant Shop Network"
+ },
+ "eeo": {
+  "domains": [
+   "eeo.com.cn"
+  ],
+  "name": "经济观察网"
+ },
+ "thecover": {
+  "domains": [
+   "thecover.cn"
+  ],
+  "name": "封面新闻"
+ },
+ "banyuetan": {
+  "domains": [
+   "banyuetan.org"
+  ],
+  "name": "半月谈"
+ },
+ "oo-software": {
+  "domains": [
+   "oo-software.com"
+  ],
+  "name": "O&O Software"
+ },
+ "kzo.moe": {
+  "domains": [
+   "kzo.moe"
+  ],
+  "name": "Kmoe"
+ },
+ "samd": {
+  "domains": [
+   "samd.org.cn"
+  ],
+  "name": "深圳市医疗器械行业协会"
+ },
+ "hfut": {
+  "domains": [
+   "hfut.edu.cn"
+  ],
+  "name": "合肥工业大学"
+ },
+ "nua": {
+  "domains": [
+   "index.nua.edu.cn"
+  ],
+  "name": "Nanjing University of the Arts 南京艺术学院"
+ },
+ "36kr": {
+  "domains": [
+   "36kr.com"
+  ],
+  "name": "36kr"
+ },
+ "idolypride": {
+  "domains": [
+   "idolypride.jp"
+  ],
+  "name": "IDOLY PRIDE 偶像荣耀"
+ },
+ "isct": {
+  "domains": [
+   "isct.ac.jp"
+  ],
+  "name": "Institute of Science Tokyo"
+ },
+ "south-plus": {
+  "domains": [
+   "south-plus.net"
+  ],
+  "name": "South Plus"
+ },
+ "youmemark": {
+  "domains": [
+   "youmemark.com"
+  ],
+  "name": "YouMeMark"
+ },
+ "macfilos": {
+  "domains": [
+   "macfilos.com"
+  ],
+  "name": "Macfilos"
+ },
+ "wtu": {
+  "domains": [
+   "wtu.91wllm.com"
+  ],
+  "name": "武汉纺织大学"
+ },
+ "chiphell": {
+  "domains": [
+   "chiphell.com"
+  ],
+  "name": "Chiphell"
+ },
+ "gdmuseum": {
+  "domains": [
+   "gdmuseum.org.cn"
+  ],
+  "name": "Guangdong Museum"
+ },
+ "chuanliu": {
+  "domains": [
+   "chuanliu.org"
+  ],
+  "name": "川流"
+ },
+ "hackyournews": {
+  "domains": [
+   "hackyournews.com"
+  ],
+  "name": "HackYourNews"
+ },
+ "kmust": {
+  "domains": [
+   "kmust.edu.cn"
+  ],
+  "name": "昆明理工大学"
+ },
+ "xiaomiev": {
+  "domains": [
+   "xiaomiev.com"
+  ],
+  "name": "小米汽车"
+ },
+ "csust": {
+  "domains": [
+   "csust.edu.cn"
+  ],
+  "name": "长沙理工大学"
+ },
+ "theatlantic": {
+  "domains": [
+   "theatlantic.com"
+  ],
+  "name": "The Atlantic"
+ },
+ "newseed": {
+  "domains": [
+   "newseed.cn"
+  ],
+  "name": "新芽"
+ },
+ "hudsonrivertrading": {
+  "domains": [
+   "hudsonrivertrading.com"
+  ],
+  "name": "Hudson River Trading"
+ },
+ "sspu": {
+  "domains": [
+   "jwc.sspu.edu.cn"
+  ],
+  "name": "上海第二工业大学"
+ },
+ "beijingprice": {
+  "domains": [
+   "beijingprice.cn"
+  ],
+  "name": "北京价格"
+ },
+ "musify": {
+  "domains": [
+   "musify.club"
+  ],
+  "name": "musify"
+ },
+ "txks": {
+  "domains": [
+   "txks.org.cn"
+  ],
+  "name": "全国通信专业技术人员职业水平考试"
+ },
+ "zhihu": {
+  "domains": [
+   "zhihu.com"
+  ],
+  "name": "知乎"
+ },
+ "olevod": {
+  "domains": [
+   "olevod.one"
+  ],
+  "name": "欧乐影院"
+ },
+ "gamer": {
+  "domains": [
+   "acg.gamer.com.tw"
+  ],
+  "name": "巴哈姆特電玩資訊站"
+ },
+ "raspberrypi": {
+  "domains": [
+   "raspberrypi.com"
+  ],
+  "name": "Raspberry Pi"
+ },
+ "semiconductors": {
+  "domains": [
+   "semiconductors.org"
+  ],
+  "name": "Semiconductor Industry Association"
+ },
+ "thunderbird": {
+  "domains": [
+   "thunderbird.net"
+  ],
+  "name": "Thunderbird"
+ },
+ "melon": {
+  "domains": [
+   "melon.com"
+  ],
+  "name": "Melon"
+ },
+ "78dm": {
+  "domains": [
+   "78dm.net"
+  ],
+  "name": "78 动漫"
+ },
+ "reactnativenewsletter": {
+  "domains": [
+   "reactnativenewsletter.com"
+  ],
+  "name": "React Native Newsletter"
+ },
+ "last-origin": {
+  "domains": [
+   "last-origin.com"
+  ],
+  "name": "LastOrigin"
+ },
+ "eprice": {
+  "domains": [
+   "eprice.com.tw"
+  ],
+  "name": "ePrice"
+ },
+ "backlinko": {
+  "domains": [
+   "backlinko.com"
+  ],
+  "name": "Backlinko"
+ },
+ "pku": {
+  "domains": [
+   "admission.pku.edu.cn"
+  ],
+  "name": "北京大学"
+ },
+ "nudt": {
+  "domains": [
+   "nudt.edu.cn"
+  ],
+  "name": "中国人民解放军国防科技大学"
+ },
+ "lofter": {
+  "domains": [
+   "lofter.com"
+  ],
+  "name": "Lofter"
+ },
+ "ahau": {
+  "domains": [
+   "ahau.edu.cn"
+  ],
+  "name": "安徽农业大学"
+ },
+ "ssydt": {
+  "domains": [
+   "ssydt.com"
+  ],
+  "name": "时事一点通"
+ },
+ "disqus": {
+  "domains": [
+   "disqus.com"
+  ],
+  "name": "Disqus"
+ },
+ "scpta": {
+  "domains": [
+   "scpta.com.cn"
+  ],
+  "name": "四川省人力资源和社会保障厅人事考试专栏"
+ },
+ "sohu": {
+  "domains": [
+   "sohu.com"
+  ],
+  "name": "搜狐号"
+ },
+ "thegradient": {
+  "domains": [
+   "thegradient.pub"
+  ],
+  "name": "The Gradient"
+ },
+ "hitcon": {
+  "domains": [
+   "hitcon.org"
+  ],
+  "name": "HITCON"
+ },
+ "chikubi": {
+  "domains": [
+   "chikubi.jp"
+  ],
+  "name": "乳首ふぇち"
+ },
+ "last.fm": {
+  "domains": [
+   "last.fm"
+  ],
+  "name": "Last.fm"
+ },
+ "7mmtv": {
+  "domains": [
+   "7mmtv.tv"
+  ],
+  "name": "7mmtv"
+ },
+ "geekbang": {
+  "domains": [
+   "time.geekbang.org"
+  ],
+  "name": "极客时间"
+ },
+ "tophub": {
+  "domains": [
+   "tophub.today"
+  ],
+  "name": "今日热榜"
+ },
+ "nyc": {
+  "domains": [
+   "nyc.gov"
+  ],
+  "name": "New York City Government"
+ },
+ "patchwork.kernel.org": {
+  "domains": [
+   "patchwork.kernel.org"
+  ],
+  "name": "Linux Patchwork"
+ },
+ "scnu": {
+  "domains": [
+   "cs.scnu.edu.cn"
+  ],
+  "name": "华南师范大学"
+ },
+ "decrypt": {
+  "domains": [
+   "decrypt.co"
+  ],
+  "name": "Decrypt"
+ },
+ "mit": {
+  "domains": [
+   "mit.edu"
+  ],
+  "name": "Massachusetts Institute of Technology (MIT)"
+ },
+ "openai": {
+  "domains": [
+   "openai.com"
+  ],
+  "name": "OpenAI"
+ },
+ "tokyometro": {
+  "domains": [
+   "tokyometro.jp"
+  ],
+  "name": "Tokyo Metro"
+ },
+ "ele.me": {
+  "domains": [
+   "ele.me"
+  ],
+  "name": "饿了么"
+ },
+ "anquanke": {
+  "domains": [
+   "anquanke.com"
+  ],
+  "name": "安全客"
+ },
+ "bandisoft": {
+  "domains": [
+   "bandisoft.com"
+  ],
+  "name": "Bandisoft"
+ },
+ "zzuli": {
+  "domains": [
+   "zzuli.edu.cn"
+  ],
+  "name": "郑州轻工业大学"
+ },
+ "freecomputerbooks": {
+  "domains": [
+   "freecomputerbooks.com"
+  ],
+  "name": "Free Computer Books"
+ },
+ "ielts": {
+  "domains": [
+   "ielts.neea.cn"
+  ],
+  "name": "IELTS 雅思"
+ },
+ "fishshell": {
+  "domains": [
+   "fishshell.com"
+  ],
+  "name": "fish shell"
+ },
+ "dongqiudi": {
+  "domains": [
+   "m.dongqiudi.com"
+  ],
+  "name": "懂球帝"
+ },
+ "sony": {
+  "domains": [
+   "sony.com"
+  ],
+  "name": "Sony"
+ },
+ "linkedin": {
+  "domains": [
+   "linkedin.com"
+  ],
+  "name": "LinkedIn"
+ },
+ "blowstudio": {
+  "domains": [
+   "blowstudio.es"
+  ],
+  "name": "Blow Studio"
+ },
+ "gdufs": {
+  "domains": [
+   "gdufs.edu.cn"
+  ],
+  "name": "广东外语外贸大学"
+ },
+ "chinacdc": {
+  "domains": [
+   "chinacdc.cn"
+  ],
+  "name": "中国疾病预防控制中心"
+ },
+ "simpread": {
+  "domains": [
+   "simpread.pro"
+  ],
+  "name": "simpread"
+ },
+ "denonbu": {
+  "domains": [
+   "denonbu.jp"
+  ],
+  "name": "電音部"
+ },
+ "ccg": {
+  "domains": [
+   "ccg.org.cn"
+  ],
+  "name": "全球化智库"
+ },
+ "buaa": {
+  "domains": [
+   "news.buaa.edu.cn"
+  ],
+  "name": "北京航空航天大学"
+ },
+ "annualreviews": {
+  "domains": [
+   "annualreviews.org"
+  ],
+  "name": "Annual Reviews"
+ },
+ "mixcloud": {
+  "domains": [
+   "mixcloud.com"
+  ],
+  "name": "Mixcloud"
+ },
+ "dut": {
+  "domains": [
+   "dutdice.dlut.edu.cn"
+  ],
+  "name": "大连理工大学"
+ },
+ "yomiuri": {
+  "domains": [
+   "yomiuri.co.jp"
+  ],
+  "name": "Yomiuri Shimbun 読売新聞"
+ },
+ "ruankao": {
+  "domains": [
+   "ruankao.org.cn"
+  ],
+  "name": "中国计算机职业技术资格考试"
+ },
+ "guozaoke": {
+  "domains": [
+   "guozaoke.com"
+  ],
+  "name": "guozaoke"
+ },
+ "yahoo": {
+  "domains": [
+   "news.yahoo.com"
+  ],
+  "name": "Yahoo"
+ },
+ "yinxubwg": {
+  "domains": [
+   "yinxubwg.cn"
+  ],
+  "name": "Yinxu Museum"
+ },
+ "dockerhub": {
+  "domains": [
+   "hub.docker.com"
+  ],
+  "name": "Docker Hub"
+ },
+ "getdr": {
+  "domains": [
+   "getdr.com"
+  ],
+  "name": "趨勢科技防詐達人"
+ },
+ "sciencenet": {
+  "domains": [
+   "blog.sciencenet.cn"
+  ],
+  "name": "科学网"
+ },
+ "inoreader": {
+  "domains": [
+   "inoreader.com"
+  ],
+  "name": "Inoreader"
+ },
+ "1x": {
+  "domains": [
+   "1x.com"
+  ],
+  "name": "1x.com"
+ },
+ "3gmuseum": {
+  "domains": [
+   "3gmuseum.cn"
+  ],
+  "name": "Chongqing China Three Gorges Museum"
+ },
+ "acm": {
+  "domains": [
+   "amturing.acm.org"
+  ],
+  "name": "Association for Computing Machinery (ACM)"
+ },
+ "f-droid": {
+  "domains": [
+   "f-droid.org"
+  ],
+  "name": "F-Droid"
+ },
+ "scvtc": {
+  "domains": [
+   "scvtc.edu.cn"
+  ],
+  "name": "四川职业技术学院"
+ },
+ "binance": {
+  "domains": [
+   "binance.com"
+  ],
+  "name": "Binance"
+ },
+ "sdmuseum": {
+  "domains": [
+   "sdmuseum.com/"
+  ],
+  "name": "Shan Dong Museum"
+ },
+ "wmpvp": {
+  "domains": [
+   "wmpvp.com"
+  ],
+  "name": "完美世界电竞"
+ },
+ "missav": {
+  "domains": [
+   "missav.ws"
+  ],
+  "name": "MissAV"
+ },
+ "harvard": {
+  "domains": [
+   "health.harvard.edu"
+  ],
+  "name": "Harvard Health Publishing"
+ },
+ "sinchew": {
+  "domains": [
+   "sinchew.com.my"
+  ],
+  "name": "星洲网"
+ },
+ "mox": {
+  "domains": [
+   "mox.moe"
+  ],
+  "name": "Mox.moe"
+ },
+ "speedrun": {
+  "domains": [
+   "speedrun.com"
+  ],
+  "name": "Speedrun.com"
+ },
+ "4khd": {
+  "domains": [
+   "4khd.com"
+  ],
+  "name": "4KHD"
+ },
+ "zhishifenzi": {
+  "domains": [
+   "zhishifenzi.com"
+  ],
+  "name": "ZhiShiFenZi"
+ },
+ "nuist": {
+  "domains": [
+   "bulletin.nuist.edu.cn"
+  ],
+  "name": "南京信息工程大学"
+ },
+ "kaoyan": {
+  "domains": [
+   "tiaoji.kaoyan.com"
+  ],
+  "name": "考研网"
+ },
+ "afr": {
+  "domains": [
+   "afr.com"
+  ],
+  "name": "The Australian Financial Review"
+ },
+ "questmobile": {
+  "domains": [
+   "questmobile.com.cn"
+  ],
+  "name": "QuestMobile"
+ },
+ "ncc-cma": {
+  "domains": [
+   "cmdp.ncc-cma.net"
+  ],
+  "name": "国家气候中心"
+ },
+ "freshplaza": {
+  "domains": [
+   "freshplaza.com"
+  ],
+  "name": "FreshPlaza"
+ },
+ "aschmelyun": {
+  "domains": [
+   "aschmelyun.com"
+  ],
+  "name": "Andrew Schmelyun"
+ },
+ "fortnite": {
+  "domains": [
+   "fortnite.com"
+  ],
+  "name": "Fortnite"
+ },
+ "bakamh": {
+  "domains": [
+   "bakamh.com"
+  ],
+  "name": "巴卡漫画"
+ },
+ "mirror": {
+  "domains": [
+   "mirror.xyz"
+  ],
+  "name": "Mirror"
+ },
+ "kelownacapnews": {
+  "domains": [
+   "kelownacapnews.com"
+  ],
+  "name": "Kelowna Capital News"
+ },
+ "chuapp": {
+  "domains": [
+   "chuapp.com"
+  ],
+  "name": "触乐"
+ },
+ "lyu": {
+  "domains": [
+   "lyu.edu.cn"
+  ],
+  "name": "临沂大学"
+ },
+ "huanqiu": {
+  "domains": [
+   "huanqiu.com"
+  ],
+  "name": "环球网"
+ },
+ "counter-strike": {
+  "domains": [
+   "counter-strike.net"
+  ],
+  "name": "Counter Strike"
+ },
+ "wsyu": {
+  "domains": [
+   "wsyu.edu.cn"
+  ],
+  "name": "武昌首义学院"
+ },
+ "nasa": {
+  "domains": [
+   "apod.nasa.gov"
+  ],
+  "name": "NASA"
+ },
+ "ganjingworld": {
+  "domains": [
+   "ganjingworld.com/"
+  ],
+  "name": "Ganjing World"
+ },
+ "qq": {
+  "domains": [
+   "qq.com"
+  ],
+  "name": "腾讯网"
+ },
+ "cn-healthcare": {
+  "domains": [
+   "cn-healthcare.com"
+  ],
+  "name": "健康界"
+ },
+ "dytt": {
+  "domains": [
+   "dydytt.net"
+  ],
+  "name": "电影天堂"
+ },
+ "bjfu": {
+  "domains": [
+   "graduate.bjfu.edu.cn"
+  ],
+  "name": "北京林业大学"
+ },
+ "etherscan": {
+  "domains": [
+   "etherscan.io"
+  ],
+  "name": "Etherscan"
+ },
+ "elpais": {
+  "domains": [
+   "elpais.com"
+  ],
+  "name": "El País"
+ },
+ "taiwannews": {
+  "domains": [
+   "taiwannews.com.tw"
+  ],
+  "name": "Taiwan News"
+ }
+}

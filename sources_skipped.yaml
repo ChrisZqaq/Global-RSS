@@ -1,0 +1,61 @@
+skipped:
+- domain: google.com
+  bookmarks: 59
+  via: rsshub
+  rsshub_ns:
+  - google
+  note: 工具站/需账号，跳过
+- domain: substack.com
+  bookmarks: 7
+  via: rsshub
+  rsshub_ns:
+  - substack
+  note: 工具站/需账号，跳过
+- domain: rieti.go.jp
+  bookmarks: 3
+  via: rsshub
+  rsshub_ns:
+  - go
+  note: 工具站/需账号，跳过
+- domain: translate.google.com
+  bookmarks: 2
+  via: rsshub
+  rsshub_ns:
+  - google
+  note: 工具站/需账号，跳过
+- domain: manus.im
+  bookmarks: 2
+  via: rsshub
+  rsshub_ns:
+  - manus
+  note: 工具站/需账号，跳过
+- domain: mp.weixin.qq.com
+  bookmarks: 2
+  via: rsshub
+  rsshub_ns:
+  - qq
+  note: 工具站/需账号，跳过
+- domain: chromewebstore.google.com
+  bookmarks: 2
+  via: rsshub
+  rsshub_ns:
+  - google
+  note: 工具站/需账号，跳过
+- domain: ide.go.jp
+  bookmarks: 2
+  via: rsshub
+  rsshub_ns:
+  - go
+  note: 工具站/需账号，跳过
+- domain: wx.zsxq.com
+  bookmarks: 1
+  via: rsshub
+  rsshub_ns:
+  - zsxq
+  note: 工具站/需账号，跳过
+- domain: ft.com
+  bookmarks: 1
+  via: rsshub
+  rsshub_ns:
+  - ft
+  note: 工具站/需账号，跳过
