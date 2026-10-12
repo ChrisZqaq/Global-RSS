@@ -1,0 +1,195 @@
+# 筛选规则配置 —— LLM 每周复盘学习时修改此文件，不改动 filter.py 代码
+# 结构说明：
+#   exclude:              排除词（政治/军事），命中且不含 keep_even_if_excluded 词时丢弃
+#   keep_even_if_excluded: 保留词，政军背景下的经济/科技新闻仍保留
+#   topics:               主题词表（china / tech / econ），命中任一主题即入选候选
+#   flash_patterns:       快讯/行情短讯正则，配合长度阈值丢弃
+#   flash_sources:        滚动短讯源关键词（匹配信源域名/路由），整体从严
+#   thresholds:           长度阈值
+
+exclude:
+  - war
+  - missile
+  - military
+  - army
+  - navy
+  - troops
+  - weapon
+  - drone strike
+  - election
+  - senate
+  - congress
+  - parliament
+  - ballot
+  - campaign rally
+  - coup
+  - protest
+  - indict
+  - verdict
+  - impeach
+  - geopolitical tension
+  - 战争
+  - 导弹
+  - 军演
+  - 军队
+  - 武器
+  - 选举
+  - 议会
+  - 政变
+  - 弹劾
+  - 抗议
+
+keep_even_if_excluded:
+  - sanction
+  - tariff
+  - trade
+  - export control
+  - chip ban
+  - supply chain
+  - 制裁
+  - 关税
+  - 出口管制
+  - 贸易
+  - 供应链
+  - 汇率
+  - 利率
+
+topics:
+  china:
+    - china
+    - chinese
+    - beijing
+    - shanghai
+    - shenzhen
+    - hong kong
+    - taiwan
+    - xi jinping
+    - li qiang
+    - pboc
+    - yuan
+    - renminbi
+    - brics
+    - 中国
+    - 北京
+    - 上海
+    - 深圳
+    - 香港
+    - 台湾
+    - 人民币
+    - 央行
+    - 国务院
+    - 发改委
+  tech:
+    - " ai "
+    - artificial intelligence
+    - llm
+    - chatgpt
+    - openai
+    - anthropic
+    - deepseek
+    - semiconductor
+    - chip
+    - nvidia
+    - tsmc
+    - quantum
+    - robot
+    - biotech
+    - spacex
+    - satellite
+    - battery
+    - "ev "
+    - electric vehicle
+    - data center
+    - supercomput
+    - 6g
+    - 5g
+    - photon
+    - fusion
+    - 人工智能
+    - 大模型
+    - 芯片
+    - 半导体
+    - 量子
+    - 机器人
+    - 商业航天
+    - 固态电池
+    - 核聚变
+  econ:
+    - fed
+    - federal reserve
+    - interest rate
+    - rate cut
+    - rate hike
+    - inflation
+    - treasury
+    - bond
+    - yield
+    - stock market
+    - wall street
+    - nasdaq
+    - s&p
+    - gdp
+    - cpi
+    - pmi
+    - recession
+    - central bank
+    - ecb
+    - boj
+    - imf
+    - world bank
+    - oil price
+    - gold price
+    - dollar
+    - currency
+    - ipo
+    - earnings
+    - tariff
+    - sanction
+    - trade war
+    - supply chain
+    - debt
+    - deficit
+    - stimulus
+    - 美联储
+    - 降息
+    - 加息
+    - 通胀
+    - 国债
+    - 收益率
+    - 股市
+    - 经济
+    - 金融
+    - 央行
+    - 财政
+    - 油价
+    - 金价
+    - 美元
+    - 贸易
+    - 关税
+    - 制裁
+    - 债
+
+flash_patterns:
+  - "高開|高开|低開|低开|收涨|收跌|漲停|涨停|跌停|午盘|早盘|收盘报|开盘报"
+  - "今日开盘|今日收盘|午评|收评|盘前|盘中"
+  - "快讯|快訊|实时新闻|滚动新闻"
+  - "\\b(markets?|stocks?|shares?|futures?)\\s+(open|close)s?\\s+(higher|lower|up|down|flat)\\b"
+  - "\\b(open|close)s?\\s+(up|down)\\s+\\d"
+  - "^[A-Z][^.!?]{0,80}(rise|fell|rose|gain|drop)s?\\s+\\d+(\\.\\d+)?%"
+  - "开盘.{0,20}[涨跌]\\s*\\d|收[盘盡].{0,20}[涨跌]\\s*\\d"
+  - "^\\S{2,10}[：:]\\s*.{0,60}[涨跌]幅?\\s+\\d+(\\.\\d+)?%"
+
+flash_sources:
+  - sina
+  - rollnews
+  - live
+  - telegraph
+  - kuaixun
+
+thresholds:
+  min_text_len: 150       # 标题+摘要低于此长度视为太短
+  min_title_len: 12       # 标题本身太短（几个字快讯标题）
+  hard_min_text_len: 120  # 低于此长度无条件丢弃
+  flash_news_max_len: 300 # 命中快讯正则且短于此长度丢弃
+  flash_wrap_max_len: 500 # 标题堆叠行情词且正文短于此长度丢弃
+  flash_source_max_len: 250  # 快讯源整体从严的长度线

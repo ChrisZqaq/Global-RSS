@@ -1,92 +1,56 @@
 #!/usr/bin/env python3
 """筛选层：从抓取条目里筛出 中国相关 / 全球科技前沿 / 经济金融，排除政治军事。
+规则全部来自 filter_rules.yaml —— LLM 复盘学习只改 YAML，不改本文件。
 用法: python filter.py [entries_xxx.jsonl]   默认用最新一批。"""
 import json, re, sys, glob
+from pathlib import Path
 
-# ---- 排除词：政治 / 军事（命中且不含保留词时丢弃）----
-EXCLUDE = [
-    'war', 'missile', 'military', 'army', 'navy', 'troops', 'weapon', 'drone strike',
-    'election', 'senate', 'congress', 'parliament', 'ballot', 'campaign rally',
-    'coup', 'protest', 'indict', 'verdict', 'impeach', 'geopolitical tension',
-    '战争', '导弹', '军演', '军队', '武器', '选举', '议会', '政变', '弹劾', '抗议',
-]
-# ---- 保留词：即使含排除词也保留（政军背景下的经济/科技新闻仍要）----
-KEEP_EVEN_IF_EXCLUDED = [
-    'sanction', 'tariff', 'trade', 'export control', 'chip ban', 'supply chain',
-    '制裁', '关税', '出口管制', '贸易', '供应链', '汇率', '利率',
-]
-# ---- 主题词 ----
-TOPICS = {
-    'china': [
-        'china', 'chinese', 'beijing', 'shanghai', 'shenzhen', 'hong kong', 'taiwan',
-        'xi jinping', 'li qiang', 'pboc', 'yuan', 'renminbi', 'brics',
-        '中国', '北京', '上海', '深圳', '香港', '台湾', '人民币', '央行', '国务院', '发改委',
-    ],
-    'tech': [
-        ' ai ', 'artificial intelligence', 'llm', 'chatgpt', 'openai', 'anthropic',
-        'deepseek', 'semiconductor', 'chip', 'nvidia', 'tsmc', 'quantum', 'robot',
-        'biotech', 'spacex', 'satellite', 'battery', 'ev ', 'electric vehicle',
-        'data center', 'supercomput', '6g', '5g', 'photon', 'fusion',
-        '人工智能', '大模型', '芯片', '半导体', '量子', '机器人', '商业航天', '固态电池', '核聚变',
-    ],
-    'econ': [
-        'fed', 'federal reserve', 'interest rate', 'rate cut', 'rate hike', 'inflation',
-        'treasury', 'bond', 'yield', 'stock market', 'wall street', 'nasdaq', 's&p',
-        'gdp', 'cpi', 'pmi', 'recession', 'central bank', 'ecb', 'boj', 'imf', 'world bank',
-        'oil price', 'gold price', 'dollar', 'currency', 'ipo', 'earnings', 'tariff',
-        'sanction', 'trade war', 'supply chain', 'debt', 'deficit', 'stimulus',
-        '美联储', '降息', '加息', '通胀', '国债', '收益率', '股市', '经济', '金融',
-        '央行', '财政', '油价', '金价', '美元', '贸易', '关税', '制裁', '债',
-    ],
-}
+import yaml
+
+RULES_PATH = Path(__file__).parent / 'filter_rules.yaml'
+
+def load_rules():
+    r = yaml.safe_load(open(RULES_PATH, encoding='utf-8'))
+    return {
+        'exclude': [w.lower() for w in r.get('exclude', [])],
+        'keep': [w.lower() for w in r.get('keep_even_if_excluded', [])],
+        'topics': {k: [w.lower() for w in v] for k, v in r.get('topics', {}).items()},
+        'flash_re': [re.compile(p, re.I) for p in r.get('flash_patterns', [])],
+        'flash_sources': set(r.get('flash_sources', [])),
+        'th': r.get('thresholds', {}),
+    }
+
+RULES = load_rules()
+MOVE_RE = re.compile(r'涨|跌|上扬|回落|走高|走低|%|％')
 
 def classify(text):
     t = f' {text.lower()} '
-    topics = [k for k, words in TOPICS.items()
+    topics = [k for k, words in RULES['topics'].items()
               if any(w.strip() and f' {w} ' in t or w in t for w in words)]
-    excluded = any(w in t for w in EXCLUDE)
-    kept = any(w in t for w in KEEP_EVEN_IF_EXCLUDED)
+    excluded = any(w in t for w in RULES['exclude'])
+    kept = any(w in t for w in RULES['keep'])
     if excluded and not kept:
         return [], 'politics/military'
     return topics, None
 
-# ---- 快讯/短讯模式：开盘收盘、盘中涨跌、一句话行情 ----
-FLASH_PATTERNS = [
-    r'高開|高开|低開|低开|收涨|收跌|漲停|涨停|跌停|午盘|早盘|收盘报|开盘报',
-    r'今日开盘|今日收盘|午评|收评|盘前|盘中',
-    r'快讯|快訊|实时新闻|滚动新闻',
-    r'\b(markets?|stocks?|shares?|futures?)\s+(open|close)s?\s+(higher|lower|up|down|flat)\b',
-    r'\b(open|close)s?\s+(up|down)\s+\d',
-    r'^[A-Z][^.!?]{0,80}(rise|fell|rose|gain|drop)s?\s+\d+(\.\d+)?%',
-    r'开盘.{0,20}[涨跌]\s*\d|收[盘盡].{0,20}[涨跌]\s*\d',
-    r'^\S{2,10}[：:]\s*.{0,60}[涨跌]幅?\s*\d+(\.\d+)?%',
-]
-FLASH_RE = [re.compile(p, re.I) for p in FLASH_PATTERNS]
-MOVE_RE = re.compile(r'涨|跌|上扬|回落|走高|走低|%|％')
-
-# 快讯类源（滚动短讯源，整体降权：只有足够长的才保留）
-FLASH_SOURCES = {'sina', 'rollnews', 'live', 'telegraph', 'kuaixun'}
-
-MIN_TEXT_LEN = 150   # 标题+摘要低于此长度视为太短
-MIN_TITLE_LEN = 12   # 标题本身太短的（如只有几个字的快讯标题）
-
 def is_flash(e, src_route=''):
+    th = RULES['th']
     title, summary = e.get('title', ''), e.get('summary', '')
     text_len = len(title) + len(summary)
     # 标题+摘要总长度过短：没有实质内容，直接丢弃
-    if text_len < 120:
+    if text_len < th.get('hard_min_text_len', 120):
         return 'too-short'
     # 纯开盘/收盘报数类标题：无论正文多长都是快讯，无条件丢弃
     if re.search(r'今日开盘|今日收盘|午评|收评|开盘报|收盘报|盘中异动', title):
         return 'flash-open-close'
-    if text_len < MIN_TEXT_LEN and any(r.search(title) for r in FLASH_RE):
+    if text_len < th.get('min_text_len', 150) and any(r.search(title) for r in RULES['flash_re']):
         return 'flash-short'
-    if any(r.search(title) for r in FLASH_RE) and text_len < 300:
+    if any(r.search(title) for r in RULES['flash_re']) and text_len < th.get('flash_news_max_len', 300):
         return 'flash-news'
     # 标题堆叠多个行情动作词（市场综述式快讯），且正文不长
-    if len(MOVE_RE.findall(title)) >= 3 and text_len < 500:
+    if len(MOVE_RE.findall(title)) >= 3 and text_len < th.get('flash_wrap_max_len', 500):
         return 'flash-wrap'
-    if any(k in (src_route or '') for k in FLASH_SOURCES) and text_len < 250:
+    if any(k in (src_route or '') for k in RULES['flash_sources']) and text_len < th.get('flash_source_max_len', 250):
         return 'flash-source'
     return None
 

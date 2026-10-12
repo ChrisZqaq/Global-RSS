@@ -25,7 +25,14 @@ app = FastAPI()
 app.add_middleware(CORSMiddleware, allow_origins=['*'], allow_methods=['*'], allow_headers=['*'])
 
 def load_overrides():
-    return json.loads(OVERRIDES.read_text()) if OVERRIDES.exists() else {}
+    """返回 {key: {'action': 'include'|'exclude', 'reason': str, 'ts': int}}，兼容旧的纯字符串格式"""
+    if not OVERRIDES.exists():
+        return {}
+    raw = json.loads(OVERRIDES.read_text())
+    out = {}
+    for k, v in raw.items():
+        out[k] = {'action': v, 'reason': '', 'ts': 0} if isinstance(v, str) else v
+    return out
 
 def save_overrides(o):
     OVERRIDES.write_text(json.dumps(o, ensure_ascii=False, indent=1))
@@ -52,42 +59,49 @@ def entry_key(e):
     return e.get('link') or (e['source'] + '|' + e['title'])
 
 def latest_entries():
-    """抓取批次与筛选结果按时间戳配对，合并出带状态的条目列表"""
-    ffiles = sorted(glob.glob(str(ROOT / 'output' / 'filtered_*.jsonl')))
+    """合并最近 12h 内所有抓取批次与筛选结果，输出带状态的条目列表"""
+    now = time.time()
+    cutoff = now - 12 * 3600
+
+    def file_ts(path, prefix):
+        try:
+            return time.mktime(time.strptime(path.split(prefix)[-1].replace('.jsonl', ''), '%Y%m%d_%H%M%S'))
+        except Exception:
+            return 0
+
     picked = {}
-    ts = None
-    if ffiles:
-        ts = ffiles[-1].split('filtered_')[-1].replace('.jsonl', '')
-        for line in open(ffiles[-1], encoding='utf-8'):
+    for f in glob.glob(str(ROOT / 'output' / 'filtered_*.jsonl')):
+        if file_ts(f, 'filtered_') < cutoff:
+            continue
+        for line in open(f, encoding='utf-8'):
             if line.strip():
                 e = json.loads(line)
                 picked[entry_key(e)] = e.get('topics', [])
     entries = {}
-    efiles = sorted(glob.glob(str(ROOT / 'output' / 'entries_*.jsonl')))
-    # 优先与筛选结果同批次的抓取文件；再补充最近一批
-    chosen = [f for f in efiles if ts and f'entries_{ts}' in f] or []
-    chosen += efiles[-1:]
-    for f in dict.fromkeys(chosen):
+    for f in glob.glob(str(ROOT / 'output' / 'entries_*.jsonl')):
+        if file_ts(f, 'entries_') < cutoff:
+            continue
         for line in open(f, encoding='utf-8'):
             if line.strip():
                 e = json.loads(line)
                 entries[entry_key(e)] = e
     overrides = load_overrides()
     out = []
-    now = time.time()
     for k, e in entries.items():
         ets = entry_ts(e)
         if ets is not None and now - ets > 12 * 3600:
             continue  # 界面只展示 12 小时内
         auto = k in picked
-        ov = overrides.get(k)  # 'include' | 'exclude'
-        final = (ov == 'include') if ov else (False if ov == 'exclude' else auto)
+        o = overrides.get(k)
+        ov = o['action'] if o else None  # 'include' | 'exclude'
+        final = (ov == 'include') if ov else auto
         out.append({
             'key': k, 'source': e['source'], 'source_zh': zh_name(e['source']),
             'title': e['title'], 'link': e.get('link', ''),
             'published': e.get('published', ''), 'ts': ets, 'summary': e.get('summary', '')[:300],
             'auto_selected': auto, 'topics': picked.get(k, []),
-            'override': ov, 'final_selected': final,
+            'override': ov, 'override_reason': (o or {}).get('reason', ''),
+            'final_selected': final,
         })
     out.sort(key=lambda x: -(x['ts'] or 0))
     return out
@@ -175,6 +189,9 @@ def entries():
 class Override(BaseModel):
     key: str
     action: str  # include | exclude | clear
+    reason: str = ''       # 可选理由，供 LLM 复盘学习
+    title: str = ''        # 快照，便于复盘时理解上下文
+    source: str = ''
 
 @app.post('/api/override')
 def set_override(o: Override):
@@ -182,6 +199,12 @@ def set_override(o: Override):
     if o.action == 'clear':
         ov.pop(o.key, None)
     else:
-        ov[o.key] = o.action
+        ov[o.key] = {'action': o.action, 'reason': o.reason, 'ts': int(time.time())}
     save_overrides(ov)
+    # 学习日志：每次人工操作追加一行，LLM 复盘时读取
+    with open(STATE / 'overrides_log.jsonl', 'a', encoding='utf-8') as f:
+        f.write(json.dumps({
+            'ts': int(time.time()), 'key': o.key, 'action': o.action,
+            'reason': o.reason, 'title': o.title, 'source': o.source,
+        }, ensure_ascii=False) + '\n')
     return {'ok': True}
