@@ -4,9 +4,11 @@ import { Check, X, Undo2, ExternalLink, ChevronDown, ChevronRight } from 'lucide
 export interface Entry {
   key: string
   source: string
+  source_zh: string
   title: string
   link: string
   published: string
+  ts: number | null
   summary: string
   auto_selected: boolean
   topics: string[]
@@ -86,31 +88,54 @@ export default function EntriesView() {
     load()
   }
 
+  const [tag, setTag] = useState<'all' | 'china' | 'tech' | 'econ' | 'manual'>('all')
+
   const groups = useMemo(() => {
-    const filtered = entries.filter(e => !q || e.title.toLowerCase().includes(q.toLowerCase()) || e.source.includes(q.toLowerCase()))
+    const filtered = entries.filter(e => {
+      if (q && !e.title.toLowerCase().includes(q.toLowerCase()) && !e.source.includes(q.toLowerCase()) && !(e.source_zh || '').includes(q)) return false
+      if (tag === 'manual') return !!e.override
+      if (tag !== 'all') return e.topics.includes(tag)
+      return true
+    })
     const m = new Map<string, Entry[]>()
     for (const e of filtered) {
       if (!m.has(e.source)) m.set(e.source, [])
       m.get(e.source)!.push(e)
     }
+    const ts = (e: Entry) => e.ts || Date.parse(e.published) || 0
     return [...m.entries()]
       .map(([source, list]) => ({
         source,
-        sel: list.filter(e => e.final_selected).sort((a, b) => Date.parse(b.published) - Date.parse(a.published)),
-        rest: list.filter(e => !e.final_selected).sort((a, b) => Date.parse(b.published) - Date.parse(a.published)),
+        zh: list[0]?.source_zh || '',
+        sel: list.filter(e => e.final_selected).sort((a, b) => ts(b) - ts(a)),
+        rest: list.filter(e => !e.final_selected).sort((a, b) => ts(b) - ts(a)),
+        latest: Math.max(...list.map(ts)),
       }))
       .filter(g => g.sel.length + g.rest.length > 0)
-      .sort((a, b) => b.sel.length - a.sel.length || b.rest.length - a.rest.length)
-  }, [entries, q])
+      .sort((a, b) => b.latest - a.latest)  // 有更新的组排前面
+  }, [entries, q, tag])
 
   if (loading) return <div className="py-20 text-center text-sm text-slate-400">加载中…</div>
 
+  const TAGS = [
+    ['all', '全部', ''], ['china', '中国', 'text-blue-600'], ['tech', '科技', 'text-violet-600'],
+    ['econ', '经济', 'text-amber-600'], ['manual', '人工标记', 'text-orange-500'],
+  ] as const
+
   return (
     <div>
-      <div className="mb-4 flex items-center gap-3">
+      <div className="mb-4 flex flex-wrap items-center gap-3">
         <input value={q} onChange={e => setQ(e.target.value)} placeholder="搜索标题或信源…"
           className="h-9 w-72 rounded-lg border border-slate-200 bg-white px-3 text-[13px] outline-none focus:border-indigo-300 focus:ring-2 focus:ring-indigo-100" />
-        <span className="text-[12px] text-slate-400">绿色圆点 = 入选简报，灰色 = 已筛除；悬停可人工反转</span>
+        <div className="flex gap-1 rounded-lg bg-slate-100 p-1">
+          {TAGS.map(([k, label, cls]) => (
+            <button key={k} onClick={() => setTag(k)}
+              className={`rounded-md px-3 py-1 text-[12px] font-medium transition ${tag === k ? `bg-white shadow-sm ${cls || 'text-indigo-700'}` : 'text-slate-500 hover:text-slate-700'}`}>
+              {label}
+            </button>
+          ))}
+        </div>
+        <span className="text-[12px] text-slate-400">绿点 = 入选简报，灰色 = 已筛除；悬停可人工反转</span>
       </div>
       <div className="space-y-3">
         {groups.map(g => {
@@ -120,7 +145,8 @@ export default function EntriesView() {
               <button onClick={() => setCollapsed(c => ({ ...c, [g.source]: !c[g.source] }))}
                 className="flex w-full items-center gap-2 bg-slate-50/70 px-4 py-2.5 text-left hover:bg-slate-100/70">
                 {isCollapsed ? <ChevronRight size={14} className="text-slate-400" /> : <ChevronDown size={14} className="text-slate-400" />}
-                <span className="text-[13px] font-semibold text-slate-700">{g.source}</span>
+                <span className="text-[13px] font-semibold text-slate-700">{g.zh || g.source}</span>
+                {g.zh && <span className="text-[11px] text-slate-400">{g.source}</span>}
                 <span className="ml-auto text-[11px] text-slate-400">
                   <b className="text-emerald-600">{g.sel.length}</b> 入选 / {g.rest.length} 筛除
                 </span>

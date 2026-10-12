@@ -30,6 +30,24 @@ def load_overrides():
 def save_overrides(o):
     OVERRIDES.write_text(json.dumps(o, ensure_ascii=False, indent=1))
 
+_names = None
+def zh_name(domain):
+    global _names
+    if _names is None:
+        p = ROOT / 'source_names.yaml'
+        _names = yaml.safe_load(open(p, encoding='utf-8')) if p.exists() else {}
+    return _names.get(domain, '')
+
+def entry_ts(e):
+    """条目的 epoch 时间：优先 ts 字段，否则解析 published"""
+    if e.get('ts'):
+        return e['ts']
+    import email.utils
+    try:
+        return email.utils.parsedate_to_datetime(e.get('published', '')).timestamp()
+    except Exception:
+        return None
+
 def entry_key(e):
     return e.get('link') or (e['source'] + '|' + e['title'])
 
@@ -56,16 +74,22 @@ def latest_entries():
                 entries[entry_key(e)] = e
     overrides = load_overrides()
     out = []
+    now = time.time()
     for k, e in entries.items():
+        ets = entry_ts(e)
+        if ets is not None and now - ets > 12 * 3600:
+            continue  # 界面只展示 12 小时内
         auto = k in picked
         ov = overrides.get(k)  # 'include' | 'exclude'
         final = (ov == 'include') if ov else (False if ov == 'exclude' else auto)
         out.append({
-            'key': k, 'source': e['source'], 'title': e['title'], 'link': e.get('link', ''),
-            'published': e.get('published', ''), 'summary': e.get('summary', '')[:300],
+            'key': k, 'source': e['source'], 'source_zh': zh_name(e['source']),
+            'title': e['title'], 'link': e.get('link', ''),
+            'published': e.get('published', ''), 'ts': ets, 'summary': e.get('summary', '')[:300],
             'auto_selected': auto, 'topics': picked.get(k, []),
             'override': ov, 'final_selected': final,
         })
+    out.sort(key=lambda x: -(x['ts'] or 0))
     return out
 
 @app.get('/api/stats')
@@ -76,9 +100,10 @@ def stats():
     cfg = yaml.safe_load(open(ROOT / 'sources.yaml', encoding='utf-8'))
     reports = sorted(glob.glob(str(ROOT / 'output' / 'fetch_report_*.json')))
     last = json.load(open(reports[-1])) if reports else {}
+    real_failed = sum(1 for f in last.get('failures', []) if not str(f.get('error', '')).startswith('empty-feed'))
     return {
         'sources_total': len(cfg['sources']),
-        'sources_ok': last.get('sources_ok', 0),
+        'sources_ok': len(cfg['sources']) - real_failed,
         'last_fetch': last.get('ran_at', ''),
         'entries_total': len(entries),
         'selected': len(sel),
@@ -97,14 +122,22 @@ def sources():
     if (STATE / 'disabled_sources.json').exists():
         disabled = set(json.loads((STATE / 'disabled_sources.json').read_text()))
     reports = sorted(glob.glob(str(ROOT / 'output' / 'fetch_report_*.json')))
-    failed = set()
+    failed, quiet = set(), set()
     if reports:
-        failed = {f['domain'] for f in json.load(open(reports[-1])).get('failures', [])}
+        for f in json.load(open(reports[-1])).get('failures', []):
+            if str(f.get('error', '')).startswith('empty-feed'):
+                quiet.add(f['domain'])   # 可达但 12h 内无更新，不算失败
+            else:
+                failed.add(f['domain'])
     return [{
-        'domain': s['domain'], 'via': s['via'], 'feed': s.get('feed', ''),
+        'domain': s['domain'], 'name_zh': zh_name(s['domain']), 'via': s['via'],
+        'site_url': f"https://{s['domain']}",
+        'feed': s.get('feed', ''),
+        'route': s.get('route', ''),
         'bookmarks': s.get('bookmarks', 0),
         'enabled': s['domain'] not in disabled,
         'healthy': s['domain'] not in failed,
+        'quiet': s['domain'] in quiet,
     } for s in cfg['sources']]
 
 class NewSource(BaseModel):

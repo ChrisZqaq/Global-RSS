@@ -3,11 +3,15 @@ import { Plus, Globe, Rss } from 'lucide-react'
 
 interface Source {
   domain: string
+  name_zh: string
   via: string
+  site_url: string
   feed: string
+  route: string
   bookmarks: number
   enabled: boolean
   healthy: boolean
+  quiet: boolean
 }
 
 export default function SourcesView() {
@@ -36,7 +40,7 @@ export default function SourcesView() {
   }
 
   const list = useMemo(() =>
-    sources.filter(s => !q || s.domain.includes(q.toLowerCase()))
+    sources.filter(s => !q || s.domain.includes(q.toLowerCase()) || (s.name_zh || '').includes(q))
       .sort((a, b) => Number(b.enabled) - Number(a.enabled) || Number(b.healthy) - Number(a.healthy) || b.bookmarks - a.bookmarks),
     [sources, q])
 
@@ -61,9 +65,9 @@ export default function SourcesView() {
           <thead>
             <tr className="border-b border-slate-200 bg-slate-50/70 text-left text-[11.5px] text-slate-400">
               <th className="px-4 py-2.5 font-medium">状态</th>
-              <th className="px-4 py-2.5 font-medium">域名</th>
+              <th className="px-4 py-2.5 font-medium">信源</th>
               <th className="px-4 py-2.5 font-medium">接入方式</th>
-              <th className="px-4 py-2.5 font-medium">Feed 地址</th>
+              <th className="px-4 py-2.5 font-medium">网站</th>
               <th className="px-4 py-2.5 text-right font-medium">启用</th>
             </tr>
           </thead>
@@ -71,19 +75,36 @@ export default function SourcesView() {
             {list.map(s => (
               <tr key={s.domain} className={`border-b border-slate-100 last:border-0 ${s.enabled ? '' : 'opacity-45'}`}>
                 <td className="px-4 py-2">
-                  <span className={`inline-flex items-center gap-1.5 text-[11.5px] ${s.healthy ? 'text-emerald-600' : 'text-red-500'}`}>
-                    <span className={`h-2 w-2 rounded-full ${s.healthy ? 'bg-emerald-500' : 'bg-red-400'}`} />
-                    {s.healthy ? '正常' : '失败'}
-                  </span>
+                  {s.healthy ? (
+                    s.quiet ? (
+                      <span className="inline-flex items-center gap-1.5 text-[11.5px] text-amber-600" title="源可达，但最近 12 小时内没有新内容">
+                        <span className="h-2 w-2 rounded-full bg-amber-400" />静默
+                      </span>
+                    ) : (
+                      <span className="inline-flex items-center gap-1.5 text-[11.5px] text-emerald-600">
+                        <span className="h-2 w-2 rounded-full bg-emerald-500" />正常
+                      </span>
+                    )
+                  ) : (
+                    <span className="inline-flex items-center gap-1.5 text-[11.5px] text-red-500">
+                      <span className="h-2 w-2 rounded-full bg-red-400" />失败
+                    </span>
+                  )}
                 </td>
-                <td className="px-4 py-2 font-medium text-slate-700">{s.domain}</td>
+                <td className="px-4 py-2">
+                  {s.name_zh && <div className="font-medium text-slate-700">{s.name_zh}</div>}
+                  <div className={`text-[11.5px] ${s.name_zh ? 'text-slate-400' : 'font-medium text-slate-700'}`}>{s.domain}</div>
+                </td>
                 <td className="px-4 py-2">
                   <span className={`inline-flex items-center gap-1 rounded border px-1.5 py-px text-[11px] font-medium ${s.via === 'native' ? 'border-sky-200 bg-sky-50 text-sky-600' : 'border-orange-200 bg-orange-50 text-orange-600'}`}>
                     {s.via === 'native' ? <Rss size={10} /> : <Globe size={10} />}
-                    {s.via === 'native' ? '原生 RSS' : 'RSSHub'}
+                    {s.via === 'native' ? '原生 RSS' : 'RSSHub 转制'}
                   </span>
                 </td>
-                <td className="max-w-[320px] truncate px-4 py-2 text-[12px] text-slate-400">{s.feed}</td>
+                <td className="max-w-[260px] truncate px-4 py-2 text-[12px]">
+                  <a href={s.site_url} target="_blank" rel="noreferrer" className="text-indigo-500 hover:underline">{s.site_url}</a>
+                  {s.via === 'rsshub' && s.route && <div className="text-[11px] text-slate-400">路由 {s.route}</div>}
+                </td>
                 <td className="px-4 py-2 text-right">
                   <button onClick={() => toggle(s)}
                     className={`relative inline-flex h-5 w-9 items-center rounded-full transition ${s.enabled ? 'bg-indigo-600' : 'bg-slate-300'}`}>
