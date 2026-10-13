@@ -1,6 +1,0 @@
-{"timestamp":"2026-10-12 22:18:11.722","level":"info","message":"🎉 RSSHub is running on port 1200! Cheers!"}
-{"timestamp":"2026-10-12 22:18:11.723","level":"info","message":"🔗 Local: 👉 http://localhost:1200"}
-{"timestamp":"2026-10-12 22:18:11.723","level":"info","message":"🔗 Network: 👉 http://192.168.31.131:1200"}
-{"timestamp":"2026-10-12 22:18:11.723","level":"info","message":"🔗 Network: 👉 http://[::]:1200"}
-{"timestamp":"2026-10-12 22:18:18.852","level":"info","message":"<-- GET /"}
-{"timestamp":"2026-10-12 22:18:18.860","level":"info","message":"--> GET / \u001b[32m200\u001b[0m 8ms"}
